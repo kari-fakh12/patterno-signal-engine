@@ -1,0 +1,77 @@
+name: Wöchentlicher Signal-Lauf
+
+# Die Aufgabe verlangt ein System, das jede Woche automatisch Accounts
+# liefert. Deshalb läuft die Engine hier von selbst, nicht auf Zuruf.
+#
+# Montag früh, weil der Vertrieb die Woche mit der Liste anfangen soll.
+# workflow_dispatch zusätzlich, damit man den Lauf im Gespräch live zeigen kann.
+on:
+  schedule:
+    - cron: "0 6 * * 1"        # Montag 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write              # der Lauf schreibt Ergebnis und State zurück
+
+concurrency:
+  group: signal-lauf
+  cancel-in-progress: false
+
+jobs:
+  signale:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45        # der volle TED-Zug dauert mit Backoff ein paar Minuten
+
+    steps:
+      - name: Repo holen
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Keine Abhängigkeiten. requirements.txt ist leer, alles
+      # Standardbibliothek. Deshalb auch kein pip install, kein Cache.
+
+      - name: Signal-Engine laufen lassen
+        run: python3 -u src/07_signal_engine.py
+        # bewusst ohne --cache: der wöchentliche Lauf zieht live von TED.
+        # Der Backoff bei HTTP 429 steckt in der Engine.
+
+      - name: Zusammenfassung in die Actions-Übersicht schreiben
+        if: always()
+        run: |
+          {
+            echo "### Signal-Lauf $(date -u +%Y-%m-%d)"
+            echo ""
+            if [ -f data/signal_state.json ]; then
+              python3 - <<'PY'
+          import json
+          d = json.load(open("data/signal_state.json", encoding="utf-8"))
+          l = (d.get("laeufe") or [{}])[-1]
+          print(f"- gefunden: **{l.get('gefunden', '?')}**")
+          print(f"- neu: **{l.get('neu', '?')}**")
+          print(f"- geändert: **{l.get('geaendert', '?')}**")
+          print(f"- unverändert: {l.get('unveraendert', '?')}")
+          print(f"- Accounts: {l.get('accounts', '?')}")
+          print(f"- Läufe insgesamt: {len(d.get('laeufe') or [])}")
+          PY
+            else
+              echo "Kein State geschrieben, der Lauf ist gescheitert."
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Ergebnis zurück ins Repo committen
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/longlist2_signale.csv data/longlist2_signale.json data/signal_state.json
+          if git diff --cached --quiet; then
+            echo "Nichts geändert, kein Commit."
+            exit 0
+          fi
+          NEU=$(python3 -c "import json;d=json.load(open('data/signal_state.json'));l=(d.get('laeufe') or [{}])[-1];print(l.get('neu',0))")
+          GEAEND=$(python3 -c "import json;d=json.load(open('data/signal_state.json'));l=(d.get('laeufe') or [{}])[-1];print(l.get('geaendert',0))")
+          git commit -m "Wöchentlicher Signal-Lauf $(date -u +%Y-%m-%d): ${NEU} neu, ${GEAEND} geändert"
+          git push

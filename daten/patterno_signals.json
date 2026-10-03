@@ -1,0 +1,1607 @@
+{
+ "stand": "2026-09-30",
+ "zeitraum_tage": 100,
+ "anzeigen": 150,
+ "raus": {
+  "auftraggeber": 12,
+  "personal": 23
+ },
+ "firmen": [
+  {
+   "firma": "SCHUTZschild Bewachungsgesellschaft mbH",
+   "score": 23,
+   "orte": [
+    "Gummersbach",
+    "Köln"
+   ],
+   "rollen": [
+    "Vertriebsmitarbeiter (m/w/d) – Ausschreibungen & Angebotsmanagement (Sicherheitsbranche)"
+   ],
+   "signale": [
+    "seit 264 Tagen unbesetzt",
+    "2 Stellen im Vergabeumfeld",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 264,
+   "neueste_tage": 46,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002388783-S",
+   "anzahl": 2
+  },
+  {
+   "firma": "Bechtle AG",
+   "score": 20,
+   "orte": [
+    "Bonn",
+    "Köln"
+   ],
+   "rollen": [
+    "Bid Manager (w/m/d)",
+    "Tender Manager (w/m/d)"
+   ],
+   "signale": [
+    "seit 288 Tagen unbesetzt",
+    "3 Stellen im Vergabeumfeld",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 288,
+   "neueste_tage": 40,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-43843787-1215-S",
+   "anzahl": 3
+  },
+  {
+   "firma": "Rheinmetall AG",
+   "score": 20,
+   "orte": [
+    "München",
+    "Unterlüß"
+   ],
+   "rollen": [
+    "Angebotsleiter / Bid Manager international (m/w/d)",
+    "Bid Manager (m/w/d)"
+   ],
+   "signale": [
+    "seit 169 Tagen unbesetzt",
+    "2 Stellen im Vergabeumfeld",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 169,
+   "neueste_tage": 107,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-633377-7878-5060-S",
+   "anzahl": 2
+  },
+  {
+   "firma": "Aurantia Rechtsanwalts- gesellschaft Steuerberatungs- gesellschaft mbH",
+   "score": 19,
+   "orte": [
+    "Oberhausen, Rheinland"
+   ],
+   "rollen": [
+    "Vergabemanager / Sachbearbeiter Vergaberecht"
+   ],
+   "signale": [
+    "seit 184 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 184,
+   "neueste_tage": 184,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002847531-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "8com GmbH & Co. KG",
+   "score": 19,
+   "orte": [
+    "Neustadt an der Weinstraße"
+   ],
+   "rollen": [
+    "Bid Manager (m/w/d) – Angebots- & Ausschreibungsmanagement Cyber Security"
+   ],
+   "signale": [
+    "seit 146 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 146,
+   "neueste_tage": 146,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003038929-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Main Kabel GmbH",
+   "score": 19,
+   "orte": [
+    "Erlenbach am Main"
+   ],
+   "rollen": [
+    "Kaufmännischer Mitarbeiter (m/w/d) für Akquise & Ausschreibungsmanagement in Teilzeit (20 Std./Wo.)"
+   ],
+   "signale": [
+    "seit 111 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 111,
+   "neueste_tage": 111,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003210972-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "MÜTRON Müller GmbH & Co. KG",
+   "score": 19,
+   "orte": [
+    "Achim bei Bremen"
+   ],
+   "rollen": [
+    "Mitarbeiter im Vertriebsinnendienst / Ausschreibungsmanagement (m/w/d)"
+   ],
+   "signale": [
+    "seit 106 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 106,
+   "neueste_tage": 106,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003232993-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Hoffmann SE",
+   "score": 19,
+   "orte": [
+    "München"
+   ],
+   "rollen": [
+    "Specialist (m/w/d) Tender Projects"
+   ],
+   "signale": [
+    "seit 83 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 83,
+   "neueste_tage": 83,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20471-2293455-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "SoftwareOne Deutschland GmbH",
+   "score": 19,
+   "orte": [
+    "Leipzig"
+   ],
+   "rollen": [
+    "Projektkoordinator (gn) Ausschreibungsmanagement"
+   ],
+   "signale": [
+    "seit 77 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 77,
+   "neueste_tage": 77,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16197-957476598-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "T & A SYSTEME GmbH",
+   "score": 19,
+   "orte": [
+    "Hattingen, Ruhr"
+   ],
+   "rollen": [
+    "Mitarbeiter Vertriebsunterstützung und Ausschreibungsmanagement (m/w/d)"
+   ],
+   "signale": [
+    "seit 77 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 77,
+   "neueste_tage": 77,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003389516-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "secura protect Berlin GmbH",
+   "score": 19,
+   "orte": [
+    "Langenselbold"
+   ],
+   "rollen": [
+    "Mitarbeiter Ausschreibungsmanagement / Tender Manager (m/w/d)"
+   ],
+   "signale": [
+    "seit 68 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 68,
+   "neueste_tage": 68,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18244-0066304638-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Max Reinigungsservice GmbH",
+   "score": 19,
+   "orte": [
+    "Wolfenbüttel, Niedersachsen"
+   ],
+   "rollen": [
+    "Vertriebsmitarbeiter (m/w/d) – Ausschreibungen & Neukundengewinnung"
+   ],
+   "signale": [
+    "seit 68 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 68,
+   "neueste_tage": 68,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003439663-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Office Partner",
+   "score": 19,
+   "orte": [
+    "Gescher"
+   ],
+   "rollen": [
+    "Assistent im Tender Management in Vollzeit oder Teilzeit (m/w/d),Gescher,Münster",
+    "Manager im Tender Management in Vollzeit oder Teilzeit (m/w/d),Gescher,Münster"
+   ],
+   "signale": [
+    "seit 57 Tagen unbesetzt",
+    "2 Stellen im Vergabeumfeld",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 57,
+   "neueste_tage": 57,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2307703-S",
+   "anzahl": 2
+  },
+  {
+   "firma": "Notarztbörse Dr. med. Andre Kröncke",
+   "score": 19,
+   "orte": [
+    "Pogeez"
+   ],
+   "rollen": [
+    "Sachbearbeiter (m/w/d) für Vergabeverfahren"
+   ],
+   "signale": [
+    "seit 54 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 54,
+   "neueste_tage": 54,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003512491-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "GSI Gebäudeservice GmbH",
+   "score": 17,
+   "orte": [
+    "Köln"
+   ],
+   "rollen": [
+    "Fachkraft für Kalkulation und Bearbeitung von Reinigungs-Ausschreibungen (m/w/d)"
+   ],
+   "signale": [
+    "seit 317 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 317,
+   "neueste_tage": 317,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002163173-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Lehner Großküchentechnik GmbH & Co KG",
+   "score": 17,
+   "orte": [
+    "Winhöring"
+   ],
+   "rollen": [
+    "Sachbearbeiter (m/w/d) für Ausschreibungen Bereich Großküchentechnik in Vollzeit"
+   ],
+   "signale": [
+    "seit 205 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 205,
+   "neueste_tage": 205,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1205736630-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Koczyba GmbH Handel und Vertrieb mit Artikeln f. die Notfallmedizin",
+   "score": 17,
+   "orte": [
+    "Eschweiler, Rheinland"
+   ],
+   "rollen": [
+    "Bürokaufleute für öffentliche Ausschreibungen im Gesundheitswesen (m/w/d)"
+   ],
+   "signale": [
+    "seit 181 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 181,
+   "neueste_tage": 181,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206068700-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "TeleMediaCall Daniel Wackwitz",
+   "score": 17,
+   "orte": [
+    "Leipzig"
+   ],
+   "rollen": [
+    "Mitarbeiter/-in Vergabe & Ausschreibungen (w/m/d)"
+   ],
+   "signale": [
+    "seit 137 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 137,
+   "neueste_tage": 137,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003081442-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "INGEROP Deutschland GmbH",
+   "score": 17,
+   "orte": [
+    "Offenbach am Main"
+   ],
+   "rollen": [
+    "Architekt:in / Bauingenieur:in für Ausschreibungen (w/m/d) in Offenbach am Main"
+   ],
+   "signale": [
+    "seit 100 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 100,
+   "neueste_tage": 100,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003265890-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Ernst Granzow GmbH & Co. KG Elektro-Fachgroßhandel",
+   "score": 17,
+   "orte": [
+    "Leonberg, Württemberg"
+   ],
+   "rollen": [
+    "Sachbearbeiter Projekte und Ausschreibungen (m/w/d)"
+   ],
+   "signale": [
+    "seit 85 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 85,
+   "neueste_tage": 85,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14497-k30566.2929-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Weton Massivhaus GmbH",
+   "score": 17,
+   "orte": [
+    "Frankenthal (Pfalz)"
+   ],
+   "rollen": [
+    "Bautechniker (m/w/d) – Technischer Einkauf, Kalkulation & Vergabe"
+   ],
+   "signale": [
+    "seit 79 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 79,
+   "neueste_tage": 79,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003377744-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Roland Transport KG",
+   "score": 17,
+   "orte": [
+    "Bielefeld"
+   ],
+   "rollen": [
+    "Sales Coordinator Logistik (m/w/d) – Kunden, Ausschreibungen & Prozesse im Griff"
+   ],
+   "signale": [
+    "seit 47 Tagen unbesetzt",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 47,
+   "neueste_tage": 47,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003547254-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "TRON gGmbH",
+   "score": 17,
+   "orte": [
+    "Mainz am Rhein"
+   ],
+   "rollen": [
+    "Experte Vergabemanagement/öffentliche Ausschreibung (m/w/d)"
+   ],
+   "signale": [
+    "vor 12 Tagen ausgeschrieben",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 12,
+   "neueste_tage": 12,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-064238557-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "HAMBURG WASSER",
+   "score": 17,
+   "orte": [
+    "Hamburg"
+   ],
+   "rollen": [
+    "Ingenieur Vergabemanagement Bau- und Ingenieurleistungen (m/w/d)"
+   ],
+   "signale": [
+    "vor 11 Tagen ausgeschrieben",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 11,
+   "neueste_tage": 11,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12336-a26f897j0449489-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Indian Ocean GmbH",
+   "score": 17,
+   "orte": [
+    "Ahlen, Westfalen"
+   ],
+   "rollen": [
+    "Mitarbeiter (m/w/d) für Ausschreibungsmanagement und Auftragsrecherche"
+   ],
+   "signale": [
+    "vor 10 Tagen ausgeschrieben",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 10,
+   "neueste_tage": 10,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003733700-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Sander Catering GmbH",
+   "score": 17,
+   "orte": [
+    "Wiebelsheim, Hunsrück"
+   ],
+   "rollen": [
+    "Mitarbeiter (w/m/d) Ausschreibungsmanagement Care, Werk 2, Sander Gruppe"
+   ],
+   "signale": [
+    "vor 9 Tagen ausgeschrieben",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 9,
+   "neueste_tage": 9,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2341516-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Geiger Facility Management",
+   "score": 17,
+   "orte": [
+    "Langenfeld (Rheinland)"
+   ],
+   "rollen": [
+    "Koordinator Ausschreibungsmanagement und Kalkulation (m/w/d)"
+   ],
+   "signale": [
+    "vor 8 Tagen ausgeschrieben",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 8,
+   "neueste_tage": 8,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-c88fdd44-8e0a-4752--S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Geiger FM Service PS GmbH & Co. KG",
+   "score": 17,
+   "orte": [
+    "Langenfeld (Rheinland)"
+   ],
+   "rollen": [
+    "Koordinator Ausschreibungsmanagement und Kalkulation (m/w/d), Langenfeld Karl Benz Straße"
+   ],
+   "signale": [
+    "vor 8 Tagen ausgeschrieben",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 8,
+   "neueste_tage": 8,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2341579-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "AOK Hessen. Die Gesundheitskasse.",
+   "score": 17,
+   "orte": [
+    "Frankfurt am Main"
+   ],
+   "rollen": [
+    "Volljurist (m/w/d) Vergaberecht – Ausschreibungs- und Vergabemanagement"
+   ],
+   "signale": [
+    "vor 6 Tagen ausgeschrieben",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 6,
+   "neueste_tage": 6,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4946626198-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Hauser Gebäudeservice GmbH",
+   "score": 17,
+   "orte": [
+    "Heidelberg, Neckar"
+   ],
+   "rollen": [
+    "Mitarbeiter/in Ausschreibungsmanagement – Gebäudereinigung"
+   ],
+   "signale": [
+    "vor 4 Tagen ausgeschrieben",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 4,
+   "neueste_tage": 4,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003768274-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "persona service AG & Co. KG Cottbus",
+   "score": 17,
+   "orte": [
+    "Schönwald bei Lübben"
+   ],
+   "rollen": [
+    "Sachbearbeiter Vergaben (m/w/d)"
+   ],
+   "signale": [
+    "vor 1 Tagen ausgeschrieben",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 1,
+   "neueste_tage": 1,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-973786738-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Swarco AG",
+   "score": 16,
+   "orte": [
+    "Bochum"
+   ],
+   "rollen": [
+    "Vertriebsinnendienst / Bid Manager (m/w/d)"
+   ],
+   "signale": [
+    "seit 201 Tagen unbesetzt",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 201,
+   "neueste_tage": 201,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12336-a26f649j0384841-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "ACP IT Solutions GmbH (Münster)",
+   "score": 16,
+   "orte": [
+    "Münster, Westfalen"
+   ],
+   "rollen": [
+    "Tender Manager/ Bid Manager (m/w/d), Münster"
+   ],
+   "signale": [
+    "seit 196 Tagen unbesetzt",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 196,
+   "neueste_tage": 196,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2205989-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Pan Dacom Networking AG",
+   "score": 16,
+   "orte": [
+    "Dreieich"
+   ],
+   "rollen": [
+    "Bid / Tender Manager (m/w/d)"
+   ],
+   "signale": [
+    "seit 147 Tagen unbesetzt",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 147,
+   "neueste_tage": 147,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002532990-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "rexx systems GmbH",
+   "score": 16,
+   "orte": [
+    "Hamburg"
+   ],
+   "rollen": [
+    "Tender Manager (m/w/d) - Öffentlicher Dienst, Public Sector"
+   ],
+   "signale": [
+    "seit 63 Tagen unbesetzt",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 63,
+   "neueste_tage": 63,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18902-2303967-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Mitel Deutschland GmbH",
+   "score": 16,
+   "orte": [
+    "Frankfurt am Main"
+   ],
+   "rollen": [
+    "Bid Manager"
+   ],
+   "signale": [
+    "seit 49 Tagen unbesetzt",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 49,
+   "neueste_tage": 49,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003330107-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "OPTIPER GmbH - Niederlassung Gotha",
+   "score": 16,
+   "orte": [
+    "Gotha, Thüringen"
+   ],
+   "rollen": [
+    "Mitarbeiter Assistenz der Werkleitung / Vertrags- und Vergabemanagement (m/w/d)"
+   ],
+   "signale": [
+    "seit 30 Tagen offen",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 30,
+   "neueste_tage": 30,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-103A15043-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "GSM Sella GmbH",
+   "score": 16,
+   "orte": [
+    "Schlüsselfeld"
+   ],
+   "rollen": [
+    "Sachbearbeiter Öffentliche Ausschreibungen (m/w/d)"
+   ],
+   "signale": [
+    "seit 30 Tagen offen",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 30,
+   "neueste_tage": 30,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14373-k36443.4175-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Skan-Tours Touristik International GmbH",
+   "score": 16,
+   "orte": [
+    "Isenbüttel"
+   ],
+   "rollen": [
+    "Projektassistenz (m/w/d) mit Schwerpunkt Fördermittel- und Vergabemanagement"
+   ],
+   "signale": [
+    "seit 28 Tagen offen",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 28,
+   "neueste_tage": 28,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003640003-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "PD - Berater der öffentlichen Hand GmbH",
+   "score": 16,
+   "orte": [
+    "Berlin"
+   ],
+   "rollen": [
+    "Jurist:in (w/m/d) Vergabe"
+   ],
+   "signale": [
+    "seit 23 Tagen offen",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 23,
+   "neueste_tage": 23,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/21008-2331287-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "persona service AG & Co. KG Niederlassung Erfurt",
+   "score": 16,
+   "orte": [
+    "Erfurt"
+   ],
+   "rollen": [
+    "Referent Vergaberecht (m/w/d)"
+   ],
+   "signale": [
+    "seit 21 Tagen offen",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 21,
+   "neueste_tage": 21,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-219219-1795241-0-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Frankfurt University of Applied Sciences",
+   "score": 16,
+   "orte": [
+    "Frankfurt am Main"
+   ],
+   "rollen": [
+    "Referent*in Vergaberecht & Öffentliche Beschaffung Bau und Facility Management (w/m/d)"
+   ],
+   "signale": [
+    "vor 7 Tagen ausgeschrieben",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 7,
+   "neueste_tage": 7,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003750684-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "IJAB-Fachstelle für internat. Jugendarbeit der BRD e.V.",
+   "score": 16,
+   "orte": [
+    "Bonn"
+   ],
+   "rollen": [
+    "Referent*in (w/m/d) Auftragsvergabe und Vertragsmanagement"
+   ],
+   "signale": [
+    "vor 2 Tagen ausgeschrieben",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 2,
+   "neueste_tage": 2,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003773953-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "CANCOM SE",
+   "score": 15,
+   "orte": [
+    "Jettingen-Scheppach"
+   ],
+   "rollen": [
+    "Bid Manager (m/w/d)"
+   ],
+   "signale": [
+    "seit 246 Tagen unbesetzt"
+   ],
+   "aelteste_tage": 246,
+   "neueste_tage": 246,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18935-2114075-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Seifert Logistics Group",
+   "score": 15,
+   "orte": [
+    "Ulm, Donau"
+   ],
+   "rollen": [
+    "Projektmanager Tender Management & Logistik (m/w/d)"
+   ],
+   "signale": [
+    "seit 196 Tagen unbesetzt",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 196,
+   "neueste_tage": 196,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-js_ul_47_JB5098776-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Classica Consulting GmbH",
+   "score": 15,
+   "orte": [
+    "Günzburg"
+   ],
+   "rollen": [
+    "Kalkulator (m/w/d) Angebotsmanagement"
+   ],
+   "signale": [
+    "seit 166 Tagen unbesetzt"
+   ],
+   "aelteste_tage": 166,
+   "neueste_tage": 166,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002937088-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Hellmann Worldwide Logistics SE & Co. KG",
+   "score": 15,
+   "orte": [
+    "Neu-Isenburg"
+   ],
+   "rollen": [
+    "Airfreight Tender Management Specialist (m/w/d)"
+   ],
+   "signale": [
+    "seit 160 Tagen unbesetzt",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 160,
+   "neueste_tage": 160,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13718-455909498-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "BFE Studio und Medien Systeme GmbH",
+   "score": 15,
+   "orte": [
+    "Mainz am Rhein"
+   ],
+   "rollen": [
+    "Projektkaufmann Angebotsmanagement (m/w/d)"
+   ],
+   "signale": [
+    "seit 134 Tagen unbesetzt"
+   ],
+   "aelteste_tage": 134,
+   "neueste_tage": 134,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003093566-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Medicke GmbH",
+   "score": 15,
+   "orte": [
+    "Glauchau"
+   ],
+   "rollen": [
+    "Tender Manager / Angebotsmanager (m/w/d) im Fassadenbau"
+   ],
+   "signale": [
+    "seit 93 Tagen unbesetzt"
+   ],
+   "aelteste_tage": 93,
+   "neueste_tage": 93,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003299403-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Delfs & Associates GmbH Bremen",
+   "score": 15,
+   "orte": [
+    "Bremen"
+   ],
+   "rollen": [
+    "Tendermanagement (w/m/d)"
+   ],
+   "signale": [
+    "seit 79 Tagen unbesetzt",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 79,
+   "neueste_tage": 79,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12235-14184-1784282-0-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Leadec B.V. & Co. KG HV VIKI Garching",
+   "score": 15,
+   "orte": [
+    "München"
+   ],
+   "rollen": [
+    "Sachbearbeiter / Mitarbeiter Angebotsmanagement / Vertriebsinnendienst (m/w/d)"
+   ],
+   "signale": [
+    "seit 76 Tagen unbesetzt"
+   ],
+   "aelteste_tage": 76,
+   "neueste_tage": 76,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003395717-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Argus Interception GmbH",
+   "score": 15,
+   "orte": [
+    "Rotenburg (Wümme)"
+   ],
+   "rollen": [
+    "Commercial Project & Bid Manager (m/w/d) *"
+   ],
+   "signale": [
+    "seit 70 Tagen unbesetzt"
+   ],
+   "aelteste_tage": 70,
+   "neueste_tage": 70,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003428485-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "ASE GmbH",
+   "score": 15,
+   "orte": [
+    "Neckarsulm"
+   ],
+   "rollen": [
+    "Mitarbeiter (m/w/d) Angebotsmanagement & Kalkulation"
+   ],
+   "signale": [
+    "seit 57 Tagen unbesetzt"
+   ],
+   "aelteste_tage": 57,
+   "neueste_tage": 57,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003487405-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Best GmbH",
+   "score": 15,
+   "orte": [
+    "Isernhagen"
+   ],
+   "rollen": [
+    "Für unser Angebotsmanagement & Versandabwicklung suchen wir:"
+   ],
+   "signale": [
+    "seit 56 Tagen unbesetzt"
+   ],
+   "aelteste_tage": 56,
+   "neueste_tage": 56,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003497121-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "ADB Safegate Germany GmbH",
+   "score": 15,
+   "orte": [
+    "Mannheim"
+   ],
+   "rollen": [
+    "Bid Manager Aviation (m/w/d)"
+   ],
+   "signale": [
+    "seit 56 Tagen unbesetzt"
+   ],
+   "aelteste_tage": 56,
+   "neueste_tage": 56,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003493730-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "ED. ZÜBLIN AG",
+   "score": 15,
+   "orte": [
+    "Stuttgart"
+   ],
+   "rollen": [
+    "Koordinator:in Einkauf- und Angebotsmanagement (m/w/d)"
+   ],
+   "signale": [
+    "seit 55 Tagen unbesetzt"
+   ],
+   "aelteste_tage": 55,
+   "neueste_tage": 55,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-063565812-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Hohenloher Schuleinrichtungen GmbH & Co. KG",
+   "score": 15,
+   "orte": [
+    "Öhringen"
+   ],
+   "rollen": [
+    "Projektkalkulator im Angebotsmanagement (m/w/d), Öhringen, Hohenloher"
+   ],
+   "signale": [
+    "seit 47 Tagen unbesetzt"
+   ],
+   "aelteste_tage": 47,
+   "neueste_tage": 47,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2314209-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Daimler Truck AG",
+   "score": 15,
+   "orte": [
+    "Mannheim"
+   ],
+   "rollen": [
+    "Tender Manager Europa (m/w/d) – deutschlandweit (hybrid)"
+   ],
+   "signale": [
+    "seit 47 Tagen unbesetzt"
+   ],
+   "aelteste_tage": 47,
+   "neueste_tage": 47,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15707-1618054-1-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "HIL Heeresinstandsetzungslogistik GmbH",
+   "score": 15,
+   "orte": [
+    "Bonn"
+   ],
+   "rollen": [
+    "Referent Vergabe-, Zivil- und Verwaltungsrecht (m/w/d)"
+   ],
+   "signale": [
+    "seit 26 Tagen offen",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 26,
+   "neueste_tage": 26,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16545-44392083-820-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "ALFRED DOEPKER GMBH&CO. KG BAUUNTERNEHMEN",
+   "score": 15,
+   "orte": [
+    "Oldenburg (Oldb)"
+   ],
+   "rollen": [
+    "Arbeitsvorbereiter Ausschreibung & Vergabe (m/w/d)"
+   ],
+   "signale": [
+    "vor 2 Tagen ausgeschrieben",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 2,
+   "neueste_tage": 2,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003769754-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "EXOCON MANAGEMENT GMBH",
+   "score": 15,
+   "orte": [
+    "Berlin"
+   ],
+   "rollen": [
+    "Vergabeassistenz VgV-Verfahren / öffentliche Planungsaufträge  (m/w/d) - aus Bietersicht"
+   ],
+   "signale": [
+    "vor 1 Tagen ausgeschrieben",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 1,
+   "neueste_tage": 1,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003780765-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Oster Metallbau GmbH",
+   "score": 14,
+   "orte": [
+    "Scheeßel"
+   ],
+   "rollen": [
+    "Technischer Sachbearbeiter Metallbau - Ausschreibungen & Projektorganisation (m/w/d)"
+   ],
+   "signale": [
+    "seit 44 Tagen offen",
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 44,
+   "neueste_tage": 44,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003550982-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Bertrandt AG",
+   "score": 14,
+   "orte": [
+    "Bremen"
+   ],
+   "rollen": [
+    "Bid Manager (m/w/d) - Defence"
+   ],
+   "signale": [
+    "vor 6 Tagen ausgeschrieben",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 6,
+   "neueste_tage": 6,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4946613724-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "ML Consulting Schulung Service & Support GmbH",
+   "score": 14,
+   "orte": [
+    "Köln"
+   ],
+   "rollen": [
+    "Bid Manager (m/w/d)"
+   ],
+   "signale": [
+    "vor 1 Tagen ausgeschrieben",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 1,
+   "neueste_tage": 1,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003780231-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Dell",
+   "score": 14,
+   "orte": [
+    "Halle (Saale)"
+   ],
+   "rollen": [
+    "Services Bid|Tender Manager"
+   ],
+   "signale": [
+    "vor 1 Tagen ausgeschrieben",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 1,
+   "neueste_tage": 1,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-312601-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Hochbau Lübeck GmbH",
+   "score": 13,
+   "orte": [
+    "Lübeck"
+   ],
+   "rollen": [
+    "KALKULATOR / AUSSCHREIBUNG / PROJEKTLEITUNG"
+   ],
+   "signale": [
+    "seit 350 Tagen unbesetzt"
+   ],
+   "aelteste_tage": 350,
+   "neueste_tage": 350,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001995340-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "DIBAG Industriebau AG",
+   "score": 13,
+   "orte": [
+    "München"
+   ],
+   "rollen": [
+    "Kalkulator/in (m/w/d) im Bereich Ausschreibung/ Vergabe"
+   ],
+   "signale": [
+    "seit 120 Tagen unbesetzt"
+   ],
+   "aelteste_tage": 120,
+   "neueste_tage": 120,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-281335-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "MCA Engineering GmbH",
+   "score": 13,
+   "orte": [
+    "Frankfurt am Main"
+   ],
+   "rollen": [
+    "Bid Manager (m/w/d)"
+   ],
+   "signale": [
+    "seit 37 Tagen offen",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 37,
+   "neueste_tage": 37,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-351A679-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "SD Worx GmbH",
+   "score": 13,
+   "orte": [
+    "Frankfurt am Main"
+   ],
+   "rollen": [
+    "Bid Manager (m/w/d)"
+   ],
+   "signale": [
+    "seit 27 Tagen offen",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 27,
+   "neueste_tage": 27,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003645841-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Headmatch GmbH & Co. KG",
+   "score": 13,
+   "orte": [
+    "Hamburg"
+   ],
+   "rollen": [
+    "Architekt:in oder Ingenieur:in Ausschreibung und Vergabe (m/w/d)"
+   ],
+   "signale": [
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 20,
+   "neueste_tage": 20,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20561-970068546-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "GS Company Cottbus GmbH & Co. KG",
+   "score": 13,
+   "orte": [
+    "Cottbus"
+   ],
+   "rollen": [
+    "Kaufmännischer Mitarbeiter Ausschreibungen & Projektcontrolling (m/w/d) Job in Cottbus"
+   ],
+   "signale": [
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 16,
+   "neueste_tage": 16,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003699715-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "REDOOO GmbH",
+   "score": 13,
+   "orte": [
+    "Köln"
+   ],
+   "rollen": [
+    "Kaufmännischer Mitarbeiter - Einkauf & Tendermanagement (m/w/d)"
+   ],
+   "signale": [
+    "vor 14 Tagen ausgeschrieben",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 14,
+   "neueste_tage": 14,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14332-00002f2ceba001-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "TMM AG",
+   "score": 13,
+   "orte": [
+    "Böblingen"
+   ],
+   "rollen": [
+    "Sachbearbeiter Angebotsmanagement & Vertriebsinnendienst (m/w/d), Zentrale Böblingen"
+   ],
+   "signale": [
+    "vor 13 Tagen ausgeschrieben"
+   ],
+   "aelteste_tage": 13,
+   "neueste_tage": 13,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2338745-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "DEX eG",
+   "score": 13,
+   "orte": [
+    "Weyhe bei Bremen"
+   ],
+   "rollen": [
+    "Kaufmännischer Mitarbeiter Vertriebsunterstützung und Angebotsmanagement (m/w/d) - Weyhe"
+   ],
+   "signale": [
+    "vor 9 Tagen ausgeschrieben"
+   ],
+   "aelteste_tage": 9,
+   "neueste_tage": 9,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15270-2QLBRGGAAlklrk-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "LEB in Niedersachsen e.V.",
+   "score": 13,
+   "orte": [
+    "Hannover"
+   ],
+   "rollen": [
+    "Teilbereichsverantwortung Angebotsmanagement (m/w/d)"
+   ],
+   "signale": [
+    "vor 5 Tagen ausgeschrieben"
+   ],
+   "aelteste_tage": 5,
+   "neueste_tage": 5,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003764263-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "DSV Contract Logistics Krefeld GmbH",
+   "score": 13,
+   "orte": [
+    "Hamburg"
+   ],
+   "rollen": [
+    "Product Manager Strategic Tender Pricing, LCL Europe (m/w/d)"
+   ],
+   "signale": [
+    "vor 4 Tagen ausgeschrieben",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 4,
+   "neueste_tage": 4,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17657-36989_125964-1-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Brodos AG",
+   "score": 13,
+   "orte": [
+    "Baiersdorf, Mittelfranken"
+   ],
+   "rollen": [
+    "Tender Manager (m/w/d)"
+   ],
+   "signale": [
+    "vor 1 Tagen ausgeschrieben",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 1,
+   "neueste_tage": 1,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003781038-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "SeaTerra GmbH",
+   "score": 12,
+   "orte": [
+    "Seevetal"
+   ],
+   "rollen": [
+    "Mitarbeiter (m/w/d) Angebotsmanagement / Ausschreibungen Offshore & Onshore"
+   ],
+   "signale": [
+    "seit 30 Tagen offen"
+   ],
+   "aelteste_tage": 30,
+   "neueste_tage": 30,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003101289-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "think about IT GmbH",
+   "score": 12,
+   "orte": [
+    "Bochum"
+   ],
+   "rollen": [
+    "Team Lead Tender Management (m/w/d), Bochum"
+   ],
+   "signale": [
+    "seit 29 Tagen offen",
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 29,
+   "neueste_tage": 29,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2326087-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Hilger u. Kern GmbH",
+   "score": 12,
+   "orte": [
+    "Mannheim"
+   ],
+   "rollen": [
+    "Mitarbeiter Angebotsmanagement / Vertriebsinnendienst (m/w/d)"
+   ],
+   "signale": [
+    "seit 27 Tagen offen"
+   ],
+   "aelteste_tage": 27,
+   "neueste_tage": 27,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16022-k56330.1428-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "joro türen gmbh",
+   "score": 12,
+   "orte": [
+    "Renchen"
+   ],
+   "rollen": [
+    "Technischer Mitarbeiter Angebotsmanagement, Kalkulation & Arbeitsvorbereitung (m/w/d)"
+   ],
+   "signale": [
+    "seit 22 Tagen offen"
+   ],
+   "aelteste_tage": 22,
+   "neueste_tage": 22,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003668396-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "HIL Heeresinstandsetzungslogistik GmbH",
+   "score": 12,
+   "orte": [
+    "Bonn"
+   ],
+   "rollen": [
+    "Referent Vergabe-, Zivil- und Verwaltungsrecht (m/w/d)"
+   ],
+   "signale": [
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 15,
+   "neueste_tage": 15,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-50626-YF-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Die Senatorin für Wirtschaft Häfen und Transformation",
+   "score": 12,
+   "orte": [
+    "Bremen"
+   ],
+   "rollen": [
+    "Referent:in (w/m/d) im Bereich Vergaberecht, Rechtsangelegenheiten -Kennziffer: 024-1/26-"
+   ],
+   "signale": [
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 0,
+   "neueste_tage": 999,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208081674-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "BBF Generalbau GmbH",
+   "score": 11,
+   "orte": [
+    "Berlin"
+   ],
+   "rollen": [
+    "Leitender Kalkulator - Hochbau (w/m/d)",
+    "Leitender Kalkulator - Wohnungs-, Gewerbe- & Industriebau (w/m/d)"
+   ],
+   "signale": [
+    "2 Stellen im Vergabeumfeld"
+   ],
+   "aelteste_tage": 15,
+   "neueste_tage": 15,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003711726-S",
+   "anzahl": 2
+  },
+  {
+   "firma": "Verkehrsgesellschaft Oberhessen mbH",
+   "score": 11,
+   "orte": [
+    "Friedberg (Hessen)"
+   ],
+   "rollen": [
+    "Sachbearbeiter/in im Bereich Vergabe- und Vertragsmanagement (m/w/d)"
+   ],
+   "signale": [
+    "Vergabe oder Ausschreibung im Titel"
+   ],
+   "aelteste_tage": 15,
+   "neueste_tage": 15,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003710518-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "BM Baulogistik + Service GmbH",
+   "score": 10,
+   "orte": [
+    "Telgte"
+   ],
+   "rollen": [
+    "MITARBEITER KALKULATION UND AUSSCHREIBUNG (M/W/D)"
+   ],
+   "signale": [
+    "seit 41 Tagen offen"
+   ],
+   "aelteste_tage": 41,
+   "neueste_tage": 41,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003575399-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "netgo group GmbH",
+   "score": 10,
+   "orte": [
+    "Borken, Westfalen"
+   ],
+   "rollen": [
+    "Bid Manager öffentliche Ausschreibungen IT (m/w/d)"
+   ],
+   "signale": [
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 19,
+   "neueste_tage": 19,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12336-a26f1201j0454202-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "accompio GmbH",
+   "score": 10,
+   "orte": [
+    "Einbeck"
+   ],
+   "rollen": [
+    "accompio GmbH: Bid Manager (m/w/d) Enterprise Ausschreibungen - remote deutschlandweit"
+   ],
+   "signale": [
+    "Bid Management, oft international"
+   ],
+   "aelteste_tage": 16,
+   "neueste_tage": 16,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3033801789336801-S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Apleona Group",
+   "score": 9,
+   "orte": [
+    "Berlin"
+   ],
+   "rollen": [
+    "Mitarbeiter Angebotsmanagement (w/m/d) Berlin"
+   ],
+   "signale": [],
+   "aelteste_tage": 16,
+   "neueste_tage": 16,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-4f3ffe1a-c098-46e8--S",
+   "anzahl": 1
+  },
+  {
+   "firma": "Staffinity Consulting GmbH",
+   "score": 9,
+   "orte": [
+    "Mülheim an der Ruhr"
+   ],
+   "rollen": [
+    "Sachbearbeiter Ausschreibungs- und Angebotsmanagement 2026-00892 (m/w/d)"
+   ],
+   "signale": [],
+   "aelteste_tage": 16,
+   "neueste_tage": 16,
+   "quelle": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003704421-S",
+   "anzahl": 1
+  }
+ ]
+}

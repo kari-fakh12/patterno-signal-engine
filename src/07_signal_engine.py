@@ -25,16 +25,29 @@ import json, os, re, sys, time, datetime as dt, collections
 import urllib.request, urllib.error
 from ausschluss import ausgeschlossen
 
-BASE = "/home/asusf/Job finding"
-P_ICP = f"{BASE}/icp_systemhaeuser.json"
-P_DOM = f"{BASE}/domains.json"
-P_JOBS = f"{BASE}/patterno_signals.json"
-P_STATE = f"{BASE}/signal_state.json"
-P_OUT = f"{BASE}/longlist2_signale.json"
-P_CSV = f"{BASE}/longlist2_signale.csv"
-P_HIST = f"{BASE}/firma_auftraggeber.json"
-P_CACHE_CAN = f"{BASE}/cache_can_laufzeit.json"
-P_CACHE_CN = f"{BASE}/cache_cn_offen.json"
+# Wo liegen Ein- und Ausgaben?
+#
+# Lokal ist das mein Arbeitsordner, in GitHub Actions das Repo selbst.
+# Deshalb per Umgebungsvariable, mit dem Repo-Wurzelverzeichnis als Standard.
+# Ohne das kann der woechentliche Lauf nicht automatisch laufen, und die
+# Aufgabe verlangt ausdruecklich ein System, das jede Woche selbst liefert.
+BASE = os.environ.get("DATEN") or os.path.dirname(
+    os.path.dirname(os.path.abspath(__file__)))
+EIN = os.path.join(BASE, "daten")        # Eingaben, kommen aus Schritt 01 bis 06
+AUS = os.path.join(BASE, "data")         # Ausgaben, die der Vertrieb oeffnet
+CACHE = os.environ.get("CACHE_DIR") or os.path.join(BASE, "cache")
+for _d in (EIN, AUS, CACHE):
+    os.makedirs(_d, exist_ok=True)
+
+P_ICP = os.path.join(EIN, "icp_systemhaeuser.json")
+P_DOM = os.path.join(EIN, "domains.json")
+P_JOBS = os.path.join(EIN, "patterno_signals.json")
+P_HIST = os.path.join(EIN, "firma_auftraggeber.json")
+P_STATE = os.path.join(AUS, "signal_state.json")
+P_OUT = os.path.join(AUS, "longlist2_signale.json")
+P_CSV = os.path.join(AUS, "longlist2_signale.csv")
+P_CACHE_CAN = os.path.join(CACHE, "cache_can_laufzeit.json")
+P_CACHE_CN = os.path.join(CACHE, "cache_cn_offen.json")
 
 API = "https://api.ted.europa.eu/v3/notices/search"
 CPV = ("72000000", "48000000", "30200000", "51600000")
@@ -273,6 +286,8 @@ def signal_vertragsende(idx, nutze_cache):
             "firma_key": f["key"], "firma": f["name"], "signal": "S2 Vertragsende",
             "signal_datum": ende.isoformat(), "score": score,
             "rahmenvertrag": rahmen,
+            "titel": kuerzen(titel, 90),
+            "auftraggeber_treffer": kuerzen(ag, 70),
             "beleg": f"{lage}. Auftraggeber {kuerzen(ag, 70)}. {kuerzen(titel, 90)}",
             "quelle": f"https://ted.europa.eu/de/notice/{x['publication-number']}/pdf",
             "bekanntmachung": x["publication-number"],
@@ -403,7 +418,9 @@ def signal_offene_ausschreibung(firmen, idx, nutze_cache):
                 "firma_key": k, "firma": f["name"],
                 "signal": "S4 Ausschreibung beim bekannten Auftraggeber",
                 "signal_datum": (pub or HEUTE).isoformat(), "score": min(score, 100),
-                "auftraggeber_treffer": ag_treffer,
+                "auftraggeber_treffer": kuerzen(ag_treffer, 70),
+                "titel": kuerzen(titel, 90),
+                "frist": frist.isoformat() if frist else None,
                 "beleg_frueherer_auftrag": beleg.get("quelle"),
                 "beleg_rolle": beleg.get("rolle"),
                 "beleg_mit_auftraggebern": beleg.get("mit_auftraggebern"),
@@ -453,6 +470,7 @@ def signal_stellenanzeige(idx):
             "firma_key": f["key"], "firma": f["name"],
             "signal": "S1 Stellenanzeige Vergabe", "signal_datum": datum_s,
             "score": 75,
+            "titel": kuerzen(rolle, 80),
             "beleg": (f"Offene Stelle: {kuerzen(rolle, 80)}"
                       + (f", seit {tage} Tagen online" if tage else "")),
             "quelle": s.get("quelle") or "Bundesagentur fuer Arbeit, Jobsuche-API",
@@ -466,16 +484,63 @@ def signal_stellenanzeige(idx):
 
 # ---------------------------------------------------------------- State
 
+# Welche Felder machen ein Signal fuer den Vertrieb aus?
+#
+# Die Aufgabe sagt "nur neue oder veraenderte Treffer". Ein Tripel aus Firma,
+# Signalart und Bekanntmachung erkennt nur NEU. Wenn eine Vergabestelle die
+# Frist um eine Woche verschiebt, ist das Signal dasselbe und trotzdem anders,
+# und genau diese Verschiebung ist fuer einen Anruf wichtig.
+#
+# Also je Tripel ein Fingerabdruck aus den Feldern, auf die jemand reagiert.
+FINGER_FELDER = ("frist", "signal_datum", "titel", "auftraggeber_treffer",
+                 "rahmenvertrag")
+
+
+def finger(r):
+    return {k: r.get(k) for k in FINGER_FELDER if r.get(k) is not None}
+
+
+def finger_diff(alt, neu):
+    """Was genau hat sich geaendert? In Worten, nicht als Hash."""
+    benennung = {"frist": "Frist", "signal_datum": "Datum",
+                 "titel": "Titel", "auftraggeber_treffer": "Auftraggeber",
+                 "rahmenvertrag": "Rahmenvertrag"}
+    out = []
+    for k in FINGER_FELDER:
+        a, b = (alt or {}).get(k), (neu or {}).get(k)
+        if a == b:
+            continue
+        name = benennung.get(k, k)
+        if k in ("frist", "signal_datum") and a and b:
+            out.append(f"{name} {a} -> {b}")
+        elif a and b:
+            out.append(f"{name} geaendert")
+        elif b and not a:
+            out.append(f"{name} jetzt {b}")
+        else:
+            out.append(f"{name} entfallen")
+    return ", ".join(out)
+
+
+def schluessel(r):
+    return "|".join((r["firma_key"], r["signal"][:2], str(r["bekanntmachung"])))
+
+
 def lade_state():
-    if os.path.exists(P_STATE):
-        d = json.load(open(P_STATE, encoding="utf-8"))
-        return set(tuple(x) for x in d.get("gesehen", [])), d.get("laeufe", [])
-    return set(), []
+    """Alt und neu lesen. Das alte Format war eine Liste von Tripeln ohne
+    Fingerabdruck, die gilt dann als 'gesehen, Zustand unbekannt'."""
+    if not os.path.exists(P_STATE):
+        return {}, []
+    d = json.load(open(P_STATE, encoding="utf-8"))
+    roh = d.get("gesehen", {})
+    if isinstance(roh, list):
+        return {"|".join(str(x) for x in t): None for t in roh}, d.get("laeufe", [])
+    return roh, d.get("laeufe", [])
 
 
 def schreib_state(gesehen, laeufe):
-    json.dump({"gesehen": sorted(list(g) for g in gesehen), "laeufe": laeufe},
-              open(P_STATE, "w", encoding="utf-8"), ensure_ascii=False)
+    json.dump({"gesehen": gesehen, "laeufe": laeufe},
+              open(P_STATE, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 
 # ---------------------------------------------------------------- Lauf
@@ -500,15 +565,34 @@ def main():
     # Die Datei haelt immer das volle Bild. Der State entscheidet nur,
     # was als neu markiert wird. Sonst waere die Liste nach dem zweiten
     # Lauf leer, und der Vertrieb haette nichts mehr zum Anrufen.
-    neu = []
+    neu, geaendert = [], []
     for r in alle:
-        sid = (r["firma_key"], r["signal"][:2], r["bekanntmachung"])
-        r["neu_in_diesem_lauf"] = sid not in gesehen
-        if r["neu_in_diesem_lauf"]:
-            gesehen.add(sid)
+        sid = schluessel(r)
+        fp = finger(r)
+        alt = gesehen.get(sid, "__fehlt__")
+        if alt == "__fehlt__":
+            r["status"] = "neu"
+            r["aenderung"] = ""
             neu.append(r)
+        elif alt is None:
+            # aus dem alten Statusformat, Zustand unbekannt
+            r["status"] = "unveraendert"
+            r["aenderung"] = ""
+        elif alt != fp:
+            r["status"] = "geaendert"
+            r["aenderung"] = finger_diff(alt, fp)
+            geaendert.append(r)
+        else:
+            r["status"] = "unveraendert"
+            r["aenderung"] = ""
+        r["neu_in_diesem_lauf"] = r["status"] in ("neu", "geaendert")
+        gesehen[sid] = fp
 
-    print(f"\n{len(alle)} Signale gefunden, {len(neu)} davon neu seit dem letzten Lauf")
+    print(f"\n{len(alle)} Signale gefunden: {len(neu)} neu, "
+          f"{len(geaendert)} geaendert, "
+          f"{len(alle) - len(neu) - len(geaendert)} unveraendert")
+    for r in geaendert[:8]:
+        print(f"   geaendert: {r['firma'][:34]:<36}{r['aenderung'][:60]}")
 
     # je Firma zusammenfassen
     je_firma = collections.defaultdict(list)
@@ -542,6 +626,8 @@ def main():
 
     laeufe.append({"zeit": dt.datetime.now().isoformat(timespec="seconds"),
                    "gefunden": len(alle), "neu": len(neu),
+                   "geaendert": len(geaendert),
+                   "unveraendert": len(alle) - len(neu) - len(geaendert),
                    "accounts": len(accounts)})
     schreib_state(gesehen, laeufe)
     json.dump({"stand": HEUTE.isoformat(), "accounts": accounts},
@@ -555,7 +641,7 @@ def main():
         w.writerow(["Rechtsname", "Domain", "Domain_Confidence", "Ort",
                     "Signal", "Signal_Datum", "Score_Account", "Score_Signal",
                     "In_Longlist_1", "Zuschlaege_Longlist_1", "Plan",
-                    "Neu_in_diesem_Lauf", "Beleg", "Quelle",
+                    "Status_in_diesem_Lauf", "Aenderung", "Beleg", "Quelle",
                     "Auftraggeber_Treffer", "Beleg_fruehererer_Auftrag",
                     "Beleg_Rolle", "Beleg_Mitauftraggeber", "Why_now"])
         # Dieselben zwei Regeln wie in Longlist 1, und zwar beide.
@@ -572,7 +658,7 @@ def main():
                             a["domain_confidence"] or "offen", a["ort"] or "",
                             r["signal"], r["signal_datum"], a["score"],
                             r["score"], "ja", a["zuschlaege"], a["plan"],
-                            "ja" if r["neu_in_diesem_lauf"] else "nein",
+                            r.get("status", ""), r.get("aenderung", ""),
                             r["beleg"], r["quelle"],
                             r.get("auftraggeber_treffer") or "",
                             r.get("beleg_frueherer_auftrag") or "",
@@ -581,7 +667,7 @@ def main():
                             r["why_now"]])
     print(f"geschrieben: {P_CSV}")
 
-    print(f"\n{len(accounts)} Accounts mit mindestens einem neuen Signal")
+    print(f"\n{len(accounts)} Accounts in der Liste")
     print(f"geschrieben: {P_OUT}")
     print(f"State: {P_STATE}\n")
 
