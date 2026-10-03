@@ -26,7 +26,9 @@ import concurrent.futures as cf
 BASE = "/home/asusf/Job finding"
 P_ICP = f"{BASE}/icp_systemhaeuser.json"
 P_DOM = f"{BASE}/domains.json"
-P_LL2 = f"{BASE}/longlist2_signale.json"
+# Die Signal-Engine schreibt jetzt ins Repo, damit der woechentliche Lauf in
+# GitHub Actions dieselben Pfade nutzt wie lokal.
+P_LL2 = f"{BASE}/patterno-signal-engine/data/longlist2_signale.json"
 P_OUT = f"{BASE}/enrichment.json"
 
 # Ein Server, der die Verbindung offen haelt, darf nicht den Lauf blockieren.
@@ -44,6 +46,44 @@ UML = str.maketrans({"ä": "ae", "ö": "oe", "ü": "ue", "ß": "ss",
 # Hersteller und Konzerne, die beim CPV-Test durchgerutscht sind.
 # Der Rauschpass gehoert hierher, nicht in eine Fussnote.
 from ausschluss import RAUSCHEN  # eine Quelle fuer alle
+
+# LinkedIn-Profile, per Websuche zu bereits bekannten Namen gefunden und
+# einzeln geprueft: das Profil nennt dieselbe Firma. Kein LinkedIn-Konto, kein
+# Scraping, kein Budget. Nur fuer Personen, die ohnehin schon mit Rolle und
+# Fundstelle in der Liste stehen.
+#
+# Das schliesst genau die Luecke, die ich im README als die einzige benenne,
+# fuer die Geld noetig waere: die Firmenwebsite nennt die Person, aber nicht
+# ihre erreichbare Spur.
+LINKEDIN = {
+    ("navum", "andreas kopfmiller"):
+        "https://de.linkedin.com/in/andreas-kopfmiller-48b74bb0",
+    ("brodos", "stefan vitzithum"):
+        "https://de.linkedin.com/in/stefan-vitzithum-310b07120",
+    ("mediainterface", "robert groeber"):
+        "https://de.linkedin.com/in/robertgroeber",
+    ("netdescribe", "elmar prem"):
+        "https://de.linkedin.com/in/elmar-prem-62b39854",
+    ("greenbone", "elmar geese"):
+        "https://de.linkedin.com/in/elmar-geese-44a52b2",
+    ("medientechnik thomas", "christian kunick"):
+        "https://de.linkedin.com/in/christian-kunick-88a462231",
+    ("univention", "peter ganten"):
+        "https://de.linkedin.com/in/pganten",
+    ("public edge", "sebastian lorenz"):
+        "https://www.linkedin.com/in/sebastian-lorenz-3010854/",
+    ("roda computer", "frank scholz"):
+        "https://de.linkedin.com/in/frank-scholz-546937119",
+}
+
+
+def linkedin_fuer(firma, name):
+    f = fold(firma).lower()
+    n = re.sub(r"[^a-z ]", "", fold(name).lower())
+    for (f_teil, n_teil), url in LINKEDIN.items():
+        if f_teil in f and all(w in n for w in n_teil.split()):
+            return url
+    return None
 
 CHAMPION = re.compile(
     r"(?i)(vergab|ausschreib|angebotsmanagem|angebots-|bid[ -]?manag|"
@@ -752,6 +792,13 @@ def enrich(acc):
             best[k] = p
     r["kontakte"] = sorted(best.values(), key=lambda p: rang[p["rolle"]])[:3]
     r["stufen"]["4_rollen"] = ", ".join(p["rolle"] for p in r["kontakte"]) or "keine"
+
+    # LinkedIn, wo per Websuche ein Profil zu dieser Person gefunden wurde
+    for p in r["kontakte"]:
+        url = linkedin_fuer(acc["firma"], p["name"])
+        p["linkedin"] = url
+        p["linkedin_quelle"] = ("Websuche, Profil nennt die Firma" if url
+                                else None)
 
     # Durchwahl, Mobil oder Zentrale? Die Aufgabe fragt das in 1.2 ausdruecklich.
     zentrale = r.get("telefon")

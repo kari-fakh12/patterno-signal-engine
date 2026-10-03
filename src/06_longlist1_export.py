@@ -26,7 +26,8 @@ icp = json.load(open(f"{BASE}/icp_systemhaeuser.json", encoding="utf-8"))["syste
 dom = {d["firma_key"]: d for d in json.load(
     open(f"{BASE}/domains.json", encoding="utf-8"))["domains"]}
 ll2 = {a["firma_key"]: a for a in json.load(
-    open(f"{BASE}/longlist2_signale.json", encoding="utf-8"))["accounts"]}
+    open(f"{BASE}/patterno-signal-engine/data/longlist2_signale.json",
+         encoding="utf-8"))["accounts"]}
 
 zeilen, tz = [], collections.Counter()
 for f in icp:
@@ -102,7 +103,7 @@ rang = {"1 Anlass": 0, "2 Luecke": 1, "3 Still": 2, "4 Pruefen": 3, "X Raus": 4}
 zeilen.sort(key=lambda z: (rang[z["Tier"]], -(z["Signal_Score"] or 0),
                            -z["Zuschlaege_seit_2024"]))
 
-# Bewusste Entscheidung: in die Lieferliste kommt nur, wessen Domain durch
+# Entscheidung von Karim: in die Lieferliste kommt nur, wessen Domain durch
 # das Impressum belegt ist. Nicht als Tier 4 mitlaufen lassen, sondern raus.
 #
 # Die Begruendung ist verkaeuferisch, nicht technisch: Patterno prueft

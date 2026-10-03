@@ -31,7 +31,7 @@ RAUSCHEN = re.compile(
     r"dr\.?-?ing\.? paul christiani|urban lighting|rud\.? otto meyer|"
     r"vs vereinigte spezialm[oö]belfabriken|lur sl|fs elektronik|"
     r"arnulf betzold|sonah|rescuetrack|epa-cc|lep ag|ict ag|we are xr|"
-    r"steckerfertig|harich|"
+    r"steckerfertig|harich|roda computer|mildef|"
     # Ausland. Der Case fragt nach deutschen Systemhaeusern.
     r"tradex systems|trapeze switzerland|cloudferro|vshn|telematix"
     r")")
@@ -57,6 +57,9 @@ GRUENDE = [
     (r"(?i)^harich",
      "Werkzeug- und Maschinenhandel. Website verkauft Fraes-, Dreh- und "
      "Schleifmaschinen, keine IT"),
+    (r"(?i)^(roda computer|mildef)",
+     "Seit 23.09.2026 MilDef GmbH. Baut robuste Hardware fuer Verteidigung, "
+     "also Hersteller, kein Systemhaus"),
     (r"(?i)^(vs vereinigte|lur sl|fs elektronik|arnulf betzold|sonah|"
      r"rescuetrack|epa-cc|ict ag|we are xr|dr\.?-?ing\.? paul christiani|"
      r"urban lighting|rud\.? otto meyer|steckerfertig)",

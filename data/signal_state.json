@@ -570,12 +570,6 @@
    "titel": "Los 1 - Landkreis Nordsachsen - Tablets inkl. Zubehör",
    "auftraggeber_treffer": "Landkreis Görlitz"
   },
-  "trovent security|S4|644123-2026": {
-   "frist": "2026-10-19",
-   "signal_datum": "2026-09-18",
-   "titel": "Los 1 - Landkreis Nordsachsen - Tablets inkl. Zubehör",
-   "auftraggeber_treffer": "Landkreis Görlitz"
-  },
   "trapeze switzerland|S4|586123-2026": {
    "signal_datum": "2026-08-25",
    "titel": "KRITIS-IT Unterstützung für das Elektroakustische Lautsprechersystem (ELA)",
@@ -639,12 +633,6 @@
    "titel": "Los 1 - Landkreis Nordsachsen - Tablets inkl. Zubehör",
    "auftraggeber_treffer": "Landkreis Nordsachsen"
   },
-  "thieme dokuform|S4|644123-2026": {
-   "frist": "2026-10-19",
-   "signal_datum": "2026-09-18",
-   "titel": "Los 1 - Landkreis Nordsachsen - Tablets inkl. Zubehör",
-   "auftraggeber_treffer": "Landkreis Nordsachsen"
-  },
   "telematix|S4|586123-2026": {
    "signal_datum": "2026-08-25",
    "titel": "KRITIS-IT Unterstützung für das Elektroakustische Lautsprechersystem (ELA)",
@@ -658,11 +646,6 @@
   },
   "technidata it service|S4|661336-2026": {
    "signal_datum": "2026-09-25",
-   "titel": "Application Management SAP ERP",
-   "auftraggeber_treffer": "BEW Berliner Energie und Wärme GmbH"
-  },
-  "technidata it service|S4|581337-2026": {
-   "signal_datum": "2026-08-24",
    "titel": "Application Management SAP ERP",
    "auftraggeber_treffer": "BEW Berliner Energie und Wärme GmbH"
   },
@@ -774,11 +757,6 @@
    "titel": "SV-FFI-260810-001, MARS Pioneer",
    "auftraggeber_treffer": "Stadtwerke München GmbH"
   },
-  "suresecure|S4|559333-2026": {
-   "signal_datum": "2026-08-12",
-   "titel": "SV-FFI-260810-001, MARS Pioneer",
-   "auftraggeber_treffer": "Stadtwerke München GmbH"
-  },
   "stepit net|S4|664272-2026": {
    "frist": "2026-10-16",
    "signal_datum": "2026-09-28",
@@ -791,16 +769,16 @@
    "titel": "Notebooks und Zubehör",
    "auftraggeber_treffer": "Landkreis Hildesheim"
   },
-  "steckerfertig|S4|655500-2026": {
-   "frist": "2026-10-12",
-   "signal_datum": "2026-09-23",
-   "titel": "Notebooks und Zubehör",
-   "auftraggeber_treffer": "Landkreis Hildesheim"
-  },
   "steckerfertig|S4|647543-2026": {
    "frist": "2026-10-19",
    "signal_datum": "2026-09-21",
    "titel": "Notebook mit Monitor",
+   "auftraggeber_treffer": "Handwerkskammer Niederbayern-Oberpfalz"
+  },
+  "steckerfertig|S4|643457-2026": {
+   "frist": "2026-10-19",
+   "signal_datum": "2026-09-18",
+   "titel": "Gerüstbock",
    "auftraggeber_treffer": "Handwerkskammer Niederbayern-Oberpfalz"
   },
   "spree systems|S4|655104-2026": {
@@ -859,11 +837,6 @@
   },
   "sohnix|S4|659884-2026": {
    "signal_datum": "2026-09-24",
-   "titel": "Managed SOC und Digital Forensics and Incident Response (DFIR)",
-   "auftraggeber_treffer": "kommunit IT-Zweckverband Schleswig-Holstein"
-  },
-  "sohnix|S4|643389-2026": {
-   "signal_datum": "2026-09-18",
    "titel": "Managed SOC und Digital Forensics and Incident Response (DFIR)",
    "auftraggeber_treffer": "kommunit IT-Zweckverband Schleswig-Holstein"
   },
@@ -965,11 +938,6 @@
    "titel": "VgV, TZH Lüneburg, Digitalisierung BAFA, Block 1, LV 7",
    "auftraggeber_treffer": "Handwerkskammer Braunschweig-Lüneburg-Stade"
   },
-  "serverhero|S4|603244-2026": {
-   "signal_datum": "2026-09-02",
-   "titel": "Bildungsmanagementsoftware",
-   "auftraggeber_treffer": "Institut der Feuerwehr NRW"
-  },
   "seitenbau|S4|678142-2026": {
    "frist": "2026-10-15",
    "signal_datum": "2026-10-02",
@@ -1018,11 +986,11 @@
    "titel": "Nachhaltige Notebooks (produktneutral) der Kategorie Hohe Leistung und Zusatzleistungen...",
    "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
   },
-  "secunet security networks|S4|660078-2026": {
-   "frist": "2026-10-20",
+  "secunet security networks|S4|660276-2026": {
+   "frist": "2026-10-05",
    "signal_datum": "2026-09-24",
-   "titel": "Nachhaltige Notebooks (produktneutral) der Kategorie Hohe Leistung und Zusatzleistungen...",
-   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+   "titel": "IT_TeTraoBe_2026",
+   "auftraggeber_treffer": "Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier..."
   },
   "scitech it solutions|S4|655678-2026": {
    "frist": "2026-10-27",
@@ -1089,12 +1057,6 @@
   "rohde schwarz|S4|664122-2026": {
    "frist": "2026-10-30",
    "signal_datum": "2026-09-28",
-   "titel": "Belieferung mit Produkten und Dienstleistungen von FAST LTA",
-   "auftraggeber_treffer": "CISPA – Helmholtz-Zentrum für Informationssicherheit gGmbH"
-  },
-  "rohde schwarz|S4|659610-2026": {
-   "frist": "2026-10-30",
-   "signal_datum": "2026-09-24",
    "titel": "Belieferung mit Produkten und Dienstleistungen von FAST LTA",
    "auftraggeber_treffer": "CISPA – Helmholtz-Zentrum für Informationssicherheit gGmbH"
   },
@@ -1244,12 +1206,6 @@
    "titel": "Los 1 - Landkreis Nordsachsen - Tablets inkl. Zubehör",
    "auftraggeber_treffer": "Landkreis Nordsachsen"
   },
-  "prosoft krippner|S4|644123-2026": {
-   "frist": "2026-10-19",
-   "signal_datum": "2026-09-18",
-   "titel": "Los 1 - Landkreis Nordsachsen - Tablets inkl. Zubehör",
-   "auftraggeber_treffer": "Landkreis Nordsachsen"
-  },
   "pro com datensysteme|S4|678248-2026": {
    "signal_datum": "2026-10-02",
    "titel": "Beschaffung und Implementierung einer Bewerbermangementsoftware",
@@ -1275,12 +1231,6 @@
   "printvision|S4|658324-2026": {
    "frist": "2026-10-06",
    "signal_datum": "2026-09-24",
-   "titel": "Dienstleistungen Anwendungsentwicklung",
-   "auftraggeber_treffer": "Freistaat Bayern, vertreten durch das Bayer. StM f. Ernährung..."
-  },
-  "printvision|S4|656672-2026": {
-   "frist": "2026-10-06",
-   "signal_datum": "2026-09-23",
    "titel": "Dienstleistungen Anwendungsentwicklung",
    "auftraggeber_treffer": "Freistaat Bayern, vertreten durch das Bayer. StM f. Ernährung..."
   },
@@ -1354,11 +1304,10 @@
    "titel": "MDM-System",
    "auftraggeber_treffer": "Landeshauptstadt Dresden, GB Wirtschaft, Digitales, Personal..."
   },
-  "pan dacom direkt|S4|660645-2026": {
-   "frist": "2026-10-27",
-   "signal_datum": "2026-09-25",
-   "titel": "MDM-System",
-   "auftraggeber_treffer": "Landeshauptstadt Dresden, GB Wirtschaft, Digitales, Personal..."
+  "pan dacom direkt|S4|636873-2026": {
+   "signal_datum": "2026-09-16",
+   "titel": "Lieferung und Implementierung eines CRM-Systems",
+   "auftraggeber_treffer": "Universität Stuttgart"
   },
   "ostertag detewe|S4|611953-2026": {
    "frist": "2026-10-06",
@@ -1368,11 +1317,6 @@
   },
   "ostertag detewe|S4|604492-2026": {
    "signal_datum": "2026-09-02",
-   "titel": "Einführung einer Conversational-AI-Plattform (CAI-Plattform)",
-   "auftraggeber_treffer": "Landeshauptstadt Düsseldorf, Der Oberbürgermeister, Amt für Recht..."
-  },
-  "ostertag detewe|S4|592029-2026": {
-   "signal_datum": "2026-08-27",
    "titel": "Einführung einer Conversational-AI-Plattform (CAI-Plattform)",
    "auftraggeber_treffer": "Landeshauptstadt Düsseldorf, Der Oberbürgermeister, Amt für Recht..."
   },
@@ -1401,11 +1345,6 @@
   },
   "new work|S4|579328-2026": {
    "signal_datum": "2026-08-21",
-   "titel": "Rahmenvereinbarung Labor - Digitalisierungsprojekte",
-   "auftraggeber_treffer": "Universitätsklinikum Köln AöR"
-  },
-  "new work|S4|575863-2026": {
-   "signal_datum": "2026-08-20",
    "titel": "Rahmenvereinbarung Labor - Digitalisierungsprojekte",
    "auftraggeber_treffer": "Universitätsklinikum Köln AöR"
   },
@@ -1486,11 +1425,11 @@
    "titel": "KI-Server 2026",
    "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
   },
-  "netdescribe|S4|662497-2026": {
-   "frist": "2026-10-16",
-   "signal_datum": "2026-09-25",
-   "titel": "KI-Server 2026",
-   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
+  "netdescribe|S4|659065-2026": {
+   "frist": "2026-10-23",
+   "signal_datum": "2026-09-24",
+   "titel": "Mitarbeitendenportal (Intranet)",
+   "auftraggeber_treffer": "Nord Ost West Informationstechnik GmbH"
   },
   "netapp|S4|675616-2026": {
    "frist": "2026-10-05",
@@ -1522,12 +1461,6 @@
    "titel": "Belieferung mit Produkten und Dienstleistungen von FAST LTA",
    "auftraggeber_treffer": "Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)"
   },
-  "navum|S4|659610-2026": {
-   "frist": "2026-10-30",
-   "signal_datum": "2026-09-24",
-   "titel": "Belieferung mit Produkten und Dienstleistungen von FAST LTA",
-   "auftraggeber_treffer": "Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)"
-  },
   "navum|S4|640350-2026": {
    "frist": "2026-10-19",
    "signal_datum": "2026-09-17",
@@ -1537,12 +1470,6 @@
   "nachrichtentechnik bielefeld|S4|652849-2026": {
    "frist": "2026-10-16",
    "signal_datum": "2026-09-22",
-   "titel": "Rahmenvertrag Server, Storage, Software",
-   "auftraggeber_treffer": "Universität Duisburg-Essen"
-  },
-  "nachrichtentechnik bielefeld|S4|637127-2026": {
-   "frist": "2026-10-16",
-   "signal_datum": "2026-09-16",
    "titel": "Rahmenvertrag Server, Storage, Software",
    "auftraggeber_treffer": "Universität Duisburg-Essen"
   },
@@ -1595,12 +1522,6 @@
   "mettenmeier|S4|668644-2026": {
    "frist": "2026-10-16",
    "signal_datum": "2026-09-29",
-   "titel": "KI-Server 2026",
-   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
-  },
-  "mettenmeier|S4|662497-2026": {
-   "frist": "2026-10-16",
-   "signal_datum": "2026-09-25",
    "titel": "KI-Server 2026",
    "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
   },
@@ -1716,11 +1637,11 @@
    "titel": "Los 1 - Landkreis Nordsachsen - Tablets inkl. Zubehör",
    "auftraggeber_treffer": "Landkreis Görlitz"
   },
-  "meddv|S4|644123-2026": {
-   "frist": "2026-10-19",
-   "signal_datum": "2026-09-18",
-   "titel": "Los 1 - Landkreis Nordsachsen - Tablets inkl. Zubehör",
-   "auftraggeber_treffer": "Landkreis Görlitz"
+  "meddv|S4|617467-2026": {
+   "frist": "2026-10-06",
+   "signal_datum": "2026-09-08",
+   "titel": "Lieferung von Thermalorthofotos für das Gebiet der Region Hannover",
+   "auftraggeber_treffer": "Region Hannover"
   },
   "lynx media systems|S4|677386-2026": {
    "frist": "2026-11-03",
@@ -1784,12 +1705,6 @@
    "signal_datum": "2026-09-21",
    "titel": "Los 1 - Fachberatung CCV",
    "auftraggeber_treffer": "Staatsbetrieb Sächsische Informatik Dienste"
-  },
-  "kupper it|S4|644123-2026": {
-   "frist": "2026-10-19",
-   "signal_datum": "2026-09-18",
-   "titel": "Los 1 - Landkreis Nordsachsen - Tablets inkl. Zubehör",
-   "auftraggeber_treffer": "Landkreis Görlitz"
   },
   "kst moschkau|S4|676609-2026": {
    "signal_datum": "2026-10-01",
@@ -1926,11 +1841,11 @@
    "titel": "152/164 - Netflowgeneration Wartung & Lizenzen",
    "auftraggeber_treffer": "RWTH Aachen University"
   },
-  "itiso|S4|655500-2026": {
-   "frist": "2026-10-12",
-   "signal_datum": "2026-09-23",
-   "titel": "Notebooks und Zubehör",
-   "auftraggeber_treffer": "Landkreis Hildesheim"
+  "itiso|S4|636116-2026": {
+   "frist": "2026-10-15",
+   "signal_datum": "2026-09-16",
+   "titel": "Universität zu Köln - Wartung-/Instandhaltungsservice der EBI Leitstellenlösung",
+   "auftraggeber_treffer": "Universität zu Köln, Abteilung 64 - Einkauf"
   },
   "it haus|S4|681292-2026": {
    "signal_datum": "2026-10-02",
@@ -1952,12 +1867,6 @@
   "isec7|S4|677876-2026": {
    "frist": "2026-10-15",
    "signal_datum": "2026-10-02",
-   "titel": "Abschluss von Rahmenvereinbarungen über die Lieferung von einer schlüsselfertigen...",
-   "auftraggeber_treffer": "Landesamt für Zentrale Polizeiliche Dienste Nordrhein-Westfalen"
-  },
-  "isec7|S4|639624-2026": {
-   "frist": "2026-10-15",
-   "signal_datum": "2026-09-17",
    "titel": "Abschluss von Rahmenvereinbarungen über die Lieferung von einer schlüsselfertigen...",
    "auftraggeber_treffer": "Landesamt für Zentrale Polizeiliche Dienste Nordrhein-Westfalen"
   },
@@ -2131,11 +2040,6 @@
    "titel": "Dienstleistungen im Bereich Design User-Interface (UI) und User-Experience (UX)",
    "auftraggeber_treffer": "Freistaat Bayern vertreten durch das Staatsinstitut für Schulqualität..."
   },
-  "huber feneberg|S4|608765-2026": {
-   "signal_datum": "2026-09-03",
-   "titel": "Dienstleistungen im Bereich Design User-Interface (UI) und User-Experience (UX)",
-   "auftraggeber_treffer": "Freistaat Bayern vertreten durch das Staatsinstitut für Schulqualität..."
-  },
   "huber feneberg|S4|575858-2026": {
    "signal_datum": "2026-08-20",
    "titel": "2026-1005064_Flughafen München_Rahmenvereinbarung Projektplattform",
@@ -2153,17 +2057,17 @@
    "titel": "Rahmenvereinbarung Snow",
    "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
   },
-  "hologate|S4|652830-2026": {
-   "frist": "2026-10-05",
-   "signal_datum": "2026-09-22",
-   "titel": "Rahmenvereinbarung Snow",
-   "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
-  },
   "hologate|S4|648350-2026": {
    "frist": "2026-10-23",
    "signal_datum": "2026-09-21",
    "titel": "PolBln 371_26 Bildmanagementsystem EU",
    "auftraggeber_treffer": "Polizei Berlin"
+  },
+  "hologate|S4|624129-2026": {
+   "frist": "2026-10-12",
+   "signal_datum": "2026-09-10",
+   "titel": "Verlängerung Recovery Manager for AD Forest Edition",
+   "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
   },
   "hks systeme|S4|664046-2026": {
    "frist": "2026-10-29",
@@ -2218,12 +2122,6 @@
    "titel": "Los 1 - Landkreis Nordsachsen - Tablets inkl. Zubehör",
    "auftraggeber_treffer": "Landkreis Nordsachsen"
   },
-  "hansa computer|S4|644123-2026": {
-   "frist": "2026-10-19",
-   "signal_datum": "2026-09-18",
-   "titel": "Los 1 - Landkreis Nordsachsen - Tablets inkl. Zubehör",
-   "auftraggeber_treffer": "Landkreis Nordsachsen"
-  },
   "h g hansen gieraths edv vetriebsgesellschaft|S4|676856-2026": {
    "signal_datum": "2026-10-01",
    "titel": "TK-Schwangerschaftsapp",
@@ -2235,11 +2133,11 @@
    "titel": "Rahmenvereinbarung Snow",
    "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
   },
-  "h g hansen gieraths edv vetriebsgesellschaft|S4|652830-2026": {
-   "frist": "2026-10-05",
-   "signal_datum": "2026-09-22",
-   "titel": "Rahmenvereinbarung Snow",
-   "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
+  "h g hansen gieraths edv vetriebsgesellschaft|S4|648691-2026": {
+   "frist": "2026-10-12",
+   "signal_datum": "2026-09-21",
+   "titel": "Splunk Enterprise Security",
+   "auftraggeber_treffer": "Techniker Krankenkasse"
   },
   "h g hansen gieraths edv vertriebsgesellschaft|S4|669694-2026": {
    "frist": "2026-10-28",
@@ -2304,16 +2202,10 @@
    "titel": "Rahmenvereinbarung Snow",
    "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
   },
-  "fsas|S4|652830-2026": {
-   "frist": "2026-10-05",
-   "signal_datum": "2026-09-22",
-   "titel": "Rahmenvereinbarung Snow",
-   "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
-  },
-  "fsas|S4|644671-2026": {
-   "frist": "2026-10-05",
-   "signal_datum": "2026-09-18",
-   "titel": "Rahmenvereinbarung Snow",
+  "fsas|S4|624129-2026": {
+   "frist": "2026-10-12",
+   "signal_datum": "2026-09-10",
+   "titel": "Verlängerung Recovery Manager for AD Forest Edition",
    "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
   },
   "fs elektronik|S4|644122-2026": {
@@ -2379,12 +2271,6 @@
    "titel": "Dienstleistung \"M365 - Solution Architect / Integrationsmanager\"...",
    "auftraggeber_treffer": "Stadt Nürnberg - Zentrale Dienste"
   },
-  "eurofunk kappacher|S4|656699-2026": {
-   "frist": "2026-10-19",
-   "signal_datum": "2026-09-23",
-   "titel": "Dienstleistung \"M365 - Solution Architect / Integrationsmanager\"...",
-   "auftraggeber_treffer": "Stadt Nürnberg - Zentrale Dienste"
-  },
   "esg elektroniksystem und logistik|S4|676609-2026": {
    "signal_datum": "2026-10-01",
    "titel": "Regenerations Flugsicherungsinfosystem der Bw - BAAINBw U2.3p",
@@ -2442,17 +2328,17 @@
    "titel": "KI-Server 2026",
    "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
   },
-  "enterprise communications services|S4|662497-2026": {
-   "frist": "2026-10-16",
-   "signal_datum": "2026-09-25",
-   "titel": "KI-Server 2026",
-   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
-  },
   "enterprise communications services|S4|657210-2026": {
    "frist": "2026-10-19",
    "signal_datum": "2026-09-24",
    "titel": "Los 1 - Landkreis Nordsachsen - Tablets inkl. Zubehör",
    "auftraggeber_treffer": "Landkreis Nordsachsen"
+  },
+  "enterprise communications services|S4|659236-2026": {
+   "frist": "2026-10-05",
+   "signal_datum": "2026-09-24",
+   "titel": "Mobile Device Management – BlackBerry Unified Endpoint Manager (UEM) on premise",
+   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
   },
   "ecs enterprise communications services|S4|671947-2026": {
    "frist": "2026-10-05",
@@ -2484,17 +2370,16 @@
    "titel": "Belieferung mit Produkten und Dienstleistungen von FAST LTA",
    "auftraggeber_treffer": "Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)"
   },
-  "dxc technology|S4|659610-2026": {
-   "frist": "2026-10-30",
-   "signal_datum": "2026-09-24",
-   "titel": "Belieferung mit Produkten und Dienstleistungen von FAST LTA",
-   "auftraggeber_treffer": "Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)"
-  },
   "dxc technology|S4|640350-2026": {
    "frist": "2026-10-19",
    "signal_datum": "2026-09-17",
    "titel": "Rahmenvereinbarung Proxmox",
    "auftraggeber_treffer": "Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)"
+  },
+  "dxc technology|S4|604492-2026": {
+   "signal_datum": "2026-09-02",
+   "titel": "Einführung einer Conversational-AI-Plattform (CAI-Plattform)",
+   "auftraggeber_treffer": "Landeshauptstadt Düsseldorf, Der Oberbürgermeister, Amt für Recht..."
   },
   "dts systeme|S4|670025-2026": {
    "frist": "2026-10-05",
@@ -2502,16 +2387,10 @@
    "titel": "Rahmenvereinbarung Snow",
    "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
   },
-  "dts systeme|S4|652830-2026": {
-   "frist": "2026-10-05",
-   "signal_datum": "2026-09-22",
-   "titel": "Rahmenvereinbarung Snow",
-   "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
-  },
-  "dts systeme|S4|644671-2026": {
-   "frist": "2026-10-05",
-   "signal_datum": "2026-09-18",
-   "titel": "Rahmenvereinbarung Snow",
+  "dts systeme|S4|624129-2026": {
+   "frist": "2026-10-12",
+   "signal_datum": "2026-09-10",
+   "titel": "Verlängerung Recovery Manager for AD Forest Edition",
    "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
   },
   "druckerfachmann de|S4|678142-2026": {
@@ -2704,11 +2583,6 @@
    "titel": "Application Management SAP ERP",
    "auftraggeber_treffer": "BEW Berliner Energie und Wärme GmbH"
   },
-  "datagroup business solutions berlin|S4|581337-2026": {
-   "signal_datum": "2026-08-24",
-   "titel": "Application Management SAP ERP",
-   "auftraggeber_treffer": "BEW Berliner Energie und Wärme GmbH"
-  },
   "damovo|S4|668349-2026": {
    "frist": "2026-10-29",
    "signal_datum": "2026-09-29",
@@ -2788,12 +2662,6 @@
   "conscia|S4|660186-2026": {
    "frist": "2026-10-07",
    "signal_datum": "2026-09-24",
-   "titel": "VMware Subscriptions",
-   "auftraggeber_treffer": "Saarland-Heilstätten GmbH"
-  },
-  "conscia|S4|631399-2026": {
-   "frist": "2026-10-07",
-   "signal_datum": "2026-09-14",
    "titel": "VMware Subscriptions",
    "auftraggeber_treffer": "Saarland-Heilstätten GmbH"
   },
@@ -2886,27 +2754,15 @@
    "titel": "Notebooks und Zubehör",
    "auftraggeber_treffer": "Landkreis Hildesheim"
   },
-  "christmann informationstechnik medien|S4|655500-2026": {
-   "frist": "2026-10-12",
-   "signal_datum": "2026-09-23",
-   "titel": "Notebooks und Zubehör",
-   "auftraggeber_treffer": "Landkreis Hildesheim"
-  },
-  "christmann informationstechnik medien|S4|641660-2026": {
-   "frist": "2026-10-12",
-   "signal_datum": "2026-09-17",
-   "titel": "Notebooks und Zubehör",
-   "auftraggeber_treffer": "Landkreis Hildesheim"
+  "christmann informationstechnik medien|S4|617467-2026": {
+   "frist": "2026-10-06",
+   "signal_datum": "2026-09-08",
+   "titel": "Lieferung von Thermalorthofotos für das Gebiet der Region Hannover",
+   "auftraggeber_treffer": "Region Hannover"
   },
   "carl zeiss microscopy|S4|652849-2026": {
    "frist": "2026-10-16",
    "signal_datum": "2026-09-22",
-   "titel": "Rahmenvertrag Server, Storage, Software",
-   "auftraggeber_treffer": "Universität Duisburg-Essen"
-  },
-  "carl zeiss microscopy|S4|637127-2026": {
-   "frist": "2026-10-16",
-   "signal_datum": "2026-09-16",
    "titel": "Rahmenvertrag Server, Storage, Software",
    "auftraggeber_treffer": "Universität Duisburg-Essen"
   },
@@ -2931,12 +2787,6 @@
   "bsa systemhaus|S4|668644-2026": {
    "frist": "2026-10-16",
    "signal_datum": "2026-09-29",
-   "titel": "KI-Server 2026",
-   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
-  },
-  "bsa systemhaus|S4|662497-2026": {
-   "frist": "2026-10-16",
-   "signal_datum": "2026-09-25",
    "titel": "KI-Server 2026",
    "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
   },
@@ -3014,10 +2864,10 @@
    "titel": "ÜSTRA C-ITS OBU KOM",
    "auftraggeber_treffer": "ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellschaft"
   },
-  "axians it security|S4|625806-2026": {
-   "signal_datum": "2026-09-10",
-   "titel": "Projektleitung Zusammenführung ITCS-Systeme",
-   "auftraggeber_treffer": "ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellschaft"
+  "axians it security|S4|567520-2026": {
+   "signal_datum": "2026-08-17",
+   "titel": "Technischer Senior Support für Basistechnologien",
+   "auftraggeber_treffer": "Universitätsklinikum Hamburg-Eppendorf"
   },
   "avodaq|S4|680648-2026": {
    "frist": "2026-11-02",
@@ -3072,17 +2922,17 @@
    "titel": "Rahmenvereinbarung Snow",
    "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
   },
-  "arktis|S4|652830-2026": {
-   "frist": "2026-10-05",
-   "signal_datum": "2026-09-22",
-   "titel": "Rahmenvereinbarung Snow",
+  "arktis|S4|624129-2026": {
+   "frist": "2026-10-12",
+   "signal_datum": "2026-09-10",
+   "titel": "Verlängerung Recovery Manager for AD Forest Edition",
    "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
   },
-  "arktis|S4|644671-2026": {
+  "arktis|S4|606116-2026": {
    "frist": "2026-10-05",
-   "signal_datum": "2026-09-18",
-   "titel": "Rahmenvereinbarung Snow",
-   "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
+   "signal_datum": "2026-09-03",
+   "titel": "Rahmenvereinbarung über Java-Entwicklung",
+   "auftraggeber_treffer": "DVZ Datenverarbeitungszentrum Mecklenburg-Vorpommern GmbH"
   },
   "amber ai data science solutions|S4|680342-2026": {
    "frist": "2026-10-16",
@@ -3111,11 +2961,6 @@
    "frist": "2026-10-16",
    "signal_datum": "2026-09-16",
    "titel": "ÜSTRA C-ITS OBU KOM",
-   "auftraggeber_treffer": "ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellschaft"
-  },
-  "alcera kommunikationstechnik|S4|625806-2026": {
-   "signal_datum": "2026-09-10",
-   "titel": "Projektleitung Zusammenführung ITCS-Systeme",
    "auftraggeber_treffer": "ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellschaft"
   },
   "albakom|S4|666507-2026": {
@@ -3252,19 +3097,11 @@
  },
  "laeufe": [
   {
-   "zeit": "2026-10-03T14:15:27",
-   "gefunden": 560,
-   "neu": 560,
+   "zeit": "2026-10-03T16:02:29",
+   "gefunden": 533,
+   "neu": 533,
    "geaendert": 0,
    "unveraendert": 0,
-   "accounts": 221
-  },
-  {
-   "zeit": "2026-10-03T12:18:11",
-   "gefunden": 560,
-   "neu": 0,
-   "geaendert": 0,
-   "unveraendert": 560,
    "accounts": 221
   }
  ]

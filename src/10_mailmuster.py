@@ -153,7 +153,7 @@ def sammeln(r):
     r["mail_muster"], r["mail_muster_beleg"] = muster, beleg
     r["mail_muster_guete"] = guete or "keines, keine personenbezogene Adresse gefunden"
 
-    # Bewusste Entscheidung: in die Abgabe kommt nur, was wortwoertlich auf
+    # Entscheidung von Karim: in die Abgabe kommt nur, was wortwoertlich auf
     # der Seite steht. Keine abgeleiteten Adressen mehr, auch nicht mit
     # Hinweis "nicht verifiziert".
     #

@@ -431,6 +431,22 @@ def signal_offene_ausschreibung(firmen, idx, nutze_cache):
                             f"{kuerzen(titel, 60)} aus.{fr}{gemeinsam}{frueher}"),
             })
 
+    # Dasselbe Verfahren kann zweimal bekannt gemacht werden, etwa als
+    # Korrigendum. Dann stehen zwei Bekanntmachungsnummern fuer denselben
+    # Auftrag, und bei ProSoft Krippner hat das einen der drei Plaetze je
+    # Firma verbraucht. Also entdoppeln nach dem, was den Auftrag ausmacht:
+    # Firma, Auftraggeber, Titel und Frist. Die neuere Bekanntmachung gewinnt.
+    gesehen_verfahren = {}
+    for r in sorted(raus, key=lambda x: x["signal_datum"], reverse=True):
+        k = (r["firma_key"], norm(r.get("auftraggeber_treffer") or ""),
+             norm(r.get("titel") or ""), r.get("frist") or "")
+        gesehen_verfahren.setdefault(k, r)
+    doppelt = len(raus) - len(gesehen_verfahren)
+    raus = list(gesehen_verfahren.values())
+    if doppelt:
+        print(f"  {doppelt} doppelte Bekanntmachungen desselben Verfahrens "
+              f"zusammengefasst")
+
     # Pro Firma nur die drei frischesten. Wer 60 offene Ausschreibungen hat,
     # braucht keine Liste mit 60 Zeilen, sondern einen Aufhaenger.
     raus.sort(key=lambda r: (r["firma_key"], r["signal_datum"]), reverse=True)
