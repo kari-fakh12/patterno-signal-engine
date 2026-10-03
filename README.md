@@ -400,5 +400,14 @@ das, was ihr bereits habt.
 
 ---
 
-Details zur Methode, zu den Fallen in der TED-API und zu beiden gescheiterten
-Tests: **`docs/methode.md`**
+## Zum Weiterlesen
+
+| Datei | Inhalt |
+|---|---|
+| **`docs/methode.md`** | Die Methode, die Fallen in der TED-API und beide gescheiterten Tests, gerechnet |
+| **`docs/ki-chat.md`** | Der genutzte KI-Chat, auf diesen Case gefiltert. Die Sackgassen und Korrekturen stehen drin, nicht nur das Ergebnis |
+| **`.github/workflows/weekly.yml`** | Der wöchentliche Lauf. Montag 06:00 UTC, dazu ein manueller Auslöser |
+
+Die Lauf-Historie ist öffentlich einsehbar unter **Actions**. Dort steht, dass
+der Lauf wirklich ausgeführt wurde, live von TED gezogen und sein Ergebnis
+selbst zurückgeschrieben hat.
