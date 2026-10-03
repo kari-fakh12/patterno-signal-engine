@@ -14,12 +14,12 @@ Zwei Listen, eine Pipeline, jede Zeile mit Quelle. Gebaut ohne Budget, nur aus P
 - **157 Systemhäuser** mit belegtem Zuschlag und bestätigter Website, davon 103 mit aktuellem Anlass. Markt: rund 1.000 öffentlich bietende Systemhäuser, gerechnet aus der Vergabestatistik 2024 und TED.
 - **223 Signale bei 94 Firmen**, vor allem „alter Kunde schreibt neu aus“: jede Zeile mit Link zur offenen Ausschreibung und zum früheren Auftrag.
 - **Die Pipeline läuft jeden Montag automatisch** auf GitHub und meldet nur neue oder geänderte Treffer. Eine verschobene Frist erscheint als geändert, mit alter und neuer Frist.
-- **Alles ist gegengeprüft.** Eine zweite KI-Sitzung hat jede Zeile gegen ihre Quelle gehalten: 938 TED-Links aus 670 Bekanntmachungen, 197 Belege zu früheren Aufträgen, 157 Domains, 190 Personen, 131 Telefonnummern. Fehler gingen in den Code, nicht in die Tabelle.
+- **Alles ist gegengeprüft, und zwar gegen die Originalquelle statt gegen meine Datei.** Eine zweite KI-Sitzung ohne Schreibrechte hat nachgerechnet: **742 TED-Links** (519 Zuschläge, 197 offene Ausschreibungen samt früherem Auftrag, 25 Vertragsenden), 157 Domains, 189 Personen und jede Telefonnummer. Die Gewinner wurden aus dem XML aufgelöst, nicht aus dem bequemen API-Feld. **Keine falsche Zuordnung.** Gefundene Fehler gingen in den Code, nicht in die Tabelle.
 
 ## Was nicht funktioniert
 
 - **TED zeigt nur den oberen Rand.** Firmen, die nur unterhalb der EU-Schwelle gewinnen oder noch nie gewonnen haben, fehlen. Gerade sie brauchen euch vermutlich am meisten.
-- **Die Website liefert die Geschäftsführung, fast nie den Champion.** 190 Personen, davon 167 Geschäftsführung, 22 Vertriebsleitung, 1 Champion. Telefon ist fast immer die Zentrale.
+- **Die Website liefert die Geschäftsführung, fast nie den Champion.** 189 Personen, davon 166 Geschäftsführung, 22 Vertriebsleitung, **1 Champion**. Telefon ist bei 119 von 157 Firmen die Zentrale, nur 4 Durchwahlen. Wer Ausschreibungen bearbeitet, steht auf keiner Firmenwebsite.
 - **Die automatische Domainprüfung ist streng.** Manche echte Systemhäuser fallen raus, weil ihr Impressum nicht lesbar ist. Sie liegen mit Grund in einer eigenen Datei.
 - **Der CPV-Test beweist, was eine Firma verkauft hat, nicht was sie ist.** Ein Maschinenhändler, der einmal Peripherie geliefert hat, sieht aus wie ein Systemhaus. Nur die Website trennt die beiden.
 

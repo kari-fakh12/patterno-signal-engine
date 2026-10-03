@@ -107,6 +107,36 @@ SEITEN = [
 
 MAIL = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 TEL = re.compile(r"(?:\+49|0049|\(0\)|\b0)[\d\s().\-/]{7,22}\d")
+
+# Telefonnummern nur dort lesen, wo auch "Telefon" steht.
+#
+# Ohne diese Einschraenkung hat der Lauf bei einer Wix-Seite "0160-0161"
+# als Nummer genommen. Das war kein Anschluss, das war ein unicode-range
+# aus einer Schriftdefinition im CSS. Eine Ziffernfolge allein ist keine
+# Telefonnummer, erst das Wort davor macht sie dazu.
+TEL_LABEL = re.compile(
+    r"(?i)\b(?:tel\.?|telefon|telefonnummer|fon|phone|ruf(?:nummer)?|"
+    r"zentrale|durchwahl|mobil|handy)\b\s*[:.–-]?\s*"
+    r"((?:\+49|0049|\(0\)|\b0)[\d\s().\-/]{6,22}\d)")
+TEL_LINK = re.compile(r"""(?i)href\s*=\s*["']tel:([^"']+)["']""")
+# Ziffernbereiche aus CSS sehen aus wie 0160-0161, zwei gleich lange Bloecke
+CSS_BEREICH = re.compile(r"^\d{3,5}-\d{3,5}$")
+
+
+def telefone(html, text):
+    """Nummern aus tel:-Links und aus beschrifteten Stellen, in dieser Reihenfolge."""
+    out = []
+    for roh in TEL_LINK.findall(html or ""):
+        n = tel_saubern(roh)
+        if n and n not in out:
+            out.append(n)
+    for roh in TEL_LABEL.findall(text or ""):
+        if CSS_BEREICH.match(roh.strip()):
+            continue
+        n = tel_saubern(roh)
+        if n and n not in out:
+            out.append(n)
+    return out
 HR = re.compile(r"(?i)(HRB|HRA)\s*[:\s]*(\d{3,8})")
 USTID = re.compile(r"(?i)DE\s?\d{9}")
 
@@ -715,16 +745,24 @@ def enrich(acc):
     texte = {"start": strip_tags(html)}
 
     # Stufe 2: Impressum
-    imp = None
-    for u in kand["impressum"][:3]:
+    imp, imp_html = None, ""
+    for u in kand["impressum"][:6]:
         try:
             fin, h = hole(u)
         except Exception:
             continue
         t = strip_tags(h)
-        if re.search(r"(?i)(impressum|angaben gem|§\s?5\s?(tmg|ddg)|"
-                     r"registergericht|handelsregister)", t):
-            imp, texte["impressum"] = t, t
+        # Nicht nur "steht Impressum drauf", sondern "ist ein Impressum".
+        #
+        # brodos.de/impressum leitet auf die Startseite um. Dort kommt das Wort
+        # "Impressum" im Menue vor, also galt die Startseite als Impressum, und
+        # der gesamte Vorstand ging verloren. Ein echtes Impressum nennt
+        # Registergericht, Handelsregister, Umsatzsteuer-ID oder wen die Firma
+        # vertritt. Ein Menuepunkt tut das nicht.
+        if re.search(r"(?i)(angaben gem|§\s?5\s?(tmg|ddg)|registergericht|"
+                     r"handelsregister|\bhrb\b|\bhra\b|umsatzsteuer|ust-?id|"
+                     r"vertreten durch|vertretungsberechtigt)", t):
+            imp, imp_html, texte["impressum"] = t, h, t
             r["seiten_gelesen"].append(fin)
             break
     r["stufen"]["2_impressum"] = "ok" if imp else "nicht gefunden"
@@ -742,11 +780,9 @@ def enrich(acc):
         m = HR.search(imp)
         if m:
             r["hrb"] = f"{m.group(1)} {m.group(2)}"
-        for t in TEL.findall(imp):
-            c = tel_saubern(t)
-            if c:
-                r["telefon"], r["telefon_quelle"] = c, r["seiten_gelesen"][-1]
-                break
+        for c in telefone(imp_html, imp):
+            r["telefon"], r["telefon_quelle"] = c, r["seiten_gelesen"][-1]
+            break
         for m_ in MAIL.findall(imp):
             if not re.search(r"(?i)(webmaster|hosting|agentur|example|sentry|"
                              r"\.png|\.jpg)", m_):
@@ -775,11 +811,9 @@ def enrich(acc):
             else:
                 verwerfe("Seite ist keine Team- oder Kontaktseite")
             if not r["telefon"]:
-                for x in TEL.findall(t):
-                    c = tel_saubern(x)
-                    if c:
-                        r["telefon"], r["telefon_quelle"] = c, fin
-                        break
+                for c in telefone(h, t):
+                    r["telefon"], r["telefon_quelle"] = c, fin
+                    break
             time.sleep(0.4)
     r["stufen"]["3_team_kontakt"] = f"{gelesen} Seiten gelesen"
 
