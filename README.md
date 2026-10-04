@@ -30,9 +30,15 @@ Zwei Listen, eine Pipeline, jede Zeile mit Quelle. Gebaut ohne Budget, nur aus P
 3. **Signal 5, Kunde geht zum Wettbewerber:** dieselben Daten, ein Auftraggeber vergibt erstmals an jemand anderen.
 4. **Betrieb in eurem Stack:** Supabase als Gedächtnis, Clay für die Anreicherung, nach Attio nur, was belegt ist.
 
-**Dateien:** `data/` für Listen und Kontakte, `src/` für den Code in Laufreihenfolge, `docs/methode.md` für die Details, `docs/ki-chat.md` für den genutzten KI-Chat.
+## Wo was liegt
 
----
+Jeder Ordner hat eine eigene Kurzbeschreibung. Einfach reinklicken, GitHub zeigt sie direkt an.
 
-Ausfuehrliche Fassung mit allen Trefferquoten, den gescheiterten Tests und der
-Fehlerhistorie: **docs/details.md**
+- **[`data/`](data)** die fertigen Listen und Kontakte, eine Zeile je Person
+- **[`src/`](src)** der Code in Laufreihenfolge, 14 Skripte, nur Standardbibliothek
+- **[`daten/`](daten)** die Eingabe. Gleicher Name, anderer Zweck: `daten/` rein, `data/` raus
+- **[`docs/`](docs)** Methode, lange Fassung und der [KI-Chat](docs/ki-chat.md) als Abgabe 5
+- **[`.github/workflows/weekly.yml`](.github/workflows/weekly.yml)** der Montagslauf, 06:00 UTC
+
+Ausführliche Fassung mit allen Trefferquoten, den gescheiterten Tests und der
+Fehlerhistorie: **[docs/details.md](docs/details.md)**
