@@ -3075,24 +3075,432 @@
    "auftraggeber_treffer": "Dataport AöR"
   },
   "office partner|S1|ba:officepartner": {
-   "signal_datum": "2026-08-07",
+   "signal_datum": "2026-08-09",
    "titel": "Assistent im Tender Management in Vollzeit oder Teilzeit ,Gescher,Münster"
   },
   "pan dacom networking|S1|ba:pandacomnetworkingag": {
-   "signal_datum": "2026-05-09",
+   "signal_datum": "2026-05-11",
    "titel": "Bid / Tender Manager"
   },
   "bfe studio und medien systeme|S1|ba:bfestudioundmediensystemegmbh": {
-   "signal_datum": "2026-05-22",
+   "signal_datum": "2026-05-24",
    "titel": "Projektkaufmann Angebotsmanagement"
   },
   "brodos|S1|ba:brodosag": {
-   "signal_datum": "2026-10-02",
+   "signal_datum": "2026-10-04",
    "titel": "Tender Manager"
   },
   "netgo|S1|ba:netgogroupgmbh": {
-   "signal_datum": "2026-09-14",
+   "signal_datum": "2026-09-16",
    "titel": "Bid Manager öffentliche Ausschreibungen IT"
+  },
+  "zehnbauer it|S4|684042-2026": {
+   "frist": "2026-11-04",
+   "signal_datum": "2026-10-05",
+   "titel": "Windows Notebooks, Mobile Workstations und passender Ladekoffer",
+   "auftraggeber_treffer": "Bezirk Oberbayern"
+  },
+  "urban lighting innovations|S4|681787-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-05",
+   "titel": "Technik für Besucherleitsystem 2026",
+   "auftraggeber_treffer": "ekom21 - Kommunales Gebietsrechenzentrum Hessen"
+  },
+  "tradex systems oü|S4|681675-2026": {
+   "frist": "2026-10-27",
+   "signal_datum": "2026-10-05",
+   "titel": "Beratungs- und Unterstützungsleistungen für IPv6-Migrationen in den Behörden...",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "thinkred west|S4|681787-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-05",
+   "titel": "Technik für Besucherleitsystem 2026",
+   "auftraggeber_treffer": "ekom21 - Kommunales Gebietsrechenzentrum Hessen"
+  },
+  "thinkred|S4|681787-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-05",
+   "titel": "Technik für Besucherleitsystem 2026",
+   "auftraggeber_treffer": "ekom21 - Kommunales Gebietsrechenzentrum Hessen"
+  },
+  "ta triumph adler|S4|683735-2026": {
+   "signal_datum": "2026-10-05",
+   "titel": "Rahmenvereinbarung Mobilfunkleistungen mobile Dienstgeräte",
+   "auftraggeber_treffer": "Stromnetz Berlin GmbH"
+  },
+  "sysmex|S4|684981-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-05",
+   "titel": "Herstellerbezogene Artikel",
+   "auftraggeber_treffer": "Universitätsklinikum Münster"
+  },
+  "sysgen|S4|681675-2026": {
+   "frist": "2026-10-27",
+   "signal_datum": "2026-10-05",
+   "titel": "Beratungs- und Unterstützungsleistungen für IPv6-Migrationen in den Behörden...",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "sysgen|S4|684516-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-05",
+   "titel": "Auslagerung SAP Basis Betrieb",
+   "auftraggeber_treffer": "Universitätsklinikum Aachen AöR"
+  },
+  "spie information communication services|S4|685160-2026": {
+   "frist": "2026-11-02",
+   "signal_datum": "2026-10-05",
+   "titel": "PolBln 401_26 EU Trellix-Skyhigh WebProxyFarm",
+   "auftraggeber_treffer": "Polizei Berlin"
+  },
+  "softline|S4|681838-2026": {
+   "frist": "2026-10-05",
+   "signal_datum": "2026-10-05",
+   "titel": "orcharhino Server Subscription",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "softline|S4|682766-2026": {
+   "signal_datum": "2026-10-05",
+   "titel": "Rahmenvertrag Druck- und Scanservice Bund (DSSB) - Fortführung eines zentralen Druck...",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "smart in media|S4|684981-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-05",
+   "titel": "Herstellerbezogene Artikel",
+   "auftraggeber_treffer": "Universitätsklinikum Münster"
+  },
+  "sits|S4|681838-2026": {
+   "frist": "2026-10-05",
+   "signal_datum": "2026-10-05",
+   "titel": "orcharhino Server Subscription",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "sits|S4|682766-2026": {
+   "signal_datum": "2026-10-05",
+   "titel": "Rahmenvertrag Druck- und Scanservice Bund (DSSB) - Fortführung eines zentralen Druck...",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "seitenbau|S4|681675-2026": {
+   "frist": "2026-10-27",
+   "signal_datum": "2026-10-05",
+   "titel": "Beratungs- und Unterstützungsleistungen für IPv6-Migrationen in den Behörden...",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "secusmart|S4|681675-2026": {
+   "frist": "2026-10-27",
+   "signal_datum": "2026-10-05",
+   "titel": "Beratungs- und Unterstützungsleistungen für IPv6-Migrationen in den Behörden...",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "secunet security networks|S4|682357-2026": {
+   "frist": "2026-11-02",
+   "signal_datum": "2026-10-05",
+   "titel": "KLM 2026",
+   "auftraggeber_treffer": "Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier..."
+  },
+  "scalcom|S4|684042-2026": {
+   "frist": "2026-11-04",
+   "signal_datum": "2026-10-05",
+   "titel": "Windows Notebooks, Mobile Workstations und passender Ladekoffer",
+   "auftraggeber_treffer": "Bezirk Oberbayern"
+  },
+  "sandata edv systemhaus|S4|682902-2026": {
+   "frist": "2026-11-05",
+   "signal_datum": "2026-10-05",
+   "titel": "Kauf und Wartung von Lizenzen Cisco Enterprise Agreements (EA) mit einer Laufzeit von 60...",
+   "auftraggeber_treffer": "BG-Phoenics GmbH"
+  },
+  "raid media systems|S4|685488-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-05",
+   "titel": "GPU-Cluster Erweiterung - PR1267570-2140-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "phywe systeme|S4|683207-2026": {
+   "frist": "2026-10-21",
+   "signal_datum": "2026-10-05",
+   "titel": "Ausschreibung der Druck- und Kopierlösungen für die Verwaltung und die Schulen der Stadt...",
+   "auftraggeber_treffer": "Stadt Greven"
+  },
+  "office partner|S4|681930-2026": {
+   "signal_datum": "2026-10-05",
+   "titel": "Content Management System",
+   "auftraggeber_treffer": "DB Systel GmbH (Bukr 2B, 44)"
+  },
+  "office partner|S4|682446-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-05",
+   "titel": "Rahmenvereinbarung Snow",
+   "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
+  },
+  "netgo ost|S4|685488-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-05",
+   "titel": "GPU-Cluster Erweiterung - PR1267570-2140-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "mr datentechnik vertriebs und service|S4|682357-2026": {
+   "frist": "2026-11-02",
+   "signal_datum": "2026-10-05",
+   "titel": "KLM 2026",
+   "auftraggeber_treffer": "Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier..."
+  },
+  "microstaxx|S4|684042-2026": {
+   "frist": "2026-11-04",
+   "signal_datum": "2026-10-05",
+   "titel": "Windows Notebooks, Mobile Workstations und passender Ladekoffer",
+   "auftraggeber_treffer": "Bezirk Oberbayern"
+  },
+  "medialine eurotrade|S4|685488-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-05",
+   "titel": "GPU-Cluster Erweiterung - PR1267570-2140-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "mediainterface|S4|682357-2026": {
+   "frist": "2026-11-02",
+   "signal_datum": "2026-10-05",
+   "titel": "KLM 2026",
+   "auftraggeber_treffer": "Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier..."
+  },
+  "keysight technologies|S4|685488-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-05",
+   "titel": "GPU-Cluster Erweiterung - PR1267570-2140-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "itmediaconsult|S4|684042-2026": {
+   "frist": "2026-11-04",
+   "signal_datum": "2026-10-05",
+   "titel": "Windows Notebooks, Mobile Workstations und passender Ladekoffer",
+   "auftraggeber_treffer": "Bezirk Oberbayern"
+  },
+  "it haus|S4|682902-2026": {
+   "frist": "2026-11-05",
+   "signal_datum": "2026-10-05",
+   "titel": "Kauf und Wartung von Lizenzen Cisco Enterprise Agreements (EA) mit einer Laufzeit von 60...",
+   "auftraggeber_treffer": "BG-Phoenics GmbH"
+  },
+  "it haus|S4|683735-2026": {
+   "signal_datum": "2026-10-05",
+   "titel": "Rahmenvereinbarung Mobilfunkleistungen mobile Dienstgeräte",
+   "auftraggeber_treffer": "Stromnetz Berlin GmbH"
+  },
+  "is4it|S4|682902-2026": {
+   "frist": "2026-11-05",
+   "signal_datum": "2026-10-05",
+   "titel": "Kauf und Wartung von Lizenzen Cisco Enterprise Agreements (EA) mit einer Laufzeit von 60...",
+   "auftraggeber_treffer": "BG-Phoenics GmbH"
+  },
+  "innovative datensysteme indasys|S4|684042-2026": {
+   "frist": "2026-11-04",
+   "signal_datum": "2026-10-05",
+   "titel": "Windows Notebooks, Mobile Workstations und passender Ladekoffer",
+   "auftraggeber_treffer": "Bezirk Oberbayern"
+  },
+  "init|S4|682902-2026": {
+   "frist": "2026-11-05",
+   "signal_datum": "2026-10-05",
+   "titel": "Kauf und Wartung von Lizenzen Cisco Enterprise Agreements (EA) mit einer Laufzeit von 60...",
+   "auftraggeber_treffer": "BG-Phoenics GmbH"
+  },
+  "infodas|S4|681675-2026": {
+   "frist": "2026-10-27",
+   "signal_datum": "2026-10-05",
+   "titel": "Beratungs- und Unterstützungsleistungen für IPv6-Migrationen in den Behörden...",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "infodas|S4|681838-2026": {
+   "frist": "2026-10-05",
+   "signal_datum": "2026-10-05",
+   "titel": "orcharhino Server Subscription",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "infodas|S4|682766-2026": {
+   "signal_datum": "2026-10-05",
+   "titel": "Rahmenvertrag Druck- und Scanservice Bund (DSSB) - Fortführung eines zentralen Druck...",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "hologate|S4|682223-2026": {
+   "signal_datum": "2026-10-05",
+   "titel": "Process Mining Plattform",
+   "auftraggeber_treffer": "Hessisches Polizeipräsidium für Technik"
+  },
+  "hologate|S4|682446-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-05",
+   "titel": "Rahmenvereinbarung Snow",
+   "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
+  },
+  "hologate|S4|685160-2026": {
+   "frist": "2026-11-02",
+   "signal_datum": "2026-10-05",
+   "titel": "PolBln 401_26 EU Trellix-Skyhigh WebProxyFarm",
+   "auftraggeber_treffer": "Polizei Berlin"
+  },
+  "h g hansen gieraths edv vetriebsgesellschaft|S4|682446-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-05",
+   "titel": "Rahmenvereinbarung Snow",
+   "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
+  },
+  "greenbone|S4|681675-2026": {
+   "frist": "2026-10-27",
+   "signal_datum": "2026-10-05",
+   "titel": "Beratungs- und Unterstützungsleistungen für IPv6-Migrationen in den Behörden...",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "fsas|S4|682446-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-05",
+   "titel": "Rahmenvereinbarung Snow",
+   "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
+  },
+  "fernao magellan|S4|685351-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-05",
+   "titel": "Rahmenvereinbarung Dienstleistungen im Bereich Robotic Process Automation (RPA)",
+   "auftraggeber_treffer": "Essener Systemhaus"
+  },
+  "eurofunk kappacher|S4|682223-2026": {
+   "signal_datum": "2026-10-05",
+   "titel": "Process Mining Plattform",
+   "auftraggeber_treffer": "Hessisches Polizeipräsidium für Technik"
+  },
+  "eurofunk kappacher|S4|683901-2026": {
+   "frist": "2026-11-13",
+   "signal_datum": "2026-10-05",
+   "titel": "Externe Unterstützung Support SAP Basisbetrieb für das SAP-System der Polizei Land BB",
+   "auftraggeber_treffer": "Zentraldienst der Polizei des Landes Brandenburg"
+  },
+  "eos electro optical systems|S4|685488-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-05",
+   "titel": "GPU-Cluster Erweiterung - PR1267570-2140-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "dts systeme|S4|682446-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-05",
+   "titel": "Rahmenvereinbarung Snow",
+   "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
+  },
+  "druckerfachmann de|S4|681675-2026": {
+   "frist": "2026-10-27",
+   "signal_datum": "2026-10-05",
+   "titel": "Beratungs- und Unterstützungsleistungen für IPv6-Migrationen in den Behörden...",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "druckerfachmann de|S4|682446-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-05",
+   "titel": "Rahmenvereinbarung Snow",
+   "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
+  },
+  "druckerfachmann de|S4|683901-2026": {
+   "frist": "2026-11-13",
+   "signal_datum": "2026-10-05",
+   "titel": "Externe Unterstützung Support SAP Basisbetrieb für das SAP-System der Polizei Land BB",
+   "auftraggeber_treffer": "Zentraldienst der Polizei des Landes Brandenburg"
+  },
+  "docconsult|S4|681675-2026": {
+   "frist": "2026-10-27",
+   "signal_datum": "2026-10-05",
+   "titel": "Beratungs- und Unterstützungsleistungen für IPv6-Migrationen in den Behörden...",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "delta computer products|S4|685488-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-05",
+   "titel": "GPU-Cluster Erweiterung - PR1267570-2140-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "dekom|S4|685488-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-05",
+   "titel": "GPU-Cluster Erweiterung - PR1267570-2140-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "datagroup frankfurt|S4|681930-2026": {
+   "signal_datum": "2026-10-05",
+   "titel": "Content Management System",
+   "auftraggeber_treffer": "DB Systel GmbH (Bukr 2B, 44)"
+  },
+  "converge technology solutions|S4|682446-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-05",
+   "titel": "Rahmenvereinbarung Snow",
+   "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
+  },
+  "comparex|S4|681838-2026": {
+   "frist": "2026-10-05",
+   "signal_datum": "2026-10-05",
+   "titel": "orcharhino Server Subscription",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "comparex|S4|682766-2026": {
+   "signal_datum": "2026-10-05",
+   "titel": "Rahmenvertrag Druck- und Scanservice Bund (DSSB) - Fortführung eines zentralen Druck...",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "colt technology services|S4|681838-2026": {
+   "frist": "2026-10-05",
+   "signal_datum": "2026-10-05",
+   "titel": "orcharhino Server Subscription",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "colt technology services|S4|682766-2026": {
+   "signal_datum": "2026-10-05",
+   "titel": "Rahmenvertrag Druck- und Scanservice Bund (DSSB) - Fortführung eines zentralen Druck...",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "circular informationssysteme|S4|685488-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-05",
+   "titel": "GPU-Cluster Erweiterung - PR1267570-2140-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "bundesdruckerei|S4|681675-2026": {
+   "frist": "2026-10-27",
+   "signal_datum": "2026-10-05",
+   "titel": "Beratungs- und Unterstützungsleistungen für IPv6-Migrationen in den Behörden...",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "brodos|S4|681930-2026": {
+   "signal_datum": "2026-10-05",
+   "titel": "Content Management System",
+   "auftraggeber_treffer": "DB Systel GmbH (Bukr 2B, 44)"
+  },
+  "avency|S4|684981-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-05",
+   "titel": "Herstellerbezogene Artikel",
+   "auftraggeber_treffer": "Universitätsklinikum Münster"
+  },
+  "arktis|S4|682446-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-05",
+   "titel": "Rahmenvereinbarung Snow",
+   "auftraggeber_treffer": "Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale..."
+  },
+  "amber ai data science solutions|S4|685488-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-05",
+   "titel": "GPU-Cluster Erweiterung - PR1267570-2140-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "afb gemeinnützige|S4|682357-2026": {
+   "frist": "2026-11-02",
+   "signal_datum": "2026-10-05",
+   "titel": "KLM 2026",
+   "auftraggeber_treffer": "Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier..."
+  },
+  "advanced unibyte|S4|685488-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-05",
+   "titel": "GPU-Cluster Erweiterung - PR1267570-2140-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
   }
  },
  "laeufe": [
@@ -3103,6 +3511,14 @@
    "geaendert": 0,
    "unveraendert": 0,
    "accounts": 221
+  },
+  {
+   "zeit": "2026-10-05T13:21:03",
+   "gefunden": 542,
+   "neu": 70,
+   "geaendert": 5,
+   "unveraendert": 467,
+   "accounts": 222
   }
  ]
 }
