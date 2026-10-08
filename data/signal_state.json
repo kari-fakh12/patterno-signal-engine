@@ -3075,23 +3075,23 @@
    "auftraggeber_treffer": "Dataport AöR"
   },
   "office partner|S1|ba:officepartner": {
-   "signal_datum": "2026-08-09",
+   "signal_datum": "2026-08-12",
    "titel": "Assistent im Tender Management in Vollzeit oder Teilzeit ,Gescher,Münster"
   },
   "pan dacom networking|S1|ba:pandacomnetworkingag": {
-   "signal_datum": "2026-05-11",
+   "signal_datum": "2026-05-14",
    "titel": "Bid / Tender Manager"
   },
   "bfe studio und medien systeme|S1|ba:bfestudioundmediensystemegmbh": {
-   "signal_datum": "2026-05-24",
+   "signal_datum": "2026-05-27",
    "titel": "Projektkaufmann Angebotsmanagement"
   },
   "brodos|S1|ba:brodosag": {
-   "signal_datum": "2026-10-04",
+   "signal_datum": "2026-10-07",
    "titel": "Tender Manager"
   },
   "netgo|S1|ba:netgogroupgmbh": {
-   "signal_datum": "2026-09-16",
+   "signal_datum": "2026-09-19",
    "titel": "Bid Manager öffentliche Ausschreibungen IT"
   },
   "zehnbauer it|S4|684042-2026": {
@@ -3501,6 +3501,974 @@
    "signal_datum": "2026-10-05",
    "titel": "GPU-Cluster Erweiterung - PR1267570-2140-I",
    "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "wenzel elektronik|S4|688951-2026": {
+   "signal_datum": "2026-10-06",
+   "titel": "Integriertes Bediensystem (iBS)",
+   "auftraggeber_treffer": "DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16)"
+  },
+  "weinrich|S4|693139-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-08",
+   "titel": "Ceph Cluster ThULB",
+   "auftraggeber_treffer": "Friedrich-Schiller-Universität Jena"
+  },
+  "weiko officeline|S4|689519-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "POLAS",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "urano informationssysteme|S4|689519-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "POLAS",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "trapeze switzerland|S4|695827-2026": {
+   "frist": "2026-10-30",
+   "signal_datum": "2026-10-08",
+   "titel": "Markterkundung: IT-Hardware",
+   "auftraggeber_treffer": "Rhein-Neckar-Verkehr GmbH"
+  },
+  "tradex systems oü|S4|687581-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Festnetztelekommunikationsdienstleistungen - VoIP",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "tradex systems oü|S4|688185-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Software Airlock und produktnahe Dienstleistungen",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "thinkred west|S4|691781-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-07",
+   "titel": "Ertüchtigung & Erweiterung der MSR-Technik-Green IT-Cube",
+   "auftraggeber_treffer": "GSI Helmholtzzentrum für Schwerionenforschung GmbH"
+  },
+  "thinkred west|S4|688539-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Bildungscampus Naumburg, Schönburger Straße, 06618 Naumburg, Los 4-09 Gebäudeautomation",
+   "auftraggeber_treffer": "Burgenlandkreis"
+  },
+  "technidata it service|S4|695827-2026": {
+   "frist": "2026-10-30",
+   "signal_datum": "2026-10-08",
+   "titel": "Markterkundung: IT-Hardware",
+   "auftraggeber_treffer": "Rhein-Neckar-Verkehr GmbH"
+  },
+  "ta triumph adler|S4|693559-2026": {
+   "frist": "2026-10-19",
+   "signal_datum": "2026-10-08",
+   "titel": "Dienstleistung \"M365 - Solution Architect / Integrationsmanager\"...",
+   "auftraggeber_treffer": "Stadt Nürnberg - Zentrale Dienste"
+  },
+  "ta triumph adler|S4|689519-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "POLAS",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "ta triumph adler|S4|689848-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "Basis- Virtualisierung",
+   "auftraggeber_treffer": "ProVitako Marketing- und Dienstleistungsgesellschaft der Kommunalen..."
+  },
+  "sysgen|S4|693139-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-08",
+   "titel": "Ceph Cluster ThULB",
+   "auftraggeber_treffer": "Friedrich-Schiller-Universität Jena"
+  },
+  "sysgen|S4|691858-2026": {
+   "frist": "2026-11-05",
+   "signal_datum": "2026-10-07",
+   "titel": "Lieferung von VMware Cloud Foundation License Subscriptions (VCF)",
+   "auftraggeber_treffer": "Universitätsklinikum Bonn AöR"
+  },
+  "sysgen|S4|687581-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Festnetztelekommunikationsdienstleistungen - VoIP",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "steckerfertig|S4|688539-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Bildungscampus Naumburg, Schönburger Straße, 06618 Naumburg, Los 4-09 Gebäudeautomation",
+   "auftraggeber_treffer": "Burgenlandkreis"
+  },
+  "spie information communication services|S4|693559-2026": {
+   "frist": "2026-10-19",
+   "signal_datum": "2026-10-08",
+   "titel": "Dienstleistung \"M365 - Solution Architect / Integrationsmanager\"...",
+   "auftraggeber_treffer": "Stadt Nürnberg - Zentrale Dienste"
+  },
+  "sonah|S4|687151-2026": {
+   "frist": "2026-10-15",
+   "signal_datum": "2026-10-06",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "softline|S4|687035-2026": {
+   "frist": "2026-11-04",
+   "signal_datum": "2026-10-06",
+   "titel": "Rahmenvertrag für externe Dienstleistungen zur Durchführung des IT gestützten...",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "sits|S4|689519-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "POLAS",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "sits|S4|687035-2026": {
+   "frist": "2026-11-04",
+   "signal_datum": "2026-10-06",
+   "titel": "Rahmenvertrag für externe Dienstleistungen zur Durchführung des IT gestützten...",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "seitenbau|S4|687581-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Festnetztelekommunikationsdienstleistungen - VoIP",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "seitenbau|S4|688185-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Software Airlock und produktnahe Dienstleistungen",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "secusmart|S4|687581-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Festnetztelekommunikationsdienstleistungen - VoIP",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "secusmart|S4|688185-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Software Airlock und produktnahe Dienstleistungen",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "secunet security networks|S4|689343-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-07",
+   "titel": "DiBA DL 2027",
+   "auftraggeber_treffer": "Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier..."
+  },
+  "secunet security networks|S4|692209-2026": {
+   "frist": "2026-11-11",
+   "signal_datum": "2026-10-07",
+   "titel": "Managed Service FMS",
+   "auftraggeber_treffer": "Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier..."
+  },
+  "sandata edv systemhaus|S4|686124-2026": {
+   "signal_datum": "2026-10-06",
+   "titel": "1807-AB-Strategische Partnerschaft - KI für die Bw",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "ribbon communications|S4|692489-2026": {
+   "frist": "2026-10-19",
+   "signal_datum": "2026-10-07",
+   "titel": "Verlängerung der PingIDM",
+   "auftraggeber_treffer": "Universität Stuttgart"
+  },
+  "ratiodata|S4|693784-2026": {
+   "frist": "2026-11-05",
+   "signal_datum": "2026-10-08",
+   "titel": "Lizenzverlängerung Atlassian Confluence und Jira",
+   "auftraggeber_treffer": "Bayerische Versorgungskammer"
+  },
+  "raid media systems|S4|693389-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-08",
+   "titel": "DELL PowerEdge - Erweiterung Storage-Server für KI-System - PR1287846-2880-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "raid media systems|S4|689906-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-07",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "raid media systems|S4|691781-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-07",
+   "titel": "Ertüchtigung & Erweiterung der MSR-Technik-Green IT-Cube",
+   "auftraggeber_treffer": "GSI Helmholtzzentrum für Schwerionenforschung GmbH"
+  },
+  "public edge|S4|689848-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "Basis- Virtualisierung",
+   "auftraggeber_treffer": "ProVitako Marketing- und Dienstleistungsgesellschaft der Kommunalen..."
+  },
+  "public edge|S4|687151-2026": {
+   "frist": "2026-10-15",
+   "signal_datum": "2026-10-06",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "prowise|S4|689848-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "Basis- Virtualisierung",
+   "auftraggeber_treffer": "ProVitako Marketing- und Dienstleistungsgesellschaft der Kommunalen..."
+  },
+  "prowise|S4|687948-2026": {
+   "signal_datum": "2026-10-06",
+   "titel": "10009622-Short-term expert pool for technical advice in the field of digitalisation and...",
+   "auftraggeber_treffer": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+  },
+  "prowise|S4|688881-2026": {
+   "signal_datum": "2026-10-06",
+   "titel": "10048442_Microsoft_Unified_Support_Leistungen",
+   "auftraggeber_treffer": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+  },
+  "pro com datensysteme|S4|691879-2026": {
+   "signal_datum": "2026-10-07",
+   "titel": "Beschaffung und Einführung einer digitalen Lösung für E-Procurement-Prozesse",
+   "auftraggeber_treffer": "Freie Universität Berlin"
+  },
+  "pro com datensysteme|S4|692489-2026": {
+   "frist": "2026-10-19",
+   "signal_datum": "2026-10-07",
+   "titel": "Verlängerung der PingIDM",
+   "auftraggeber_treffer": "Universität Stuttgart"
+  },
+  "primeline solutions|S4|692225-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "NetApp AFF A20 Systeme für SQL-Datenbank",
+   "auftraggeber_treffer": "Universitätsmedizin Greifswald KöR"
+  },
+  "phywe systeme|S4|691688-2026": {
+   "frist": "2026-10-21",
+   "signal_datum": "2026-10-07",
+   "titel": "Ausschreibung der Druck- und Kopierlösungen für die Verwaltung und die Schulen der Stadt...",
+   "auftraggeber_treffer": "Stadt Greven"
+  },
+  "pan dacom networking|S4|691781-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-07",
+   "titel": "Ertüchtigung & Erweiterung der MSR-Technik-Green IT-Cube",
+   "auftraggeber_treffer": "GSI Helmholtzzentrum für Schwerionenforschung GmbH"
+  },
+  "pan dacom direkt|S4|692489-2026": {
+   "frist": "2026-10-19",
+   "signal_datum": "2026-10-07",
+   "titel": "Verlängerung der PingIDM",
+   "auftraggeber_treffer": "Universität Stuttgart"
+  },
+  "office partner|S4|695366-2026": {
+   "signal_datum": "2026-10-08",
+   "titel": "Content Management System",
+   "auftraggeber_treffer": "DB Systel GmbH (Bukr 2B, 44)"
+  },
+  "office partner|S4|686124-2026": {
+   "signal_datum": "2026-10-06",
+   "titel": "1807-AB-Strategische Partnerschaft - KI für die Bw",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "netzwert|S4|688539-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Bildungscampus Naumburg, Schönburger Straße, 06618 Naumburg, Los 4-09 Gebäudeautomation",
+   "auftraggeber_treffer": "Burgenlandkreis"
+  },
+  "netgo ost|S4|693389-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-08",
+   "titel": "DELL PowerEdge - Erweiterung Storage-Server für KI-System - PR1287846-2880-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "netgo ost|S4|689848-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "Basis- Virtualisierung",
+   "auftraggeber_treffer": "ProVitako Marketing- und Dienstleistungsgesellschaft der Kommunalen..."
+  },
+  "netgo ost|S4|689906-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-07",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "netgo|S4|687151-2026": {
+   "frist": "2026-10-15",
+   "signal_datum": "2026-10-06",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "netdescribe|S4|690003-2026": {
+   "frist": "2026-10-12",
+   "signal_datum": "2026-10-07",
+   "titel": "Mobile Device Management – BlackBerry Unified Endpoint Manager (UEM) on premise",
+   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
+  },
+  "netdescribe|S4|691871-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-07",
+   "titel": "KI-Server 2026",
+   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
+  },
+  "netapp|S4|657082-2026": {
+   "frist": "2026-10-20",
+   "signal_datum": "2026-09-24",
+   "titel": "Nachhaltige Notebooks (produktneutral) der Kategorie Standard und Zusatzleistungen Los 2...",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "märz network services|S4|695984-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-08",
+   "titel": "Serverinfrastruktur für die bestehende VMware-ESXi-Umgebung",
+   "auftraggeber_treffer": "Neckar-Odenwald-Kliniken gGmbH"
+  },
+  "mup bürohandels|S4|691781-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-07",
+   "titel": "Ertüchtigung & Erweiterung der MSR-Technik-Green IT-Cube",
+   "auftraggeber_treffer": "GSI Helmholtzzentrum für Schwerionenforschung GmbH"
+  },
+  "mr datentechnik vertriebs und service|S4|689343-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-07",
+   "titel": "DiBA DL 2027",
+   "auftraggeber_treffer": "Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier..."
+  },
+  "mr datentechnik vertriebs und service|S4|689402-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "Nachbeschaffung von Lizenzen und Support von virtuellen Proofpoint Protection Servern...",
+   "auftraggeber_treffer": "Rechenzentrum der Finanzverwaltung des Landes NRW"
+  },
+  "mr datentechnik vertriebs und service|S4|692209-2026": {
+   "frist": "2026-11-11",
+   "signal_datum": "2026-10-07",
+   "titel": "Managed Service FMS",
+   "auftraggeber_treffer": "Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier..."
+  },
+  "mettenmeier|S4|690003-2026": {
+   "frist": "2026-10-12",
+   "signal_datum": "2026-10-07",
+   "titel": "Mobile Device Management – BlackBerry Unified Endpoint Manager (UEM) on premise",
+   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
+  },
+  "mettenmeier|S4|691871-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-07",
+   "titel": "KI-Server 2026",
+   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
+  },
+  "mentz|S4|695827-2026": {
+   "frist": "2026-10-30",
+   "signal_datum": "2026-10-08",
+   "titel": "Markterkundung: IT-Hardware",
+   "auftraggeber_treffer": "Rhein-Neckar-Verkehr GmbH"
+  },
+  "mentiq|S4|689848-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "Basis- Virtualisierung",
+   "auftraggeber_treffer": "ProVitako Marketing- und Dienstleistungsgesellschaft der Kommunalen..."
+  },
+  "megware computer vertrieb und service|S4|693139-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-08",
+   "titel": "Ceph Cluster ThULB",
+   "auftraggeber_treffer": "Friedrich-Schiller-Universität Jena"
+  },
+  "megware computer vertrieb und service|S4|691781-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-07",
+   "titel": "Ertüchtigung & Erweiterung der MSR-Technik-Green IT-Cube",
+   "auftraggeber_treffer": "GSI Helmholtzzentrum für Schwerionenforschung GmbH"
+  },
+  "medialine eurotrade|S4|693389-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-08",
+   "titel": "DELL PowerEdge - Erweiterung Storage-Server für KI-System - PR1287846-2880-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "medialine eurotrade|S4|689906-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-07",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "mediainterface|S4|689343-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-07",
+   "titel": "DiBA DL 2027",
+   "auftraggeber_treffer": "Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier..."
+  },
+  "mediainterface|S4|692209-2026": {
+   "frist": "2026-11-11",
+   "signal_datum": "2026-10-07",
+   "titel": "Managed Service FMS",
+   "auftraggeber_treffer": "Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier..."
+  },
+  "meddv|S4|687730-2026": {
+   "frist": "2026-10-09",
+   "signal_datum": "2026-10-06",
+   "titel": "Lieferung von Thermalorthofotos für das Gebiet der Region Hannover",
+   "auftraggeber_treffer": "Region Hannover"
+  },
+  "lur sl|S4|687948-2026": {
+   "signal_datum": "2026-10-06",
+   "titel": "10009622-Short-term expert pool for technical advice in the field of digitalisation and...",
+   "auftraggeber_treffer": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+  },
+  "lur sl|S4|688539-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Bildungscampus Naumburg, Schönburger Straße, 06618 Naumburg, Los 4-09 Gebäudeautomation",
+   "auftraggeber_treffer": "Burgenlandkreis"
+  },
+  "lur sl|S4|688881-2026": {
+   "signal_datum": "2026-10-06",
+   "titel": "10048442_Microsoft_Unified_Support_Leistungen",
+   "auftraggeber_treffer": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+  },
+  "kramer crew|S4|693559-2026": {
+   "frist": "2026-10-19",
+   "signal_datum": "2026-10-08",
+   "titel": "Dienstleistung \"M365 - Solution Architect / Integrationsmanager\"...",
+   "auftraggeber_treffer": "Stadt Nürnberg - Zentrale Dienste"
+  },
+  "kramer crew|S4|689848-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "Basis- Virtualisierung",
+   "auftraggeber_treffer": "ProVitako Marketing- und Dienstleistungsgesellschaft der Kommunalen..."
+  },
+  "kisters|S4|689519-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "POLAS",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "keysight technologies|S4|693389-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-08",
+   "titel": "DELL PowerEdge - Erweiterung Storage-Server für KI-System - PR1287846-2880-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "keysight technologies|S4|689906-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-07",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "itwatch|S4|685842-2026": {
+   "frist": "2026-10-14",
+   "signal_datum": "2026-10-06",
+   "titel": "TLF-IT-26-011",
+   "auftraggeber_treffer": "Freistaat Thüringen vertreten durch das Thüringer Landesamt..."
+  },
+  "itmediaconsult|S4|690003-2026": {
+   "frist": "2026-10-12",
+   "signal_datum": "2026-10-07",
+   "titel": "Mobile Device Management – BlackBerry Unified Endpoint Manager (UEM) on premise",
+   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
+  },
+  "itmediaconsult|S4|691871-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-07",
+   "titel": "KI-Server 2026",
+   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
+  },
+  "it haus|S4|693559-2026": {
+   "frist": "2026-10-19",
+   "signal_datum": "2026-10-08",
+   "titel": "Dienstleistung \"M365 - Solution Architect / Integrationsmanager\"...",
+   "auftraggeber_treffer": "Stadt Nürnberg - Zentrale Dienste"
+  },
+  "iqul|S4|689270-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-07",
+   "titel": "Datenschutzbeauftragter für alle öffentlichen Schulen des Landes M-V",
+   "auftraggeber_treffer": "Landesamt für innere Verwaltung M-V, Abteilung..."
+  },
+  "iqul|S4|689519-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "POLAS",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "interface systems|S4|689848-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "Basis- Virtualisierung",
+   "auftraggeber_treffer": "ProVitako Marketing- und Dienstleistungsgesellschaft der Kommunalen..."
+  },
+  "interface systems|S4|687151-2026": {
+   "frist": "2026-10-15",
+   "signal_datum": "2026-10-06",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "interface systems|S4|687311-2026": {
+   "frist": "2026-10-19",
+   "signal_datum": "2026-10-06",
+   "titel": "Rahmenvereinbarung über Java-Entwicklung",
+   "auftraggeber_treffer": "DVZ Datenverarbeitungszentrum Mecklenburg-Vorpommern GmbH"
+  },
+  "init|S4|689519-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "POLAS",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "init|S4|690003-2026": {
+   "frist": "2026-10-12",
+   "signal_datum": "2026-10-07",
+   "titel": "Mobile Device Management – BlackBerry Unified Endpoint Manager (UEM) on premise",
+   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
+  },
+  "init|S4|691871-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-07",
+   "titel": "KI-Server 2026",
+   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
+  },
+  "infodas|S4|693389-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-08",
+   "titel": "DELL PowerEdge - Erweiterung Storage-Server für KI-System - PR1287846-2880-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "infodas|S4|689906-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-07",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "infodas|S4|686124-2026": {
+   "signal_datum": "2026-10-06",
+   "titel": "1807-AB-Strategische Partnerschaft - KI für die Bw",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "if tech|S4|687151-2026": {
+   "frist": "2026-10-15",
+   "signal_datum": "2026-10-06",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "hiscout|S4|690003-2026": {
+   "frist": "2026-10-12",
+   "signal_datum": "2026-10-07",
+   "titel": "Mobile Device Management – BlackBerry Unified Endpoint Manager (UEM) on premise",
+   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
+  },
+  "hiscout|S4|691871-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-07",
+   "titel": "KI-Server 2026",
+   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
+  },
+  "hiscout|S4|688760-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-06",
+   "titel": "ITDZ Berlin: OV RV Datenschleuse",
+   "auftraggeber_treffer": "IT-Dienstleistungszentrum Berlin (AöR)"
+  },
+  "group24|S4|695694-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-08",
+   "titel": "Pflege-, Entwicklungs- sowie weitere Leistungen für Kofax-Komponenten",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland - Bundesamt für Justiz"
+  },
+  "group24|S4|686402-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-06",
+   "titel": "Pflege-, Entwicklungs- sowie weitere Leistungen für Kofax-Komponenten",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland - Bundesamt für Justiz"
+  },
+  "greenbone|S4|686124-2026": {
+   "signal_datum": "2026-10-06",
+   "titel": "1807-AB-Strategische Partnerschaft - KI für die Bw",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "greenbone|S4|687581-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Festnetztelekommunikationsdienstleistungen - VoIP",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "greenbone|S4|688185-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Software Airlock und produktnahe Dienstleistungen",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "first data|S4|689519-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "POLAS",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "first data|S4|687151-2026": {
+   "frist": "2026-10-15",
+   "signal_datum": "2026-10-06",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "fernao magellan|S4|692234-2026": {
+   "frist": "2026-11-05",
+   "signal_datum": "2026-10-07",
+   "titel": "Hosting und Betrieb der SAP-Plattform in einem Cloud-Rechenzentrum",
+   "auftraggeber_treffer": "Klinikum der Landeshauptstadt Stuttgart gKAöR"
+  },
+  "fernao magellan|S4|688951-2026": {
+   "signal_datum": "2026-10-06",
+   "titel": "Integriertes Bediensystem (iBS)",
+   "auftraggeber_treffer": "DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16)"
+  },
+  "eurofunk kappacher|S4|693559-2026": {
+   "frist": "2026-10-19",
+   "signal_datum": "2026-10-08",
+   "titel": "Dienstleistung \"M365 - Solution Architect / Integrationsmanager\"...",
+   "auftraggeber_treffer": "Stadt Nürnberg - Zentrale Dienste"
+  },
+  "esg elektroniksystem und logistik|S4|686124-2026": {
+   "signal_datum": "2026-10-06",
+   "titel": "1807-AB-Strategische Partnerschaft - KI für die Bw",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "eos electro optical systems|S4|693389-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-08",
+   "titel": "DELL PowerEdge - Erweiterung Storage-Server für KI-System - PR1287846-2880-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "eos electro optical systems|S4|689906-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-07",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "enterprise communications services|S4|695984-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-08",
+   "titel": "Serverinfrastruktur für die bestehende VMware-ESXi-Umgebung",
+   "auftraggeber_treffer": "Neckar-Odenwald-Kliniken gGmbH"
+  },
+  "enterprise communications services|S4|690003-2026": {
+   "frist": "2026-10-12",
+   "signal_datum": "2026-10-07",
+   "titel": "Mobile Device Management – BlackBerry Unified Endpoint Manager (UEM) on premise",
+   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
+  },
+  "enterprise communications services|S4|691871-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-07",
+   "titel": "KI-Server 2026",
+   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
+  },
+  "ecs enterprise communications services|S4|687948-2026": {
+   "signal_datum": "2026-10-06",
+   "titel": "10009622-Short-term expert pool for technical advice in the field of digitalisation and...",
+   "auftraggeber_treffer": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+  },
+  "ecs enterprise communications services|S4|688881-2026": {
+   "signal_datum": "2026-10-06",
+   "titel": "10048442_Microsoft_Unified_Support_Leistungen",
+   "auftraggeber_treffer": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+  },
+  "druckerfachmann de|S4|687581-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Festnetztelekommunikationsdienstleistungen - VoIP",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "druckerfachmann de|S4|688185-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Software Airlock und produktnahe Dienstleistungen",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "dr ing paul christiani|S4|688539-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Bildungscampus Naumburg, Schönburger Straße, 06618 Naumburg, Los 4-09 Gebäudeautomation",
+   "auftraggeber_treffer": "Burgenlandkreis"
+  },
+  "docconsult|S4|689402-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "Nachbeschaffung von Lizenzen und Support von virtuellen Proofpoint Protection Servern...",
+   "auftraggeber_treffer": "Rechenzentrum der Finanzverwaltung des Landes NRW"
+  },
+  "docconsult|S4|686124-2026": {
+   "signal_datum": "2026-10-06",
+   "titel": "1807-AB-Strategische Partnerschaft - KI für die Bw",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "docconsult|S4|687581-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Festnetztelekommunikationsdienstleistungen - VoIP",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "dfc systems|S4|686124-2026": {
+   "signal_datum": "2026-10-06",
+   "titel": "1807-AB-Strategische Partnerschaft - KI für die Bw",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "delta computer products|S4|693389-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-08",
+   "titel": "DELL PowerEdge - Erweiterung Storage-Server für KI-System - PR1287846-2880-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "delta computer products|S4|689906-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-07",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "dekom|S4|693389-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-08",
+   "titel": "DELL PowerEdge - Erweiterung Storage-Server für KI-System - PR1287846-2880-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "dekom|S4|689906-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-07",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "datagroup stuttgart|S4|687151-2026": {
+   "frist": "2026-10-15",
+   "signal_datum": "2026-10-06",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "datagroup frankfurt|S4|695366-2026": {
+   "signal_datum": "2026-10-08",
+   "titel": "Content Management System",
+   "auftraggeber_treffer": "DB Systel GmbH (Bukr 2B, 44)"
+  },
+  "damovo|S4|689519-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "POLAS",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "dacoso|S4|692489-2026": {
+   "frist": "2026-10-19",
+   "signal_datum": "2026-10-07",
+   "titel": "Verlängerung der PingIDM",
+   "auftraggeber_treffer": "Universität Stuttgart"
+  },
+  "cyprotect|S4|696212-2026": {
+   "frist": "2026-10-13",
+   "signal_datum": "2026-10-08",
+   "titel": "Verlängerung der Suse Linux Enterprise Server Subscription inkl. LTSS...",
+   "auftraggeber_treffer": "Freistaat Sachsen, vertreten durch den Staatsbetrieb Sächsische..."
+  },
+  "cyprotect|S4|686124-2026": {
+   "signal_datum": "2026-10-06",
+   "titel": "1807-AB-Strategische Partnerschaft - KI für die Bw",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "cyprotect|S4|687151-2026": {
+   "frist": "2026-10-15",
+   "signal_datum": "2026-10-06",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "cosylab|S4|691781-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-07",
+   "titel": "Ertüchtigung & Erweiterung der MSR-Technik-Green IT-Cube",
+   "auftraggeber_treffer": "GSI Helmholtzzentrum für Schwerionenforschung GmbH"
+  },
+  "converge technology solutions|S4|689519-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "POLAS",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "concat|S4|692489-2026": {
+   "frist": "2026-10-19",
+   "signal_datum": "2026-10-07",
+   "titel": "Verlängerung der PingIDM",
+   "auftraggeber_treffer": "Universität Stuttgart"
+  },
+  "comparex|S4|687035-2026": {
+   "frist": "2026-11-04",
+   "signal_datum": "2026-10-06",
+   "titel": "Rahmenvertrag für externe Dienstleistungen zur Durchführung des IT gestützten...",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "colt technology services|S4|687035-2026": {
+   "frist": "2026-11-04",
+   "signal_datum": "2026-10-06",
+   "titel": "Rahmenvertrag für externe Dienstleistungen zur Durchführung des IT gestützten...",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "colt technology services|S4|688760-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-06",
+   "titel": "ITDZ Berlin: OV RV Datenschleuse",
+   "auftraggeber_treffer": "IT-Dienstleistungszentrum Berlin (AöR)"
+  },
+  "circular informationssysteme|S4|693389-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-08",
+   "titel": "DELL PowerEdge - Erweiterung Storage-Server für KI-System - PR1287846-2880-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "circular informationssysteme|S4|689906-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-07",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "christmann informationstechnik medien|S4|687730-2026": {
+   "frist": "2026-10-09",
+   "signal_datum": "2026-10-06",
+   "titel": "Lieferung von Thermalorthofotos für das Gebiet der Region Hannover",
+   "auftraggeber_treffer": "Region Hannover"
+  },
+  "bundesdruckerei|S4|691879-2026": {
+   "signal_datum": "2026-10-07",
+   "titel": "Beschaffung und Einführung einer digitalen Lösung für E-Procurement-Prozesse",
+   "auftraggeber_treffer": "Freie Universität Berlin"
+  },
+  "bundesdruckerei|S4|687581-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Festnetztelekommunikationsdienstleistungen - VoIP",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "bundesdruckerei|S4|688185-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Software Airlock und produktnahe Dienstleistungen",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "bsa systemhaus|S4|690003-2026": {
+   "frist": "2026-10-12",
+   "signal_datum": "2026-10-07",
+   "titel": "Mobile Device Management – BlackBerry Unified Endpoint Manager (UEM) on premise",
+   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
+  },
+  "bsa systemhaus|S4|691871-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-07",
+   "titel": "KI-Server 2026",
+   "auftraggeber_treffer": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern"
+  },
+  "brodos|S4|695366-2026": {
+   "signal_datum": "2026-10-08",
+   "titel": "Content Management System",
+   "auftraggeber_treffer": "DB Systel GmbH (Bukr 2B, 44)"
+  },
+  "brodos|S4|686124-2026": {
+   "signal_datum": "2026-10-06",
+   "titel": "1807-AB-Strategische Partnerschaft - KI für die Bw",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "brodos|S4|687151-2026": {
+   "frist": "2026-10-15",
+   "signal_datum": "2026-10-06",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "avodaq|S4|687151-2026": {
+   "frist": "2026-10-15",
+   "signal_datum": "2026-10-06",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "arktis|S4|687311-2026": {
+   "frist": "2026-10-19",
+   "signal_datum": "2026-10-06",
+   "titel": "Rahmenvereinbarung über Java-Entwicklung",
+   "auftraggeber_treffer": "DVZ Datenverarbeitungszentrum Mecklenburg-Vorpommern GmbH"
+  },
+  "amber ai data science solutions|S4|693389-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-08",
+   "titel": "DELL PowerEdge - Erweiterung Storage-Server für KI-System - PR1287846-2880-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "amber ai data science solutions|S4|689906-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-07",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "alstom signal|S4|695827-2026": {
+   "frist": "2026-10-30",
+   "signal_datum": "2026-10-08",
+   "titel": "Markterkundung: IT-Hardware",
+   "auftraggeber_treffer": "Rhein-Neckar-Verkehr GmbH"
+  },
+  "albacon systemhaus|S4|688539-2026": {
+   "frist": "2026-10-22",
+   "signal_datum": "2026-10-06",
+   "titel": "Bildungscampus Naumburg, Schönburger Straße, 06618 Naumburg, Los 4-09 Gebäudeautomation",
+   "auftraggeber_treffer": "Burgenlandkreis"
+  },
+  "afb gemeinnützige|S4|689343-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-07",
+   "titel": "DiBA DL 2027",
+   "auftraggeber_treffer": "Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier..."
+  },
+  "afb gemeinnützige|S4|689402-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "Nachbeschaffung von Lizenzen und Support von virtuellen Proofpoint Protection Servern...",
+   "auftraggeber_treffer": "Rechenzentrum der Finanzverwaltung des Landes NRW"
+  },
+  "afb gemeinnützige|S4|692209-2026": {
+   "frist": "2026-11-11",
+   "signal_datum": "2026-10-07",
+   "titel": "Managed Service FMS",
+   "auftraggeber_treffer": "Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier..."
+  },
+  "advanced unibyte|S4|693389-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-08",
+   "titel": "DELL PowerEdge - Erweiterung Storage-Server für KI-System - PR1287846-2880-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "advanced unibyte|S4|689270-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-07",
+   "titel": "Datenschutzbeauftragter für alle öffentlichen Schulen des Landes M-V",
+   "auftraggeber_treffer": "Landesamt für innere Verwaltung M-V, Abteilung..."
+  },
+  "advanced unibyte|S4|689906-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-07",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "acp techrent|S4|689848-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-07",
+   "titel": "Basis- Virtualisierung",
+   "auftraggeber_treffer": "ProVitako Marketing- und Dienstleistungsgesellschaft der Kommunalen..."
+  },
+  "1 1 versatel|S4|687151-2026": {
+   "frist": "2026-10-15",
+   "signal_datum": "2026-10-06",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
   }
  },
  "laeufe": [
@@ -3519,6 +4487,14 @@
    "geaendert": 5,
    "unveraendert": 467,
    "accounts": 222
+  },
+  {
+   "zeit": "2026-10-08T19:04:28",
+   "gefunden": 536,
+   "neu": 165,
+   "geaendert": 5,
+   "unveraendert": 366,
+   "accounts": 217
   }
  ]
 }
