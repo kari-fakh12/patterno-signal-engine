@@ -3075,23 +3075,23 @@
    "auftraggeber_treffer": "Dataport AöR"
   },
   "office partner|S1|ba:officepartner": {
-   "signal_datum": "2026-08-12",
+   "signal_datum": "2026-08-16",
    "titel": "Assistent im Tender Management in Vollzeit oder Teilzeit ,Gescher,Münster"
   },
   "pan dacom networking|S1|ba:pandacomnetworkingag": {
-   "signal_datum": "2026-05-14",
+   "signal_datum": "2026-05-18",
    "titel": "Bid / Tender Manager"
   },
   "bfe studio und medien systeme|S1|ba:bfestudioundmediensystemegmbh": {
-   "signal_datum": "2026-05-27",
+   "signal_datum": "2026-05-31",
    "titel": "Projektkaufmann Angebotsmanagement"
   },
   "brodos|S1|ba:brodosag": {
-   "signal_datum": "2026-10-07",
+   "signal_datum": "2026-10-11",
    "titel": "Tender Manager"
   },
   "netgo|S1|ba:netgogroupgmbh": {
-   "signal_datum": "2026-09-19",
+   "signal_datum": "2026-09-23",
    "titel": "Bid Manager öffentliche Ausschreibungen IT"
   },
   "zehnbauer it|S4|684042-2026": {
@@ -4469,6 +4469,802 @@
    "signal_datum": "2026-10-06",
    "titel": "RV VMWare Reseller Wettbewerb",
    "auftraggeber_treffer": "Dataport AöR"
+  },
+  "sysgen|S2|701779-2026": {
+   "signal_datum": "2026-12-11",
+   "titel": "Beschaffung von drei Hochleistungsserversystemen für KI, GPU-Computing und NVMe...",
+   "auftraggeber_treffer": "Universitätsklinikum Aachen AöR",
+   "rahmenvertrag": false
+  },
+  "weiko officeline|S4|700154-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-09",
+   "titel": "Wartungleistungen von Server- und Storagesystemen sowie Switchen",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "urano informationssysteme|S4|700154-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-09",
+   "titel": "Wartungleistungen von Server- und Storagesystemen sowie Switchen",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "thinkred west|S4|702232-2026": {
+   "signal_datum": "2026-10-12",
+   "titel": "Generalentwässerungsplanung - GEP",
+   "auftraggeber_treffer": "Stadt Fürth"
+  },
+  "thinkred west|S4|696774-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-09",
+   "titel": "2026-0601 Rahmenvereinbarung über die Beschaffung von FIDO2-Sticks für die Stadt Duisburg",
+   "auftraggeber_treffer": "Einkauf der Stadt Duisburg (10-31)"
+  },
+  "thinkred west|S4|698960-2026": {
+   "frist": "2026-10-27",
+   "signal_datum": "2026-10-09",
+   "titel": "62-2026-688-EA Verlängerung Maintenance von Citrix-Lizenzen",
+   "auftraggeber_treffer": "Stadt Regensburg"
+  },
+  "thinkred|S4|699817-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-09",
+   "titel": "VMWare 2027",
+   "auftraggeber_treffer": "Landesbetrieb Daten und Information Rheinland-Pfalz (LDI)"
+  },
+  "ta triumph adler|S4|700154-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-09",
+   "titel": "Wartungleistungen von Server- und Storagesystemen sowie Switchen",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "sysgen systeme und informatikanwendungen nikisch|S4|702643-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-12",
+   "titel": "Lieferung, Installation und Inbetriebnahme eines Compute-Knotens im HPC-RAMSES-Cluster...",
+   "auftraggeber_treffer": "Deutsches Krebsforschungszentrum"
+  },
+  "swarco traffic systems|S4|704126-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "VEEAM Handelspartnervergabe",
+   "auftraggeber_treffer": "Die Autobahn GmbH des Bundes"
+  },
+  "swarco traffic systems|S4|698295-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-09",
+   "titel": "VEEAM Handelspartnervergabe",
+   "auftraggeber_treffer": "Die Autobahn GmbH des Bundes"
+  },
+  "spie information communication services|S4|699068-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-09",
+   "titel": "Neubeschaffung zentraler NetApp Speichersysteme",
+   "auftraggeber_treffer": "Landkreis Schaumburg - Vergabestelle"
+  },
+  "speicherwerke|S4|698960-2026": {
+   "frist": "2026-10-27",
+   "signal_datum": "2026-10-09",
+   "titel": "62-2026-688-EA Verlängerung Maintenance von Citrix-Lizenzen",
+   "auftraggeber_treffer": "Stadt Regensburg"
+  },
+  "speedpoint|S4|702232-2026": {
+   "signal_datum": "2026-10-12",
+   "titel": "Generalentwässerungsplanung - GEP",
+   "auftraggeber_treffer": "Stadt Fürth"
+  },
+  "sonah|S4|700355-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-12",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "sonah|S4|700481-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "IT-Kleinteile Hardware-Produkte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "sonah|S4|701477-2026": {
+   "frist": "2029-10-08",
+   "signal_datum": "2026-10-12",
+   "titel": "Vertriebspartnerschaft zur Produktgruppe KI",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "sits|S4|700154-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-09",
+   "titel": "Wartungleistungen von Server- und Storagesystemen sowie Switchen",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "shd system haus dresden|S4|702912-2026": {
+   "frist": "2026-10-19",
+   "signal_datum": "2026-10-12",
+   "titel": "Los 1 - Fachberatung CCV",
+   "auftraggeber_treffer": "Staatsbetrieb Sächsische Informatik Dienste"
+  },
+  "seitenbau|S4|703823-2026": {
+   "frist": "2026-10-15",
+   "signal_datum": "2026-10-12",
+   "titel": "115-Netzplattform",
+   "auftraggeber_treffer": "FITKO (Föderale IT-Kooperation)"
+  },
+  "scitech it solutions|S4|702436-2026": {
+   "frist": "2026-11-12",
+   "signal_datum": "2026-10-12",
+   "titel": "Mobile Einheit_RESILIA",
+   "auftraggeber_treffer": "Berliner Feuerwehr"
+  },
+  "schenker technologies|S4|701203-2026": {
+   "signal_datum": "2026-10-12",
+   "titel": "Bibliotheksmanagementsystems für die Leipziger Städtischen Bibliotheken",
+   "auftraggeber_treffer": "Stadt Leipzig"
+  },
+  "rola security solutions|S4|699409-2026": {
+   "frist": "2026-10-14",
+   "signal_datum": "2026-10-09",
+   "titel": "Netzwerk-Kommunikations-Infrastruktur",
+   "auftraggeber_treffer": "Techniker Krankenkasse"
+  },
+  "roda computer|S4|699397-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-09",
+   "titel": "IT-U MAD 2010 - Scanner und Medienkonverter Zone 1",
+   "auftraggeber_treffer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung..."
+  },
+  "rescuetrack|S4|702436-2026": {
+   "frist": "2026-11-12",
+   "signal_datum": "2026-10-12",
+   "titel": "Mobile Einheit_RESILIA",
+   "auftraggeber_treffer": "Berliner Feuerwehr"
+  },
+  "ratiodata|S4|703792-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-12",
+   "titel": "Pflege- und Supportleistungen (opentext-prime-protect) für Softwareprodukte...",
+   "auftraggeber_treffer": "Deutsche Bundesbank, Zentralbereich Beschaffungen"
+  },
+  "raid media systems|S4|701461-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-12",
+   "titel": "Rahmenvereinbarung Mathematischer High-Performance-Solver - PR1283908-9632-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "raid media systems|S4|697152-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-09",
+   "titel": "Los 1",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "raid media systems|S4|698903-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-09",
+   "titel": "Literaturverwaltungssoftware - PR1275814-9789-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "public edge|S4|700355-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-12",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "public edge|S4|700481-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "IT-Kleinteile Hardware-Produkte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "public edge|S4|701477-2026": {
+   "frist": "2029-10-08",
+   "signal_datum": "2026-10-12",
+   "titel": "Vertriebspartnerschaft zur Produktgruppe KI",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "prowise|S4|696888-2026": {
+   "signal_datum": "2026-10-09",
+   "titel": "RV Software Friedhofsmanagement",
+   "auftraggeber_treffer": "civillent GmbH"
+  },
+  "prowise|S4|700268-2026": {
+   "frist": "2026-11-12",
+   "signal_datum": "2026-10-09",
+   "titel": "10050805 - Advanced Distribution Management System",
+   "auftraggeber_treffer": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+  },
+  "pro com datensysteme|S4|701890-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "Ausschreibung PB8-MNT/2026 (Wartung IBM Tapesysteme)",
+   "auftraggeber_treffer": "Garching, Leibniz-Rechenzentrum der Bayerischen Akademie..."
+  },
+  "new work|S4|701203-2026": {
+   "signal_datum": "2026-10-12",
+   "titel": "Bibliotheksmanagementsystems für die Leipziger Städtischen Bibliotheken",
+   "auftraggeber_treffer": "Stadt Leipzig"
+  },
+  "netgo ost|S4|701461-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-12",
+   "titel": "Rahmenvereinbarung Mathematischer High-Performance-Solver - PR1283908-9632-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "netgo ost|S4|697152-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-09",
+   "titel": "Los 1",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "netgo ost|S4|698903-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-09",
+   "titel": "Literaturverwaltungssoftware - PR1275814-9789-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "netgo|S4|700355-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-12",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "netgo|S4|700481-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "IT-Kleinteile Hardware-Produkte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "netgo|S4|701477-2026": {
+   "frist": "2029-10-08",
+   "signal_datum": "2026-10-12",
+   "titel": "Vertriebspartnerschaft zur Produktgruppe KI",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "netapp|S4|701890-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "Ausschreibung PB8-MNT/2026 (Wartung IBM Tapesysteme)",
+   "auftraggeber_treffer": "Garching, Leibniz-Rechenzentrum der Bayerischen Akademie..."
+  },
+  "netapp|S4|696888-2026": {
+   "signal_datum": "2026-10-09",
+   "titel": "RV Software Friedhofsmanagement",
+   "auftraggeber_treffer": "civillent GmbH"
+  },
+  "mr datentechnik vertriebs und service|S4|698960-2026": {
+   "frist": "2026-10-27",
+   "signal_datum": "2026-10-09",
+   "titel": "62-2026-688-EA Verlängerung Maintenance von Citrix-Lizenzen",
+   "auftraggeber_treffer": "Stadt Regensburg"
+  },
+  "megware computer vertrieb und service|S4|701890-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "Ausschreibung PB8-MNT/2026 (Wartung IBM Tapesysteme)",
+   "auftraggeber_treffer": "Garching, Leibniz-Rechenzentrum der Bayerischen Akademie..."
+  },
+  "megware computer vertrieb und service|S4|702294-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "Beschaffung Server für K10Plus Zentral",
+   "auftraggeber_treffer": "Universität Konstanz"
+  },
+  "megware computer vertrieb und service|S4|697296-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-09",
+   "titel": "Server",
+   "auftraggeber_treffer": "Universität Leipzig"
+  },
+  "medialine eurotrade|S4|701461-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-12",
+   "titel": "Rahmenvereinbarung Mathematischer High-Performance-Solver - PR1283908-9632-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "medialine eurotrade|S4|697152-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-09",
+   "titel": "Los 1",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "medialine eurotrade|S4|698903-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-09",
+   "titel": "Literaturverwaltungssoftware - PR1275814-9789-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "lur sl|S4|700268-2026": {
+   "frist": "2026-11-12",
+   "signal_datum": "2026-10-09",
+   "titel": "10050805 - Advanced Distribution Management System",
+   "auftraggeber_treffer": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+  },
+  "kupper it|S4|702912-2026": {
+   "frist": "2026-10-19",
+   "signal_datum": "2026-10-12",
+   "titel": "Los 1 - Fachberatung CCV",
+   "auftraggeber_treffer": "Staatsbetrieb Sächsische Informatik Dienste"
+  },
+  "kisters|S4|700154-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-09",
+   "titel": "Wartungleistungen von Server- und Storagesystemen sowie Switchen",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "keysight technologies|S4|701461-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-12",
+   "titel": "Rahmenvereinbarung Mathematischer High-Performance-Solver - PR1283908-9632-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "keysight technologies|S4|703792-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-12",
+   "titel": "Pflege- und Supportleistungen (opentext-prime-protect) für Softwareprodukte...",
+   "auftraggeber_treffer": "Deutsche Bundesbank, Zentralbereich Beschaffungen"
+  },
+  "keysight technologies|S4|697152-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-09",
+   "titel": "Los 1",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "itiso|S4|702925-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "164/170/174 - SIEM Wartung & Lizenzen für vier Jahre",
+   "auftraggeber_treffer": "RWTH Aachen University"
+  },
+  "is4it|S4|698478-2026": {
+   "frist": "2026-10-20",
+   "signal_datum": "2026-10-09",
+   "titel": "44EU/26 Austausch und Erweiterung der Core-Netz-Komponenten",
+   "auftraggeber_treffer": "Stadt Trier"
+  },
+  "iqul|S4|700154-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-09",
+   "titel": "Wartungleistungen von Server- und Storagesystemen sowie Switchen",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "interface systems|S4|700355-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-12",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "interface systems|S4|700481-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "IT-Kleinteile Hardware-Produkte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "interface systems|S4|701477-2026": {
+   "frist": "2029-10-08",
+   "signal_datum": "2026-10-12",
+   "titel": "Vertriebspartnerschaft zur Produktgruppe KI",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "init|S4|702912-2026": {
+   "frist": "2026-10-19",
+   "signal_datum": "2026-10-12",
+   "titel": "Los 1 - Fachberatung CCV",
+   "auftraggeber_treffer": "Staatsbetrieb Sächsische Informatik Dienste"
+  },
+  "init|S4|700154-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-09",
+   "titel": "Wartungleistungen von Server- und Storagesystemen sowie Switchen",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "infodas|S4|701461-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-12",
+   "titel": "Rahmenvereinbarung Mathematischer High-Performance-Solver - PR1283908-9632-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "infodas|S4|697152-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-09",
+   "titel": "Los 1",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "infodas|S4|698903-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-09",
+   "titel": "Literaturverwaltungssoftware - PR1275814-9789-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "if tech|S4|700355-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-12",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "if tech|S4|700481-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "IT-Kleinteile Hardware-Produkte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "if tech|S4|701477-2026": {
+   "frist": "2029-10-08",
+   "signal_datum": "2026-10-12",
+   "titel": "Vertriebspartnerschaft zur Produktgruppe KI",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "hiscout|S4|703792-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-12",
+   "titel": "Pflege- und Supportleistungen (opentext-prime-protect) für Softwareprodukte...",
+   "auftraggeber_treffer": "Deutsche Bundesbank, Zentralbereich Beschaffungen"
+  },
+  "h g hansen gieraths edv vetriebsgesellschaft|S4|699409-2026": {
+   "frist": "2026-10-14",
+   "signal_datum": "2026-10-09",
+   "titel": "Netzwerk-Kommunikations-Infrastruktur",
+   "auftraggeber_treffer": "Techniker Krankenkasse"
+  },
+  "h g hansen gieraths edv vertriebsgesellschaft|S4|701520-2026": {
+   "signal_datum": "2026-10-12",
+   "titel": "Implementierung Planungssoftware",
+   "auftraggeber_treffer": "HIL Heeresinstandsetzungslogistik GmbH"
+  },
+  "h g hansen gieraths edv vertriebsgesellschaft|S4|702643-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-12",
+   "titel": "Lieferung, Installation und Inbetriebnahme eines Compute-Knotens im HPC-RAMSES-Cluster...",
+   "auftraggeber_treffer": "Deutsches Krebsforschungszentrum"
+  },
+  "frequentis|S4|699397-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-09",
+   "titel": "IT-U MAD 2010 - Scanner und Medienkonverter Zone 1",
+   "auftraggeber_treffer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung..."
+  },
+  "first data|S4|700355-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-12",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "first data|S4|700481-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "IT-Kleinteile Hardware-Produkte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "first data|S4|701477-2026": {
+   "frist": "2029-10-08",
+   "signal_datum": "2026-10-12",
+   "titel": "Vertriebspartnerschaft zur Produktgruppe KI",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "esg elektroniksystem und logistik|S4|699397-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-09",
+   "titel": "IT-U MAD 2010 - Scanner und Medienkonverter Zone 1",
+   "auftraggeber_treffer": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung..."
+  },
+  "eos electro optical systems|S4|701461-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-12",
+   "titel": "Rahmenvereinbarung Mathematischer High-Performance-Solver - PR1283908-9632-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "eos electro optical systems|S4|701520-2026": {
+   "signal_datum": "2026-10-12",
+   "titel": "Implementierung Planungssoftware",
+   "auftraggeber_treffer": "HIL Heeresinstandsetzungslogistik GmbH"
+  },
+  "eos electro optical systems|S4|697152-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-09",
+   "titel": "Los 1",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "ecs enterprise communications services|S4|700268-2026": {
+   "frist": "2026-11-12",
+   "signal_datum": "2026-10-09",
+   "titel": "10050805 - Advanced Distribution Management System",
+   "auftraggeber_treffer": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+  },
+  "dynasys datentechnik|S4|701566-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-12",
+   "titel": "Beschaffung von 342 iPads und 110 MacBooks neo",
+   "auftraggeber_treffer": "Landkreis Aichach-Friedberg"
+  },
+  "dxc technology|S4|697508-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-09",
+   "titel": "Beschaffung eines SAN-Storagesystems inkl Installation, Migration und Support",
+   "auftraggeber_treffer": "Gebäudemanagement Schleswig-Holstein AöR, Fachbereich 412"
+  },
+  "delta computer products|S4|701461-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-12",
+   "titel": "Rahmenvereinbarung Mathematischer High-Performance-Solver - PR1283908-9632-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "delta computer products|S4|697152-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-09",
+   "titel": "Los 1",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "delta computer products|S4|698903-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-09",
+   "titel": "Literaturverwaltungssoftware - PR1275814-9789-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "dekom|S4|701461-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-12",
+   "titel": "Rahmenvereinbarung Mathematischer High-Performance-Solver - PR1283908-9632-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "dekom|S4|697152-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-09",
+   "titel": "Los 1",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "dekom|S4|698903-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-09",
+   "titel": "Literaturverwaltungssoftware - PR1275814-9789-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "datagroup stuttgart|S4|700355-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-12",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "datagroup stuttgart|S4|700481-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "IT-Kleinteile Hardware-Produkte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "datagroup stuttgart|S4|701477-2026": {
+   "frist": "2029-10-08",
+   "signal_datum": "2026-10-12",
+   "titel": "Vertriebspartnerschaft zur Produktgruppe KI",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "damovo|S4|700154-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-09",
+   "titel": "Wartungleistungen von Server- und Storagesystemen sowie Switchen",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "dacoso|S4|703792-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-12",
+   "titel": "Pflege- und Supportleistungen (opentext-prime-protect) für Softwareprodukte...",
+   "auftraggeber_treffer": "Deutsche Bundesbank, Zentralbereich Beschaffungen"
+  },
+  "cyprotect|S4|700355-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-12",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "cyprotect|S4|700481-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "IT-Kleinteile Hardware-Produkte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "cyprotect|S4|701477-2026": {
+   "frist": "2029-10-08",
+   "signal_datum": "2026-10-12",
+   "titel": "Vertriebspartnerschaft zur Produktgruppe KI",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "converge technology solutions|S4|696888-2026": {
+   "signal_datum": "2026-10-09",
+   "titel": "RV Software Friedhofsmanagement",
+   "auftraggeber_treffer": "civillent GmbH"
+  },
+  "converge technology solutions|S4|699817-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-09",
+   "titel": "VMWare 2027",
+   "auftraggeber_treffer": "Landesbetrieb Daten und Information Rheinland-Pfalz (LDI)"
+  },
+  "converge technology solutions|S4|700154-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-09",
+   "titel": "Wartungleistungen von Server- und Storagesystemen sowie Switchen",
+   "auftraggeber_treffer": "Land Hessen, vertreten durch die Hessische Zentrale..."
+  },
+  "concat|S4|702414-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "Software für redaktionelle Bearbeitung und Communitymanagement Social Media",
+   "auftraggeber_treffer": "ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellschaft"
+  },
+  "concat|S4|702643-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-12",
+   "titel": "Lieferung, Installation und Inbetriebnahme eines Compute-Knotens im HPC-RAMSES-Cluster...",
+   "auftraggeber_treffer": "Deutsches Krebsforschungszentrum"
+  },
+  "circular informationssysteme|S4|701461-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-12",
+   "titel": "Rahmenvereinbarung Mathematischer High-Performance-Solver - PR1283908-9632-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "circular informationssysteme|S4|701890-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "Ausschreibung PB8-MNT/2026 (Wartung IBM Tapesysteme)",
+   "auftraggeber_treffer": "Garching, Leibniz-Rechenzentrum der Bayerischen Akademie..."
+  },
+  "circular informationssysteme|S4|697152-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-09",
+   "titel": "Los 1",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "carl zeiss microscopy|S4|702294-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "Beschaffung Server für K10Plus Zentral",
+   "auftraggeber_treffer": "Universität Konstanz"
+  },
+  "bürofachhandel datentechnik|S4|701203-2026": {
+   "signal_datum": "2026-10-12",
+   "titel": "Bibliotheksmanagementsystems für die Leipziger Städtischen Bibliotheken",
+   "auftraggeber_treffer": "Stadt Leipzig"
+  },
+  "bundesdruckerei|S4|702912-2026": {
+   "frist": "2026-10-19",
+   "signal_datum": "2026-10-12",
+   "titel": "Los 1 - Fachberatung CCV",
+   "auftraggeber_treffer": "Staatsbetrieb Sächsische Informatik Dienste"
+  },
+  "brodos|S4|700355-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-12",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "brodos|S4|700481-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "IT-Kleinteile Hardware-Produkte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "brodos|S4|701477-2026": {
+   "frist": "2029-10-08",
+   "signal_datum": "2026-10-12",
+   "titel": "Vertriebspartnerschaft zur Produktgruppe KI",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "bfe studio und medien systeme|S4|699817-2026": {
+   "frist": "2026-11-09",
+   "signal_datum": "2026-10-09",
+   "titel": "VMWare 2027",
+   "auftraggeber_treffer": "Landesbetrieb Daten und Information Rheinland-Pfalz (LDI)"
+  },
+  "bauer elektroanlagen süd|S4|703694-2026": {
+   "frist": "2026-11-03",
+   "signal_datum": "2026-10-12",
+   "titel": "176 iPad Air M4 11 Zoll einschl. Zubehör",
+   "auftraggeber_treffer": "Landratsamt Erlangen-Höchstadt"
+  },
+  "axians networks solutions|S4|702414-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "Software für redaktionelle Bearbeitung und Communitymanagement Social Media",
+   "auftraggeber_treffer": "ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellschaft"
+  },
+  "axians networks solutions|S4|696918-2026": {
+   "signal_datum": "2026-10-09",
+   "titel": "Softwarelösung Dezentrale Beschaffung",
+   "auftraggeber_treffer": "Technische Universität Dresden, Dezernat Finanzen und Beschaffung..."
+  },
+  "axians it security|S4|702414-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "Software für redaktionelle Bearbeitung und Communitymanagement Social Media",
+   "auftraggeber_treffer": "ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellschaft"
+  },
+  "avodaq|S4|700355-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-12",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "avodaq|S4|700481-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "IT-Kleinteile Hardware-Produkte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "avodaq|S4|701477-2026": {
+   "frist": "2029-10-08",
+   "signal_datum": "2026-10-12",
+   "titel": "Vertriebspartnerschaft zur Produktgruppe KI",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "amber ai data science solutions|S4|701461-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-12",
+   "titel": "Rahmenvereinbarung Mathematischer High-Performance-Solver - PR1283908-9632-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "amber ai data science solutions|S4|697152-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-09",
+   "titel": "Los 1",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "amber ai data science solutions|S4|698903-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-09",
+   "titel": "Literaturverwaltungssoftware - PR1275814-9789-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "alcera kommunikationstechnik|S4|702414-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "Software für redaktionelle Bearbeitung und Communitymanagement Social Media",
+   "auftraggeber_treffer": "ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellschaft"
+  },
+  "albacon systemhaus|S4|702232-2026": {
+   "signal_datum": "2026-10-12",
+   "titel": "Generalentwässerungsplanung - GEP",
+   "auftraggeber_treffer": "Stadt Fürth"
+  },
+  "advanced unibyte|S4|701461-2026": {
+   "frist": "2026-10-26",
+   "signal_datum": "2026-10-12",
+   "titel": "Rahmenvereinbarung Mathematischer High-Performance-Solver - PR1283908-9632-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "advanced unibyte|S4|697152-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-09",
+   "titel": "Los 1",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "advanced unibyte|S4|698903-2026": {
+   "frist": "2026-11-06",
+   "signal_datum": "2026-10-09",
+   "titel": "Literaturverwaltungssoftware - PR1275814-9789-I",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "acp techrent|S4|701520-2026": {
+   "signal_datum": "2026-10-12",
+   "titel": "Implementierung Planungssoftware",
+   "auftraggeber_treffer": "HIL Heeresinstandsetzungslogistik GmbH"
+  },
+  "4voice|S4|700370-2026": {
+   "signal_datum": "2026-10-12",
+   "titel": "BG Klinikum Hamburg - Neubau Bergedorf - Allianzpartner 7 - BEWEGER | Logistik...",
+   "auftraggeber_treffer": "BG Klinikum Hamburg gGmbH"
+  },
+  "1 1 versatel|S4|700355-2026": {
+   "frist": "2026-10-16",
+   "signal_datum": "2026-10-12",
+   "titel": "RV VMWare Reseller Wettbewerb",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "1 1 versatel|S4|700481-2026": {
+   "frist": "2026-11-10",
+   "signal_datum": "2026-10-12",
+   "titel": "IT-Kleinteile Hardware-Produkte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "1 1 versatel|S4|701477-2026": {
+   "frist": "2029-10-08",
+   "signal_datum": "2026-10-12",
+   "titel": "Vertriebspartnerschaft zur Produktgruppe KI",
+   "auftraggeber_treffer": "Dataport AöR"
   }
  },
  "laeufe": [
@@ -4494,6 +5290,14 @@
    "neu": 165,
    "geaendert": 5,
    "unveraendert": 366,
+   "accounts": 217
+  },
+  {
+   "zeit": "2026-10-12T14:11:08",
+   "gefunden": 540,
+   "neu": 135,
+   "geaendert": 5,
+   "unveraendert": 400,
    "accounts": 217
   }
  ]
