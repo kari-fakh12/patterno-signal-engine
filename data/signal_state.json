@@ -3075,23 +3075,23 @@
    "auftraggeber_treffer": "Dataport AöR"
   },
   "office partner|S1|ba:officepartner": {
-   "signal_datum": "2026-09-13",
+   "signal_datum": "2026-09-20",
    "titel": "Assistent im Tender Management in Vollzeit oder Teilzeit ,Gescher,Münster"
   },
   "pan dacom networking|S1|ba:pandacomnetworkingag": {
-   "signal_datum": "2026-06-15",
+   "signal_datum": "2026-06-22",
    "titel": "Bid / Tender Manager"
   },
   "bfe studio und medien systeme|S1|ba:bfestudioundmediensystemegmbh": {
-   "signal_datum": "2026-06-28",
+   "signal_datum": "2026-07-05",
    "titel": "Projektkaufmann Angebotsmanagement"
   },
   "brodos|S1|ba:brodosag": {
-   "signal_datum": "2026-11-08",
+   "signal_datum": "2026-11-15",
    "titel": "Tender Manager"
   },
   "netgo|S1|ba:netgogroupgmbh": {
-   "signal_datum": "2026-10-21",
+   "signal_datum": "2026-10-28",
    "titel": "Bid Manager öffentliche Ausschreibungen IT"
   },
   "zehnbauer it|S4|684042-2026": {
@@ -10865,6 +10865,1017 @@
    "signal_datum": "2026-11-05",
    "titel": "IT-Kleinteile Hardware-Produkte",
    "auftraggeber_treffer": "Dataport AöR"
+  },
+  "x nrw|S4|784849-2026": {
+   "signal_datum": "2026-11-11",
+   "titel": "Konzeption, Entwicklung, Implementierung, Integration und betriebsfertige Übergabe eines...",
+   "auftraggeber_treffer": "Pro Arbeit – Kreis Offenbach – (AöR) Kommunales Jobcenter"
+  },
+  "tradex systems oü|S4|789742-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-13",
+   "titel": "Atlassian Lizenzen für P20",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "tradex systems oü|S4|789977-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-13",
+   "titel": "StandSomeX - LosA",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "tradex systems oü|S4|787822-2026": {
+   "frist": "2026-12-17",
+   "signal_datum": "2026-11-12",
+   "titel": "IT-Werkleistungen und IT-Dienstleistungen für das Serviceportal Migration Deutschland...",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "tproneth the storage company|S4|795629-2026": {
+   "frist": "2026-12-02",
+   "signal_datum": "2026-11-16",
+   "titel": "Zentrales Netzwerkmanagement und Automatisierungssystem",
+   "auftraggeber_treffer": "Niersverband"
+  },
+  "thinkred west|S4|780791-2026": {
+   "frist": "2026-11-20",
+   "signal_datum": "2026-11-10",
+   "titel": "2026-0601 Rahmenvereinbarung über die Beschaffung von FIDO2-Sticks für die Stadt Duisburg",
+   "auftraggeber_treffer": "Einkauf der Stadt Duisburg (10-31)"
+  },
+  "thinkred|S4|781580-2026": {
+   "frist": "2026-12-11",
+   "signal_datum": "2026-11-10",
+   "titel": "Softwaremanagment Kabinettsprozesse und Sitzungsvorbereitung",
+   "auftraggeber_treffer": "Länder Rheinland-Pfalz und Saarland, jeweils vertreten durch..."
+  },
+  "ta triumph adler|S4|795933-2026": {
+   "frist": "2026-11-24",
+   "signal_datum": "2026-11-16",
+   "titel": "VMware Lizenzen",
+   "auftraggeber_treffer": "Kliniken der Stadt Köln gGmbH"
+  },
+  "ta triumph adler|S4|787720-2026": {
+   "frist": "2026-11-24",
+   "signal_datum": "2026-11-12",
+   "titel": "Erneuerung der Medientechnik bei der ILS Nürnberg im Rahmen des HWT10",
+   "auftraggeber_treffer": "Stadt Nürnberg - Zentrale Dienste"
+  },
+  "systema|S4|794292-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-16",
+   "titel": "IT-Ausstattung, diverse Hardware",
+   "auftraggeber_treffer": "Martin-Luther-Universität Halle-Wittenberg, IT-Servicezentrum"
+  },
+  "system vertrieb alexander|S4|792460-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-13",
+   "titel": "Cisco",
+   "auftraggeber_treffer": "Knappschaft Kliniken Solution"
+  },
+  "sysmex|S4|783499-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-11",
+   "titel": "Kauf von BDC-Capacities für SAP",
+   "auftraggeber_treffer": "Universitätsklinikum Frankfurt"
+  },
+  "sysmex|S4|780836-2026": {
+   "frist": "2026-11-30",
+   "signal_datum": "2026-11-10",
+   "titel": "Bereitstellung von Hypervisor-Subskriptionslizenzen (VMware Cloud Foundation / Broadcom)...",
+   "auftraggeber_treffer": "Universitätsklinikum Frankfurt"
+  },
+  "sysgen|S4|789742-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-13",
+   "titel": "Atlassian Lizenzen für P20",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "sysgen|S4|789977-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-13",
+   "titel": "StandSomeX - LosA",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "sysgen|S4|787822-2026": {
+   "frist": "2026-12-17",
+   "signal_datum": "2026-11-12",
+   "titel": "IT-Werkleistungen und IT-Dienstleistungen für das Serviceportal Migration Deutschland...",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "swarco traffic systems|S4|785140-2026": {
+   "frist": "2026-12-10",
+   "signal_datum": "2026-11-11",
+   "titel": "Common Data Environment (CDE) für BIM",
+   "auftraggeber_treffer": "Die Autobahn GmbH des Bundes"
+  },
+  "steckerfertig|S4|780404-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-10",
+   "titel": "Vergabe der bestehenden Geo-Informationsinfrastruktur (GIS) des Landkreises Hildesheim",
+   "auftraggeber_treffer": "Landkreis Hildesheim"
+  },
+  "spie information communication services|S4|793957-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-16",
+   "titel": "Ausschreibung einer Software zum workflowbasierten Forschungsmanagement",
+   "auftraggeber_treffer": "Otto-von-Guericke-Universität Magdeburg, Abt. Beschaffung, Zahlstelle..."
+  },
+  "spie information communication services|S4|787720-2026": {
+   "frist": "2026-11-24",
+   "signal_datum": "2026-11-12",
+   "titel": "Erneuerung der Medientechnik bei der ILS Nürnberg im Rahmen des HWT10",
+   "auftraggeber_treffer": "Stadt Nürnberg - Zentrale Dienste"
+  },
+  "spie information communication services|S4|784728-2026": {
+   "frist": "2026-11-20",
+   "signal_datum": "2026-11-11",
+   "titel": "PolBln 401_26 EU Trellix-Skyhigh WebProxyFarm",
+   "auftraggeber_treffer": "Polizei Berlin"
+  },
+  "sonah|S4|786619-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-12",
+   "titel": "Los 1 – Dienstleistungen Cadenza",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "sonah|S4|780320-2026": {
+   "signal_datum": "2026-11-10",
+   "titel": "Rahmenvertrag E-Akte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "softline|S4|792718-2026": {
+   "frist": "2026-12-03",
+   "signal_datum": "2026-11-13",
+   "titel": "Rahmenvertrag für Dienstleistungen im Bereich DOMEA",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "sits|S4|792718-2026": {
+   "frist": "2026-12-03",
+   "signal_datum": "2026-11-13",
+   "titel": "Rahmenvertrag für Dienstleistungen im Bereich DOMEA",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "sinell all it|S4|795933-2026": {
+   "frist": "2026-11-24",
+   "signal_datum": "2026-11-16",
+   "titel": "VMware Lizenzen",
+   "auftraggeber_treffer": "Kliniken der Stadt Köln gGmbH"
+  },
+  "shd system haus dresden|S4|794257-2026": {
+   "frist": "2026-11-23",
+   "signal_datum": "2026-11-16",
+   "titel": "Verlängerung Pflege und Support von Oracle-Lizenzen des Staatsbetriebes Sächsische...",
+   "auftraggeber_treffer": "Staatsbetrieb Sächsische Informatik Dienste"
+  },
+  "shd system haus dresden|S4|788978-2026": {
+   "frist": "2026-12-02",
+   "signal_datum": "2026-11-12",
+   "titel": "AutoDesk Lizenzen",
+   "auftraggeber_treffer": "Hamburger Energienetze GmbH"
+  },
+  "seitenbau|S4|789742-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-13",
+   "titel": "Atlassian Lizenzen für P20",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "seitenbau|S4|789977-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-13",
+   "titel": "StandSomeX - LosA",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "seitenbau|S4|787822-2026": {
+   "frist": "2026-12-17",
+   "signal_datum": "2026-11-12",
+   "titel": "IT-Werkleistungen und IT-Dienstleistungen für das Serviceportal Migration Deutschland...",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "secusmart|S4|789742-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-13",
+   "titel": "Atlassian Lizenzen für P20",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "secusmart|S4|789977-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-13",
+   "titel": "StandSomeX - LosA",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "secusmart|S4|787822-2026": {
+   "frist": "2026-12-17",
+   "signal_datum": "2026-11-12",
+   "titel": "IT-Werkleistungen und IT-Dienstleistungen für das Serviceportal Migration Deutschland...",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "secunet security networks|S4|781935-2026": {
+   "frist": "2026-11-18",
+   "signal_datum": "2026-11-10",
+   "titel": "DiBA DL 2027",
+   "auftraggeber_treffer": "Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier..."
+  },
+  "sandata edv systemhaus|S4|793626-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-16",
+   "titel": "Mobile Device Management (EAL4+) für VS-NfD Smartphones & Tablets",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "rud otto meyer technik|S4|785299-2026": {
+   "frist": "2026-12-16",
+   "signal_datum": "2026-11-11",
+   "titel": "Betreuung, Wartung und Weiterentwicklung/Fehlerbehebung des Fachverfahrens Justus",
+   "auftraggeber_treffer": "Land Baden-Württemberg vertreten durch das Oberlandesgericht Stuttgart"
+  },
+  "ribbon communications|S4|781056-2026": {
+   "frist": "2026-11-16",
+   "signal_datum": "2026-11-10",
+   "titel": "Verlängerung der PingIDM",
+   "auftraggeber_treffer": "Universität Stuttgart"
+  },
+  "ratiodata|S4|794553-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-16",
+   "titel": "Los",
+   "auftraggeber_treffer": "Deutsche Bundesbank, Zentralbereich Beschaffungen"
+  },
+  "raid media systems|S4|793205-2026": {
+   "frist": "2026-11-23",
+   "signal_datum": "2026-11-16",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "raid media systems|S4|793957-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-16",
+   "titel": "Ausschreibung einer Software zum workflowbasierten Forschungsmanagement",
+   "auftraggeber_treffer": "Otto-von-Guericke-Universität Magdeburg, Abt. Beschaffung, Zahlstelle..."
+  },
+  "raid media systems|S4|794292-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-16",
+   "titel": "IT-Ausstattung, diverse Hardware",
+   "auftraggeber_treffer": "Martin-Luther-Universität Halle-Wittenberg, IT-Servicezentrum"
+  },
+  "public edge|S4|786619-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-12",
+   "titel": "Los 1 – Dienstleistungen Cadenza",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "public edge|S4|780320-2026": {
+   "signal_datum": "2026-11-10",
+   "titel": "Rahmenvertrag E-Akte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "public cloud|S4|796473-2026": {
+   "signal_datum": "2026-11-16",
+   "titel": "Bereitstellung, Implementierungsbegleitung und Betrieb einer E-Rechnungslösung",
+   "auftraggeber_treffer": "EnBW Energie Baden-Württemberg AG"
+  },
+  "public cloud|S4|780890-2026": {
+   "signal_datum": "2026-11-10",
+   "titel": "DDoS-Distributed Denial of Service",
+   "auftraggeber_treffer": "EnBW Energie Baden-Württemberg AG"
+  },
+  "pro com datensysteme|S4|781056-2026": {
+   "frist": "2026-11-16",
+   "signal_datum": "2026-11-10",
+   "titel": "Verlängerung der PingIDM",
+   "auftraggeber_treffer": "Universität Stuttgart"
+  },
+  "printvision|S4|792985-2026": {
+   "frist": "2026-11-19",
+   "signal_datum": "2026-11-16",
+   "titel": "Rack-Server inkl. Service",
+   "auftraggeber_treffer": "Universität der Bundeswehr München"
+  },
+  "printvision|S4|790260-2026": {
+   "frist": "2026-11-16",
+   "signal_datum": "2026-11-13",
+   "titel": "Rack-Server inkl. Service",
+   "auftraggeber_treffer": "Universität der Bundeswehr München"
+  },
+  "philips|S4|783499-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-11",
+   "titel": "Kauf von BDC-Capacities für SAP",
+   "auftraggeber_treffer": "Universitätsklinikum Frankfurt"
+  },
+  "philips|S4|780836-2026": {
+   "frist": "2026-11-30",
+   "signal_datum": "2026-11-10",
+   "titel": "Bereitstellung von Hypervisor-Subskriptionslizenzen (VMware Cloud Foundation / Broadcom)...",
+   "auftraggeber_treffer": "Universitätsklinikum Frankfurt"
+  },
+  "pdv systeme sachsen|S4|780065-2026": {
+   "frist": "2026-12-17",
+   "signal_datum": "2026-11-10",
+   "titel": "Rahmenvertrag - Lieferung von HPE / Aruba Netzwerk-Komponenten im Auftrag der neu-itec...",
+   "auftraggeber_treffer": "neu-itec GmbH"
+  },
+  "pan dacom direkt|S4|781056-2026": {
+   "frist": "2026-11-16",
+   "signal_datum": "2026-11-10",
+   "titel": "Verlängerung der PingIDM",
+   "auftraggeber_treffer": "Universität Stuttgart"
+  },
+  "office partner|S4|793626-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-16",
+   "titel": "Mobile Device Management (EAL4+) für VS-NfD Smartphones & Tablets",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "office partner|S4|782159-2026": {
+   "frist": "2026-12-10",
+   "signal_datum": "2026-11-10",
+   "titel": "Philips SpeechExec Diktiersoftware",
+   "auftraggeber_treffer": "Land Baden-Württemberg vertreten durch die IT Baden-Württemberg"
+  },
+  "nttcable|S4|794911-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-16",
+   "titel": "Elektroarbeiten, Stark- und Schwachstrom, Neubau der Feuerwache Märkische Str. 11a",
+   "auftraggeber_treffer": "Stadt Bochum, Referat Zentrale Vergabestelle"
+  },
+  "nttcable|S4|787179-2026": {
+   "signal_datum": "2026-11-12",
+   "titel": "ERP Lösung- Los BI",
+   "auftraggeber_treffer": "Medizinischer Dienst Baden-Württemberg"
+  },
+  "new work|S4|795509-2026": {
+   "signal_datum": "2026-11-16",
+   "titel": "SAP-S/4HANA-Readiness Krankenhausapotheke",
+   "auftraggeber_treffer": "Universitätsklinikum Köln AöR"
+  },
+  "new work|S4|790817-2026": {
+   "signal_datum": "2026-11-13",
+   "titel": "KI-Agenten für das Bauwesen und Building Information Modeling",
+   "auftraggeber_treffer": "Hamburg Port Authority AöR"
+  },
+  "netgo ost|S4|793205-2026": {
+   "frist": "2026-11-23",
+   "signal_datum": "2026-11-16",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "netgo ost|S4|782159-2026": {
+   "frist": "2026-12-10",
+   "signal_datum": "2026-11-10",
+   "titel": "Philips SpeechExec Diktiersoftware",
+   "auftraggeber_treffer": "Land Baden-Württemberg vertreten durch die IT Baden-Württemberg"
+  },
+  "netgo|S4|786619-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-12",
+   "titel": "Los 1 – Dienstleistungen Cadenza",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "netgo|S4|780320-2026": {
+   "signal_datum": "2026-11-10",
+   "titel": "Rahmenvertrag E-Akte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "netapp|S4|782159-2026": {
+   "frist": "2026-12-10",
+   "signal_datum": "2026-11-10",
+   "titel": "Philips SpeechExec Diktiersoftware",
+   "auftraggeber_treffer": "Land Baden-Württemberg vertreten durch die IT Baden-Württemberg"
+  },
+  "mup bürohandels|S4|789314-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-12",
+   "titel": "Dienstleister-Pool für den Bereich NON SAP (Werkbank)",
+   "auftraggeber_treffer": "Rundfunk Berlin-Brandenburg"
+  },
+  "mr datentechnik vertriebs und service|S4|781935-2026": {
+   "frist": "2026-11-18",
+   "signal_datum": "2026-11-10",
+   "titel": "DiBA DL 2027",
+   "auftraggeber_treffer": "Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier..."
+  },
+  "megware computer vertrieb und service|S4|794292-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-16",
+   "titel": "IT-Ausstattung, diverse Hardware",
+   "auftraggeber_treffer": "Martin-Luther-Universität Halle-Wittenberg, IT-Servicezentrum"
+  },
+  "medialine eurotrade|S4|793205-2026": {
+   "frist": "2026-11-23",
+   "signal_datum": "2026-11-16",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "mediainterface|S4|781935-2026": {
+   "frist": "2026-11-18",
+   "signal_datum": "2026-11-10",
+   "titel": "DiBA DL 2027",
+   "auftraggeber_treffer": "Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier..."
+  },
+  "kupper it|S4|794257-2026": {
+   "frist": "2026-11-23",
+   "signal_datum": "2026-11-16",
+   "titel": "Verlängerung Pflege und Support von Oracle-Lizenzen des Staatsbetriebes Sächsische...",
+   "auftraggeber_treffer": "Staatsbetrieb Sächsische Informatik Dienste"
+  },
+  "kramer crew|S4|787720-2026": {
+   "frist": "2026-11-24",
+   "signal_datum": "2026-11-12",
+   "titel": "Erneuerung der Medientechnik bei der ILS Nürnberg im Rahmen des HWT10",
+   "auftraggeber_treffer": "Stadt Nürnberg - Zentrale Dienste"
+  },
+  "kramer crew|S4|783499-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-11",
+   "titel": "Kauf von BDC-Capacities für SAP",
+   "auftraggeber_treffer": "Universitätsklinikum Frankfurt"
+  },
+  "kramer crew|S4|780836-2026": {
+   "frist": "2026-11-30",
+   "signal_datum": "2026-11-10",
+   "titel": "Bereitstellung von Hypervisor-Subskriptionslizenzen (VMware Cloud Foundation / Broadcom)...",
+   "auftraggeber_treffer": "Universitätsklinikum Frankfurt"
+  },
+  "keysight technologies|S4|793205-2026": {
+   "frist": "2026-11-23",
+   "signal_datum": "2026-11-16",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "keysight technologies|S4|794553-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-16",
+   "titel": "Los",
+   "auftraggeber_treffer": "Deutsche Bundesbank, Zentralbereich Beschaffungen"
+  },
+  "itwatch|S4|787179-2026": {
+   "signal_datum": "2026-11-12",
+   "titel": "ERP Lösung- Los BI",
+   "auftraggeber_treffer": "Medizinischer Dienst Baden-Württemberg"
+  },
+  "itmediaconsult|S4|780404-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-10",
+   "titel": "Vergabe der bestehenden Geo-Informationsinfrastruktur (GIS) des Landkreises Hildesheim",
+   "auftraggeber_treffer": "Landkreis Hildesheim"
+  },
+  "itiso|S4|780404-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-10",
+   "titel": "Vergabe der bestehenden Geo-Informationsinfrastruktur (GIS) des Landkreises Hildesheim",
+   "auftraggeber_treffer": "Landkreis Hildesheim"
+  },
+  "it haus|S4|787720-2026": {
+   "frist": "2026-11-24",
+   "signal_datum": "2026-11-12",
+   "titel": "Erneuerung der Medientechnik bei der ILS Nürnberg im Rahmen des HWT10",
+   "auftraggeber_treffer": "Stadt Nürnberg - Zentrale Dienste"
+  },
+  "isec7|S4|793782-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-16",
+   "titel": "Abschluss von Rahmenvereinbarungen über die Lieferung von einer schlüsselfertigen...",
+   "auftraggeber_treffer": "Landesamt für Zentrale Polizeiliche Dienste Nordrhein-Westfalen"
+  },
+  "isec7|S4|795765-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-16",
+   "titel": "One Identity Lizenzen und Support für die Polizei NRW",
+   "auftraggeber_treffer": "Landesamt für Zentrale Polizeiliche Dienste Nordrhein-Westfalen"
+  },
+  "isec7|S4|790655-2026": {
+   "frist": "2026-11-23",
+   "signal_datum": "2026-11-13",
+   "titel": "UEM-Lizenzen",
+   "auftraggeber_treffer": "LWL IT.Serviceabteilung"
+  },
+  "is4it|S4|790937-2026": {
+   "signal_datum": "2026-11-13",
+   "titel": "Gemeinde Allershausen",
+   "auftraggeber_treffer": "Landkreis Freising"
+  },
+  "interface systems|S4|793684-2026": {
+   "frist": "2026-11-19",
+   "signal_datum": "2026-11-16",
+   "titel": "Lieferung digitale Pflege- und Visitenwagen inklusive Zubehör für die Erzgebirgsklinikum...",
+   "auftraggeber_treffer": "Erzgebirgsklinikum gGmbH"
+  },
+  "interface systems|S4|793957-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-16",
+   "titel": "Ausschreibung einer Software zum workflowbasierten Forschungsmanagement",
+   "auftraggeber_treffer": "Otto-von-Guericke-Universität Magdeburg, Abt. Beschaffung, Zahlstelle..."
+  },
+  "interface systems|S4|786619-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-12",
+   "titel": "Los 1 – Dienstleistungen Cadenza",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "innovative datensysteme indasys|S4|796473-2026": {
+   "signal_datum": "2026-11-16",
+   "titel": "Bereitstellung, Implementierungsbegleitung und Betrieb einer E-Rechnungslösung",
+   "auftraggeber_treffer": "EnBW Energie Baden-Württemberg AG"
+  },
+  "innovative datensysteme indasys|S4|792629-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-13",
+   "titel": "BD26002 Lieferung und Implementierung einer Software für die Feuerwehrverwaltung...",
+   "auftraggeber_treffer": "Stadt Karlsruhe Hauptamt"
+  },
+  "innovative datensysteme indasys|S4|780890-2026": {
+   "signal_datum": "2026-11-10",
+   "titel": "DDoS-Distributed Denial of Service",
+   "auftraggeber_treffer": "EnBW Energie Baden-Württemberg AG"
+  },
+  "init|S4|794257-2026": {
+   "frist": "2026-11-23",
+   "signal_datum": "2026-11-16",
+   "titel": "Verlängerung Pflege und Support von Oracle-Lizenzen des Staatsbetriebes Sächsische...",
+   "auftraggeber_treffer": "Staatsbetrieb Sächsische Informatik Dienste"
+  },
+  "infodas|S4|793205-2026": {
+   "frist": "2026-11-23",
+   "signal_datum": "2026-11-16",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "infodas|S4|793626-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-16",
+   "titel": "Mobile Device Management (EAL4+) für VS-NfD Smartphones & Tablets",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "infodas|S4|789742-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-13",
+   "titel": "Atlassian Lizenzen für P20",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "if tech|S4|786619-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-12",
+   "titel": "Los 1 – Dienstleistungen Cadenza",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "if tech|S4|785023-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-11",
+   "titel": "NetApp Herstellersupport und Wartungsverlängerung",
+   "auftraggeber_treffer": "IT des Bezirks Oberbayern GmbH"
+  },
+  "if tech|S4|780320-2026": {
+   "signal_datum": "2026-11-10",
+   "titel": "Rahmenvertrag E-Akte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "hugo hamann|S4|790817-2026": {
+   "signal_datum": "2026-11-13",
+   "titel": "KI-Agenten für das Bauwesen und Building Information Modeling",
+   "auftraggeber_treffer": "Hamburg Port Authority AöR"
+  },
+  "hologate|S4|784728-2026": {
+   "frist": "2026-11-20",
+   "signal_datum": "2026-11-11",
+   "titel": "PolBln 401_26 EU Trellix-Skyhigh WebProxyFarm",
+   "auftraggeber_treffer": "Polizei Berlin"
+  },
+  "hiscout|S4|794553-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-16",
+   "titel": "Los",
+   "auftraggeber_treffer": "Deutsche Bundesbank, Zentralbereich Beschaffungen"
+  },
+  "h g hansen gieraths edv vertriebsgesellschaft|S4|795933-2026": {
+   "frist": "2026-11-24",
+   "signal_datum": "2026-11-16",
+   "titel": "VMware Lizenzen",
+   "auftraggeber_treffer": "Kliniken der Stadt Köln gGmbH"
+  },
+  "h g hansen gieraths edv vertriebsgesellschaft|S4|786098-2026": {
+   "frist": "2026-11-23",
+   "signal_datum": "2026-11-11",
+   "titel": "IT-Hardware für einen Ceph-Storage-Cluster",
+   "auftraggeber_treffer": "Leibniz-Institut zur Analyse des Biodiversitätswandels"
+  },
+  "group24|S4|788946-2026": {
+   "frist": "2026-11-16",
+   "signal_datum": "2026-11-12",
+   "titel": "Pflege-, Entwicklungs- sowie weitere Leistungen für Kofax-Komponenten",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland - Bundesamt für Justiz"
+  },
+  "greenbone|S4|793626-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-16",
+   "titel": "Mobile Device Management (EAL4+) für VS-NfD Smartphones & Tablets",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "greenbone|S4|789742-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-13",
+   "titel": "Atlassian Lizenzen für P20",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "greenbone|S4|789977-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-13",
+   "titel": "StandSomeX - LosA",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "frequentis|S4|794907-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-16",
+   "titel": "TV-Geräte",
+   "auftraggeber_treffer": "Stadt Herne"
+  },
+  "frequentis|S4|790817-2026": {
+   "signal_datum": "2026-11-13",
+   "titel": "KI-Agenten für das Bauwesen und Building Information Modeling",
+   "auftraggeber_treffer": "Hamburg Port Authority AöR"
+  },
+  "first data|S4|786619-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-12",
+   "titel": "Los 1 – Dienstleistungen Cadenza",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "first data|S4|780320-2026": {
+   "signal_datum": "2026-11-10",
+   "titel": "Rahmenvertrag E-Akte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "fernao magellan|S4|795075-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-16",
+   "titel": "AutoCAD Lizenzen Teillos 1",
+   "auftraggeber_treffer": "Essener Systemhaus"
+  },
+  "fernao magellan|S4|789314-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-12",
+   "titel": "Dienstleister-Pool für den Bereich NON SAP (Werkbank)",
+   "auftraggeber_treffer": "Rundfunk Berlin-Brandenburg"
+  },
+  "eurofunk kappacher|S4|787720-2026": {
+   "frist": "2026-11-24",
+   "signal_datum": "2026-11-12",
+   "titel": "Erneuerung der Medientechnik bei der ILS Nürnberg im Rahmen des HWT10",
+   "auftraggeber_treffer": "Stadt Nürnberg - Zentrale Dienste"
+  },
+  "esg elektroniksystem und logistik|S4|793626-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-16",
+   "titel": "Mobile Device Management (EAL4+) für VS-NfD Smartphones & Tablets",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "eos electro optical systems|S4|793205-2026": {
+   "frist": "2026-11-23",
+   "signal_datum": "2026-11-16",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "druckerfachmann de|S4|789742-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-13",
+   "titel": "Atlassian Lizenzen für P20",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "druckerfachmann de|S4|789977-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-13",
+   "titel": "StandSomeX - LosA",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "druckerfachmann de|S4|787822-2026": {
+   "frist": "2026-12-17",
+   "signal_datum": "2026-11-12",
+   "titel": "IT-Werkleistungen und IT-Dienstleistungen für das Serviceportal Migration Deutschland...",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "docconsult|S4|793626-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-16",
+   "titel": "Mobile Device Management (EAL4+) für VS-NfD Smartphones & Tablets",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "docconsult|S4|789742-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-13",
+   "titel": "Atlassian Lizenzen für P20",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "docconsult|S4|789977-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-13",
+   "titel": "StandSomeX - LosA",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "dignum|S4|780588-2026": {
+   "frist": "2026-11-30",
+   "signal_datum": "2026-11-10",
+   "titel": "Atlassian Cloud und Data Center Lizenzen",
+   "auftraggeber_treffer": "LVR-InfoKom"
+  },
+  "dfc systems|S4|793626-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-16",
+   "titel": "Mobile Device Management (EAL4+) für VS-NfD Smartphones & Tablets",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "delta computer products|S4|792985-2026": {
+   "frist": "2026-11-19",
+   "signal_datum": "2026-11-16",
+   "titel": "Rack-Server inkl. Service",
+   "auftraggeber_treffer": "Universität der Bundeswehr München"
+  },
+  "delta computer products|S4|793205-2026": {
+   "frist": "2026-11-23",
+   "signal_datum": "2026-11-16",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "delta computer products|S4|790260-2026": {
+   "frist": "2026-11-16",
+   "signal_datum": "2026-11-13",
+   "titel": "Rack-Server inkl. Service",
+   "auftraggeber_treffer": "Universität der Bundeswehr München"
+  },
+  "dekom|S4|793205-2026": {
+   "frist": "2026-11-23",
+   "signal_datum": "2026-11-16",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "dedalus healthcare bonn|S4|796468-2026": {
+   "frist": "2026-12-11",
+   "signal_datum": "2026-11-16",
+   "titel": "Abrechnungssoftware für die stationäre Patientenabrechnung",
+   "auftraggeber_treffer": "Städtisches Klinikum Karlsruhe gGmbH"
+  },
+  "datagroup stuttgart|S4|786619-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-12",
+   "titel": "Los 1 – Dienstleistungen Cadenza",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "datagroup stuttgart|S4|780320-2026": {
+   "signal_datum": "2026-11-10",
+   "titel": "Rahmenvertrag E-Akte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "datagroup stuttgart|S4|782159-2026": {
+   "frist": "2026-12-10",
+   "signal_datum": "2026-11-10",
+   "titel": "Philips SpeechExec Diktiersoftware",
+   "auftraggeber_treffer": "Land Baden-Württemberg vertreten durch die IT Baden-Württemberg"
+  },
+  "datagroup frankfurt|S4|784710-2026": {
+   "frist": "2026-12-08",
+   "signal_datum": "2026-11-11",
+   "titel": "Erbringung von Dienstleistungen eines externen Datenschutzbeauftragten",
+   "auftraggeber_treffer": "ALDB GmbH"
+  },
+  "datagroup frankfurt|S4|780065-2026": {
+   "frist": "2026-12-17",
+   "signal_datum": "2026-11-10",
+   "titel": "Rahmenvertrag - Lieferung von HPE / Aruba Netzwerk-Komponenten im Auftrag der neu-itec...",
+   "auftraggeber_treffer": "neu-itec GmbH"
+  },
+  "dacoso|S4|794553-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-16",
+   "titel": "Los",
+   "auftraggeber_treffer": "Deutsche Bundesbank, Zentralbereich Beschaffungen"
+  },
+  "dacoso|S4|781056-2026": {
+   "frist": "2026-11-16",
+   "signal_datum": "2026-11-10",
+   "titel": "Verlängerung der PingIDM",
+   "auftraggeber_treffer": "Universität Stuttgart"
+  },
+  "cyprotect|S4|792985-2026": {
+   "frist": "2026-11-19",
+   "signal_datum": "2026-11-16",
+   "titel": "Rack-Server inkl. Service",
+   "auftraggeber_treffer": "Universität der Bundeswehr München"
+  },
+  "cyprotect|S4|793626-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-16",
+   "titel": "Mobile Device Management (EAL4+) für VS-NfD Smartphones & Tablets",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "cyprotect|S4|790260-2026": {
+   "frist": "2026-11-16",
+   "signal_datum": "2026-11-13",
+   "titel": "Rack-Server inkl. Service",
+   "auftraggeber_treffer": "Universität der Bundeswehr München"
+  },
+  "converge technology solutions|S4|781580-2026": {
+   "frist": "2026-12-11",
+   "signal_datum": "2026-11-10",
+   "titel": "Softwaremanagment Kabinettsprozesse und Sitzungsvorbereitung",
+   "auftraggeber_treffer": "Länder Rheinland-Pfalz und Saarland, jeweils vertreten durch..."
+  },
+  "concat|S4|781056-2026": {
+   "frist": "2026-11-16",
+   "signal_datum": "2026-11-10",
+   "titel": "Verlängerung der PingIDM",
+   "auftraggeber_treffer": "Universität Stuttgart"
+  },
+  "concat|S4|782861-2026": {
+   "frist": "2026-11-20",
+   "signal_datum": "2026-11-10",
+   "titel": "Software für redaktionelle Bearbeitung und Communitymanagement Social Media",
+   "auftraggeber_treffer": "ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellschaft"
+  },
+  "comparex|S4|792718-2026": {
+   "frist": "2026-12-03",
+   "signal_datum": "2026-11-13",
+   "titel": "Rahmenvertrag für Dienstleistungen im Bereich DOMEA",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "colt technology services|S4|792718-2026": {
+   "frist": "2026-12-03",
+   "signal_datum": "2026-11-13",
+   "titel": "Rahmenvertrag für Dienstleistungen im Bereich DOMEA",
+   "auftraggeber_treffer": "Informationstechnikzentrum Bund (ITZBund)"
+  },
+  "colt technology services|S4|782159-2026": {
+   "frist": "2026-12-10",
+   "signal_datum": "2026-11-10",
+   "titel": "Philips SpeechExec Diktiersoftware",
+   "auftraggeber_treffer": "Land Baden-Württemberg vertreten durch die IT Baden-Württemberg"
+  },
+  "circular informationssysteme|S4|793205-2026": {
+   "frist": "2026-11-23",
+   "signal_datum": "2026-11-16",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "christmann informationstechnik medien|S4|780404-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-10",
+   "titel": "Vergabe der bestehenden Geo-Informationsinfrastruktur (GIS) des Landkreises Hildesheim",
+   "auftraggeber_treffer": "Landkreis Hildesheim"
+  },
+  "bundesdruckerei|S4|794257-2026": {
+   "frist": "2026-11-23",
+   "signal_datum": "2026-11-16",
+   "titel": "Verlängerung Pflege und Support von Oracle-Lizenzen des Staatsbetriebes Sächsische...",
+   "auftraggeber_treffer": "Staatsbetrieb Sächsische Informatik Dienste"
+  },
+  "bundesdruckerei|S4|789742-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-13",
+   "titel": "Atlassian Lizenzen für P20",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "bundesdruckerei|S4|789977-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-13",
+   "titel": "StandSomeX - LosA",
+   "auftraggeber_treffer": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium..."
+  },
+  "brodos|S4|793626-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-16",
+   "titel": "Mobile Device Management (EAL4+) für VS-NfD Smartphones & Tablets",
+   "auftraggeber_treffer": "BWI GmbH"
+  },
+  "brodos|S4|786619-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-12",
+   "titel": "Los 1 – Dienstleistungen Cadenza",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "brodos|S4|780320-2026": {
+   "signal_datum": "2026-11-10",
+   "titel": "Rahmenvertrag E-Akte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "basys brinova|S4|784416-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-11",
+   "titel": "Bereitstellung eines evidenzbasierten Point-of-Care-Referenztool",
+   "auftraggeber_treffer": "Gesundheit Nord gGmbH"
+  },
+  "axians networks solutions|S4|783499-2026": {
+   "frist": "2026-11-27",
+   "signal_datum": "2026-11-11",
+   "titel": "Kauf von BDC-Capacities für SAP",
+   "auftraggeber_treffer": "Universitätsklinikum Frankfurt"
+  },
+  "axians networks solutions|S4|780836-2026": {
+   "frist": "2026-11-30",
+   "signal_datum": "2026-11-10",
+   "titel": "Bereitstellung von Hypervisor-Subskriptionslizenzen (VMware Cloud Foundation / Broadcom)...",
+   "auftraggeber_treffer": "Universitätsklinikum Frankfurt"
+  },
+  "axians networks solutions|S4|782861-2026": {
+   "frist": "2026-11-20",
+   "signal_datum": "2026-11-10",
+   "titel": "Software für redaktionelle Bearbeitung und Communitymanagement Social Media",
+   "auftraggeber_treffer": "ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellschaft"
+  },
+  "axians it security|S4|782861-2026": {
+   "frist": "2026-11-20",
+   "signal_datum": "2026-11-10",
+   "titel": "Software für redaktionelle Bearbeitung und Communitymanagement Social Media",
+   "auftraggeber_treffer": "ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellschaft"
+  },
+  "avodaq|S4|786619-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-12",
+   "titel": "Los 1 – Dienstleistungen Cadenza",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "avodaq|S4|780320-2026": {
+   "signal_datum": "2026-11-10",
+   "titel": "Rahmenvertrag E-Akte",
+   "auftraggeber_treffer": "Dataport AöR"
+  },
+  "avency|S4|794911-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-16",
+   "titel": "Elektroarbeiten, Stark- und Schwachstrom, Neubau der Feuerwache Märkische Str. 11a",
+   "auftraggeber_treffer": "Stadt Bochum, Referat Zentrale Vergabestelle"
+  },
+  "aura computersysteme|S4|792455-2026": {
+   "frist": "2026-12-11",
+   "signal_datum": "2026-11-13",
+   "titel": "Lieferung Client Hardware",
+   "auftraggeber_treffer": "Universitätsmedizin Rostock"
+  },
+  "aura computersysteme|S4|781235-2026": {
+   "frist": "2026-12-07",
+   "signal_datum": "2026-11-10",
+   "titel": "Verlängerung Subscription VMware",
+   "auftraggeber_treffer": "Universitätsmedizin Rostock"
+  },
+  "amber ai data science solutions|S4|793205-2026": {
+   "frist": "2026-11-23",
+   "signal_datum": "2026-11-16",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "alcera kommunikationstechnik|S4|782861-2026": {
+   "frist": "2026-11-20",
+   "signal_datum": "2026-11-10",
+   "titel": "Software für redaktionelle Bearbeitung und Communitymanagement Social Media",
+   "auftraggeber_treffer": "ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellschaft"
+  },
+  "afb gemeinnützige|S4|781935-2026": {
+   "frist": "2026-11-18",
+   "signal_datum": "2026-11-10",
+   "titel": "DiBA DL 2027",
+   "auftraggeber_treffer": "Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier..."
+  },
+  "advanced unibyte|S4|793205-2026": {
+   "frist": "2026-11-23",
+   "signal_datum": "2026-11-16",
+   "titel": "Los 1 - Hersteller Lenovo",
+   "auftraggeber_treffer": "Fraunhofer-Gesellschaft - Einkauf B12"
+  },
+  "advanced unibyte|S4|785023-2026": {
+   "frist": "2026-12-15",
+   "signal_datum": "2026-11-11",
+   "titel": "NetApp Herstellersupport und Wartungsverlängerung",
+   "auftraggeber_treffer": "IT des Bezirks Oberbayern GmbH"
+  },
+  "advanced unibyte|S4|781056-2026": {
+   "frist": "2026-11-16",
+   "signal_datum": "2026-11-10",
+   "titel": "Verlängerung der PingIDM",
+   "auftraggeber_treffer": "Universität Stuttgart"
+  },
+  "abamedicus|S4|794292-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-16",
+   "titel": "IT-Ausstattung, diverse Hardware",
+   "auftraggeber_treffer": "Martin-Luther-Universität Halle-Wittenberg, IT-Servicezentrum"
+  },
+  "4voice|S4|795410-2026": {
+   "signal_datum": "2026-11-16",
+   "titel": "BG Klinikum Hamburg - Neubau Bergedorf - Allianzpartner 7 - BEWEGER | Logistik...",
+   "auftraggeber_treffer": "BG Klinikum Hamburg gGmbH"
+  },
+  "1 1 versatel|S4|794553-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-16",
+   "titel": "Los",
+   "auftraggeber_treffer": "Deutsche Bundesbank, Zentralbereich Beschaffungen"
+  },
+  "1 1 versatel|S4|792460-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-13",
+   "titel": "Cisco",
+   "auftraggeber_treffer": "Knappschaft Kliniken Solution"
+  },
+  "1 1 versatel|S4|786619-2026": {
+   "frist": "2026-12-14",
+   "signal_datum": "2026-11-12",
+   "titel": "Los 1 – Dienstleistungen Cadenza",
+   "auftraggeber_treffer": "Dataport AöR"
   }
  },
  "laeufe": [
@@ -10931,6 +11942,14 @@
    "geaendert": 5,
    "unveraendert": 317,
    "accounts": 209
+  },
+  {
+   "zeit": "2026-11-16T14:32:23",
+   "gefunden": 508,
+   "neu": 172,
+   "geaendert": 5,
+   "unveraendert": 331,
+   "accounts": 194
   }
  ]
 }
